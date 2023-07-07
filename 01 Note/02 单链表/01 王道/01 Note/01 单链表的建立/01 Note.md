@@ -109,6 +109,10 @@
 
 ## 2.5 设置表尾指针 后插操作：在p结点之后插入元素e
 
+
+
+### 2.5.1 后插操作：在p结点之后插入元素e
+
 * ~~~C++
   //后插操作：在p结点之后插入元素e
   bool InsertNextNode(LNode *p, ElemType e)
@@ -125,16 +129,61 @@
   }
   ~~~
 
+
+
+### 2.5.2 图解后插操作：在p结点之后插入元素e
+
+* <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307061546379.png" alt="image-20230706154629282" style="zoom: 60%;" />
+
+
+
+### 2.5.3 设置一个表尾指针
+
+* <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307061547924.png" alt="image-20230706154715871" style="zoom:50%;" />
+
+
+
+### 2.5.4 在尾指针r之后插入数据元素e
+
+* <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307061552372.png" alt="image-20230706155258256" style="zoom: 60%;" />
+
+
+
+## 2.6 尾插法正向建立单链表 设置尾指针——时间复杂度O(n)
+
+* ~~~C++
+  LinkList List_TailInsert(LinkList &L){	//正向建立单链表
+      int x;	//设ElemType为整型
+      L=(LinkList)malloc(sizeof(LNode));	//建立头结点
+      LNode *s,*r=L;	//r为表尾指针
+      scanf("%d",&x); //输入结点的值
+      while(x!=9999){	//输入9999表示结束
+          s=(LNode *)malloc(sizeof(LNode));
+          s->data=x;
+          r->next=s;
+          r=s;	//r指向新的表尾结点
+          scanf("%d",&x);
+      }
+      r->next=NULL;	//尾结点指针置空
+      return L; 
+  }
+  ~~~
+
 * 
 
 
+
+## 2.6.1  尾插法正向建立单链表 设置尾指针——时间复杂度O(n)
+
+* <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307061708906.png" alt="image-20230706170855771" style="zoom:150%;" />
 
 
 
 # 3 头插法建立单链表
 
-* 对头结点的后插操作
-  * <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307011601429.png" alt="image-20230701160132363" style="zoom:50%;" />
+
+
+## 3.1 对头结点的后插操作
 
 * ~~~C++
   //后插操作：在p结点之后插入元素e
@@ -149,20 +198,28 @@
       s->next=p->next;
       p->next=s;	//将结点s连到p之后
       return true;
-  
+  }
   ~~~
 
-* 头插法建立单链表
 
-  * 初始化单链表
 
-  * ~~~C++
-    while 循环
-    {
-        每次取一个数据元素e;
-        InsertNextNode(L,e);
-    }
-    ~~~
+## 3.2 图解对头结点的后插操作
+
+* <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307061725058.png" alt="image-20230706172516991" style="zoom: 60%;" />
+
+
+
+## 3.2 头插法逆向建立单链表
+
+* ~~~C++
+  初始化单链表
+  
+  while 循环
+  {
+      每次取一个数据元素e;
+      InsertNextNode(L,e);
+  }
+  ~~~
 
 * ~~~C++
   LinkList List_HeadInsert(LinkList &L){	//逆向建立单链表
@@ -201,6 +258,35 @@
 
 
 
-## 3.1 头插法重要应用——链表的逆置
+## 3.3 图解头插法逆向建立单链表
 
-* <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307041418535.png" alt="image-20230704141839310" style="zoom: 200%;" />
+* <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307061809276.png" alt="image-20230706180930163" style="zoom:50%;" />
+
+
+
+
+
+## 3.4 头插法建立单链表，头结点的后插操作，代码复用
+
+* <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307061742688.png" alt="image-20230706174244587" style="zoom: 50%;" />
+
+
+
+## 3.5 头插法重要应用——链表的逆置
+
+* <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307041418535.png" alt="image-20230704141839310"  />
+
+
+
+# 4 头插法逆向链表 尾插法正向链表
+
+* <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307062023982.png" alt="image-20230706202334905" style="zoom: 67%;" />
+
+
+
+# 5 知识回顾与重要考点
+
+* 头插法、尾插法：核心就是初始化操作、指定结点的后插操作
+* 尾插法：注意设置一个指向表尾结点的指针
+
+* 头插法的重要应用：链表的逆置
