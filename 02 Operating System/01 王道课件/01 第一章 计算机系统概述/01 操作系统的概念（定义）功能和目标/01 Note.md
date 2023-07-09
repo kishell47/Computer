@@ -102,7 +102,22 @@
 
 #### 2.2.5 程序接口
 
+![image-20230709180626258](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307091806447.png)
 
 
 
+#### 2.2.6 总结
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307091835907.png" alt="image-20230709183538823"  />
+
+
+
+### 2.3 操作系统的功能和目标——作为最接近硬件的层次
+
+![image-20230709192534156](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307091925399.png)
+
+
+
+## 知识回顾与重要考点
+
+![image-20230709193400007](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307091934211.png)
