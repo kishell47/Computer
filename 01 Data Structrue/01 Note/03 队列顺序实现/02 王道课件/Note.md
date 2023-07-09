@@ -196,3 +196,22 @@ bool QueueEmpty(SqQueue Q){
 
 
 
+### 4.4.3 循环队列 入队 代码
+
+* ~~~C++
+  //入队
+  bool EnQueue(SqQueue &Q,ElemType x)
+  {
+      if((Q.rear+1)%MaxSize==Q.front) //判断队满
+          return false; //队满则报错
+      Q.data[Q.rear]=x; //新元素插入队尾
+      Q.rear=(Q.rear+1)%MaxSize; //队尾指针加1取模
+      return true;
+  }
+  ~~~
+
+
+
+### 4.4.4 循环队列 入队 图解
+
+* 
