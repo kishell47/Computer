@@ -30,4 +30,30 @@
 
 
 
+## 1.4 进程的状态
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307131812035.png" alt="image-20230713181253937" style="zoom:50%;" />
+
+
+
 # 2 进程状态的转换
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307131741345.png" alt="image-20230713174140110" style="zoom:50%;" />
+
+
+
+# 3 进程的组织——链接方式
+
+![image-20230715115304619](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307151153702.png)
+
+
+
+# 4 进程的组织——索引方式
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307151042016.png" alt="image-20230715104218826" style="zoom: 67%;" />
+
+
+
+# 5 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307151147842.png" alt="image-20230715114702691" style="zoom:50%;" />
