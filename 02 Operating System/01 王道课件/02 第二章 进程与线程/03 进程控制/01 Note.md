@@ -18,7 +18,7 @@
 
 ![image-20230715121433051](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307151214162.png)
 
-
+![image-20230716095632043](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307160956144.png)
 
 # 3 如何实现原语的“原子性”？
 
@@ -28,37 +28,44 @@
 
 # 4 进程控制相关的原语
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307151307673.png" alt="image-20230715130729571" style="zoom:50%;" />
 
 
-
-# 5 进程控制相关的原语
-
-
-
-## 5.1 进程的创建
+## 4.1 进程的创建
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307151308606.png" alt="image-20230715130809510" style="zoom:50%;" />
 
 
 
-## 5.2 进程的终止
+## 4.2 进程的终止
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307151332292.png" alt="image-20230715133230190" style="zoom:50%;" />
 
 
 
-## 5.3 进程的阻塞和唤醒
+## 4.3 进程的阻塞和唤醒
 
 ![image-20230715144118003](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307151441201.png)
 
 
 
-## 5.4 进程的切换
+## 4.4 进程的切换
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307151458272.png" alt="image-20230715145801197" style="zoom:50%;" />
+![image-20230716081835178](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307160818329.png)
 
 
 
-# 6 知识滚雪球：程序是如何运行的？
+## 4.5 知识滚雪球：程序是如何运行的？
 
+![image-20230716065231791](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307160652958.png)
+
+
+
+## 4.6 进程的切换将运行环境信息存入PCB
+
+![image-20230716091626120](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307160916401.png)
+
+
+
+# 5 知识回顾与重点考点
+
+![image-20230716092918866](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307160929566.png)
