@@ -12,10 +12,10 @@
 
 # 2 交换技术
 
-![image-20230717163026331](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307171630450.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307181215484.png" alt="image-20230718121530098" style="zoom:50%;" />
 
 ![image-20230717165404352](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307171654555.png)
 
 # 3 知识回顾与重点考点
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307171704474.png" alt="image-20230717170404329" style="zoom:50%;" />
+![image-20230718122443932](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307181224017.png)

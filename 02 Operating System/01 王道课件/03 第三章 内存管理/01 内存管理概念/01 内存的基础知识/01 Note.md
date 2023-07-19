@@ -8,7 +8,7 @@
 
 # 1 什么是内存？有何作用？
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307171043449.png" alt="image-20230717104312243" style="zoom: 67%;" />
+![image-20230718145535398](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307181455678.png)
 
 # 2 补充知识：几个常用的数量单位
 
