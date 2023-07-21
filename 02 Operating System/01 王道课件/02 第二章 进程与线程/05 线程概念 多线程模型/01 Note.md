@@ -8,11 +8,11 @@
 
 # 知识总览
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307161308746.png" alt="image-20230716130813576" style="zoom: 50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307161308746.png" alt="image-20230716130813576" style="zoom: 43%;" />
 
 # 1 什么是线程,为什么要引入线程?
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307161320793.png" alt="image-20230716132003615" style="zoom: 67%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307161320793.png" alt="image-20230716132003615" style="zoom: 50%;" />
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307161336596.png" alt="image-20230716133627448" style="zoom:50%;" />
 

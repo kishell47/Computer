@@ -18,4 +18,4 @@
 
 # 3 知识回顾与重点考点
 
-![image-20230718122443932](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307181224017.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307181224017.png" alt="image-20230718122443932" style="zoom:50%;" />
