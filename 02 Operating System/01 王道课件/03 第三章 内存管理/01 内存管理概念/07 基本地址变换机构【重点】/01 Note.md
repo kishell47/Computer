@@ -24,17 +24,17 @@
 
 ![image-20230725145056728](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307251450077.png)
 
+
+
 # 文字描述 逻辑地址到物理地址 转换过程
 
+![image-20230725160359239](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307251603586.png)
 
 
 
+# 题目
 
 
-
-# 基本地址变换机构
-
-![image-20230724214152707](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307242141953.png)
 
 ![image-20230724215047902](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307242150031.png)
 
