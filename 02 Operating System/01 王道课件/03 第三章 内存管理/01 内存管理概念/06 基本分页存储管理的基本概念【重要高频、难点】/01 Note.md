@@ -4,7 +4,7 @@
 
 # 知识总览
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307211445531.png" alt="image-20230721144544396" style="zoom:50%;" />
+![image-20230726092808949](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307260928149.png)
 
 
 
@@ -16,13 +16,13 @@
 
 # 2 什么是分页存储
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307241021634.png" alt="image-20230724102130412" style="zoom: 50%;" />
+![image-20230726103340940](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307261033301.png)
 
 
 
 # 3 重要的数据结构——页表
 
-![image-20230724102700600](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307241027803.png)
+![image-20230726104449582](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307261044819.png)
 
 
 
