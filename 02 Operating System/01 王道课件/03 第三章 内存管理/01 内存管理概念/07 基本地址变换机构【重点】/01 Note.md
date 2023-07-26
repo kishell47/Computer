@@ -32,18 +32,16 @@
 
 
 
-# 题目
+# 手动模拟 基本地址变址机构 题目
 
-
-
-![image-20230724215047902](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307242150031.png)
+![image-20230725211450047](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307252114267.png)
 
 
 
 # 对页表项大小的进一步探讨
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307242213722.png" alt="image-20230724221343539" style="zoom:50%;" />
+![image-20230726083536585](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307260835897.png)
 
 # 知识回顾与重要考点
 
-![image-20230724222645751](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307242226888.png)
+![image-20230726085857284](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307260858514.png)
