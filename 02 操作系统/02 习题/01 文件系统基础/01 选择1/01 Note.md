@@ -6,8 +6,5 @@
 
 # 解析
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308101419638.png" alt="image-20230810141954504" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308101631345.png" alt="image-20230810163108248" style="zoom: 50%;" />
 
-
-
-# 
