@@ -2,13 +2,13 @@
 
 
 
-# 填空题1 2 ' 线程的实现
+# 填空题1 2 ' 线程的实现✔
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307262142932.png" alt="image-20230726214234781"  />
 
 
 
-# 填空题2 1' Linux系统fork函数
+# 填空题2 1' Linux系统fork函数❌
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307262141929.png" alt="image-20230726214151788" style="zoom: 60%;" />
 
