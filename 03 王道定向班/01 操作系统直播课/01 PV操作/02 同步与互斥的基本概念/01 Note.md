@@ -4,7 +4,7 @@
 
 # 信号量
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308140929609.png" alt="image-20230814092930358" style="zoom:50%;" />
+![image-20230814113849470](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308141138004.png)
 
 
 
