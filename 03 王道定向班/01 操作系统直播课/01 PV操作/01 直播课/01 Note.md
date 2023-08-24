@@ -26,7 +26,7 @@
 
 ### 题目
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308200939471.png" alt="image-20230820093924340" style="zoom: 60%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308200939471.png" alt="image-20230820093924340" style="zoom: 50%;" />
 
 
 
@@ -42,9 +42,10 @@
 
 ### 题目
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308200941225.png" alt="image-20230820094141155" style="zoom:60%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308200941225.png" alt="image-20230820094141155" style="zoom: 50%;" />
 
 
 
 ### 解析
 
+![image-20230824181242534](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308241812099.png)
