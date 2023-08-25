@@ -20,27 +20,27 @@
 
 
 
-## 例题1 王道 P108 T7
+# 例题1 王道 P108 T7
 
 
 
-### 题目
+## 题目
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308200939471.png" alt="image-20230820093924340" style="zoom: 50%;" />
 
 
 
-### 解析
+## 解析
 
 ![image-20230820072953861](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308200729128.png)
 
 
 
-## 例题2 王道 P108 T8
+# 例题2 王道 P108 T8
 
 
 
-### 题目
+## 题目
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308200941225.png" alt="image-20230820094141155" style="zoom: 50%;" />
 
@@ -48,4 +48,12 @@
 
 ### 解析
 
+![image-20230824215459302](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308242154574.png)
+
 ![image-20230824181242534](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308241812099.png)
+
+
+
+# 哲学家进餐问题
+
+![image-20230825132338900](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308251323434.png)
