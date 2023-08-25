@@ -56,4 +56,8 @@
 
 # 哲学家进餐问题
 
-![image-20230825132338900](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308251323434.png)
+![image-20230825151314218](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308251513798.png)
+
+
+
+# 王道书 P112 T24
