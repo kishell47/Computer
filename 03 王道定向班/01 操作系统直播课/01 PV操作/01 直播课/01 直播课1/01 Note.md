@@ -61,3 +61,17 @@
 
 
 # 王道书 P112 T24
+
+
+
+# 题目
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308260733407.png" alt="image-20230826073324326" style="zoom: 50%;" />
+
+
+
+# 解析
+
+![image-20230826073251972](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308260732258.png)
+
+![image-20230826095253805](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308260952239.png)
