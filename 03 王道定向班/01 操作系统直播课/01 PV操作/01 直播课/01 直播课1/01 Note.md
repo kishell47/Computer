@@ -60,7 +60,10 @@
 
 
 
-# 王道书 P112 T24
+# 王道书 
+
+* 题目：P112 T24
+* 解析：P131
 
 
 
@@ -74,4 +77,6 @@
 
 ![image-20230826073251972](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308260732258.png)
 
-![image-20230826095253805](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308260952239.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308261011324.png" alt="image-20230826101109852" style="zoom: 45%;" />
+
+![image-20230826112810164](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308261128565.png)
