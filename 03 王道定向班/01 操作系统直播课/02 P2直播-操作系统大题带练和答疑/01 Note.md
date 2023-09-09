@@ -24,7 +24,7 @@
 
 # 骚图解析
 
-![image-20230906223230756](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309062232973.png)
+![image-20230907184056956](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309071840202.png)
 
 
 
