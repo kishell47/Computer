@@ -13,3 +13,17 @@
 ![image-20230908173346225](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309081733764.png)
 
 ![image-20230909164726457](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309091647754.png)
+
+![image-20230910002304821](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309100023607.png)
+
+
+
+# FAT文件系统
+
+![image-20230910150133775](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309101501089.png)
+
+
+
+# 其他问题
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309101621994.png" alt="image-20230910162117700" style="zoom:50%;" />
