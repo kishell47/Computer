@@ -16,7 +16,7 @@
 
 # 03 C语言创建顺序文件
 
-![image-20230913214136512](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309132141013.png)
+![image-20230913214557357](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309132145702.png)
 
 
 
