@@ -10,7 +10,7 @@
 
 # 02 连续分配 链接分配 索引分配
 
-![image-20230913174010830](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309131740060.png)
+![image-20230913215039642](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309132150038.png)
 
 
 
