@@ -2,6 +2,26 @@
 
 
 
+# 00 第四章 文件系统汇总
+
+![image-20230913163946615](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309131639030.png)
+
+
+
+# 01 文件逻辑结构vs文件物理结构
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309131633542.png" alt="image-20230913163349282"  />
+
+
+
+# 02 连续分配 链接分配 索引分配
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309131631389.png" alt="image-20230913163123005"  />
+
+
+
+
+
 # 文件的逻辑结构vs物理结构
 
 ![image-20230907224649923](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309072246922.png)
