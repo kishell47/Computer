@@ -2,19 +2,21 @@
 
 
 
-
-
-
-
 # 01 文件逻辑结构vs文件物理结构
 
-![image-20230913173324993](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309131733271.png)
+![image-20230913173921329](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309131739582.png)
 
 
 
 # 02 连续分配 链接分配 索引分配
 
-![image-20230913173602625](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309131736994.png)
+![image-20230913174010830](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309131740060.png)
+
+
+
+# 03 C语言创建顺序文件
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309131808335.png" alt="image-20230913180821273" style="zoom: 65%;" />
 
 
 
