@@ -4,7 +4,7 @@
 
 # 01 文件逻辑结构vs文件物理结构
 
-![image-20230913173921329](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309131739582.png)
+![image-20230913211033377](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309132110721.png)
 
 
 
@@ -16,7 +16,7 @@
 
 # 03 C语言创建顺序文件
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309131808335.png" alt="image-20230913180821273" style="zoom: 65%;" />
+![image-20230913214136512](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309132141013.png)
 
 
 
