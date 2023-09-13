@@ -10,13 +10,13 @@
 
 # 01 文件逻辑结构vs文件物理结构
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309131633542.png" alt="image-20230913163349282"  />
+![image-20230913165017088](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309131650256.png)
 
 
 
 # 02 连续分配 链接分配 索引分配
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309131631389.png" alt="image-20230913163123005"  />
+![image-20230913165037146](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309131650357.png)
 
 
 
