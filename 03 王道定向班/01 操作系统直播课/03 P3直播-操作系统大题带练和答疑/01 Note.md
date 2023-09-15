@@ -4,19 +4,45 @@
 
 # 01 文件逻辑结构vs文件物理结构
 
-![image-20230913211033377](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309132110721.png)
+![image-20230914072223237](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309140722387.png)
 
 
 
 # 02 连续分配 链接分配 索引分配
 
-![image-20230913215039642](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309132150038.png)
+![image-20230914072244971](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309140722204.png)
 
 
 
 # 03 C语言创建顺序文件
 
-![image-20230913214739605](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309132147093.png)
+![image-20230914115804968](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309141158748.png)
+
+
+
+# 04 顺序文件采用顺序存储/链式存储
+
+![image-20230914124201718](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309141242444.png)
+
+
+
+# 05 索引文件
+
+
+
+# 06 分块查找
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
