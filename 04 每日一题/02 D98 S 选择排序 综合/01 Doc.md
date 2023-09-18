@@ -14,8 +14,12 @@
 
 # 02 王道视频解析
 
-![image-20230917074817229](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309170748178.png)
+![shi](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309170748178.png)
+
+# 03 视频消化
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309181024285.png" alt="image-20230918102409764" style="zoom: 80%;" />
 
 
 
-# 03 灰灰计算机考研视频解析
+# 04 
