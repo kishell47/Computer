@@ -38,7 +38,7 @@
 
 # 06 抓码计算机考研视频解析
 
-![image-20230919193332664](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309191933072.png)
+![image-20230919193542724](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309191935095.png)
 
 ![image-20230919193408917](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309191934326.png)
 
