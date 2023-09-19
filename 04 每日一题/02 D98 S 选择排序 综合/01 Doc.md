@@ -32,13 +32,13 @@
 
 # 05 灰灰计算机考研视频解析
 
-![image-20230919192428088](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309191924036.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309191928909.png" alt="image-20230919192828751" style="zoom:50%;" />
 
 
 
 # 06 抓码计算机考研视频解析
 
-![image-20230919185211104](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309191852208.png)
+![image-20230919192856601](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309191928497.png)
 
 
 
