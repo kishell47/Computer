@@ -8,18 +8,40 @@
 
 # 01 题目
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309161515167.png" alt="image-20230916151516079" style="zoom: 67%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309181809153.png" alt="image-20230918180911077" style="zoom: 50%;" />
 
 
 
-# 02 王道视频解析
+# 02 视频消化
 
-![shi](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309170748178.png)
-
-# 03 视频消化
-
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309181024285.png" alt="image-20230918102409764" style="zoom: 80%;" />
+![image-20230918163903923](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309181639220.png)
 
 
 
-# 04 
+# 03 手动模拟简单选择排序
+
+![image-20230918154736503](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309181547053.png)
+
+
+
+# 04 手动模堆排序（大根堆）
+
+![image-20230918163937055](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309181639470.png)
+
+
+
+# 05 灰灰计算机考研视频解析
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309181716447.png" alt="image-20230918171638207" style="zoom:50%;" />
+
+
+
+# 06 抓码计算机考研视频解析
+
+
+
+
+
+# 07 快速排序
+
+![image-20230919141839975](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309191418818.png)
