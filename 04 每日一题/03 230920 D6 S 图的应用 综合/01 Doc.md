@@ -14,7 +14,9 @@
 
 # 02 待复习
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309201549345.png" alt="image-20230920154953154" style="zoom: 60%;" />
+![image-20230920162926130](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309201629476.png)
+
+
 
 
 
