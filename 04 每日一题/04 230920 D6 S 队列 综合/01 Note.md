@@ -1,22 +1,54 @@
-# 2019年应用题 T42
-
-* 王道书3.2.5大题4
+# 数据结构 第三章 栈、队列和数组
 
 
 
-# 题目
-
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308181541288.png" alt="image-20230818154137219" style="zoom:50%;" />
+# 3.2 综合 4
 
 
 
-# 题目解析
+# 01 题目
 
-![image-20230818194939451](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308181949147.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309221059503.png" alt="image-20230922105905425" style="zoom: 67%;" />
 
 
 
-# 链队列 顺序队列
+# 02 标准答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308181541272.png" alt="image-20230818154114097" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309221058874.png" alt="image-20230922105823692" style="zoom: 67%;" />
+
+
+
+# 03 解析
+
+![image-20230922110825891](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309221108487.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 
+
+
+
+
+
+
+
+# 
 
