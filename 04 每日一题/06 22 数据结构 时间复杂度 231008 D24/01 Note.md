@@ -10,7 +10,12 @@
 
 
 
-# 解析
+# 视频解析
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310081617495.png" alt="image-20231008161722391" style="zoom: 70%;" />
+![image-20231008192750597](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310081927898.png)
 
+
+
+# 循环的时间复杂度总结
+
+![image-20231008221211603](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310082212845.png)
