@@ -19,3 +19,9 @@
 # 循环的时间复杂度总结
 
 ![image-20231008221211603](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310082212845.png)
+
+
+
+# 视频消化
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310091056850.png" alt="image-20231009105604667" style="zoom: 60%;" />
