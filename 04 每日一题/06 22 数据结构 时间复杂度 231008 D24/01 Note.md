@@ -4,7 +4,7 @@
 
 # 背诵
 
-![image-20231010162057274](C:\Users\51532\AppData\Roaming\Typora\typora-user-images\image-20231010162057274.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310101625299.png" alt="image-20231010162520038" style="zoom:60%;" />
 
 
 
