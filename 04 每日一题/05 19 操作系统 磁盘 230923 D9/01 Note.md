@@ -30,6 +30,8 @@
 
 # 03 视频解析
 
+![image-20231011222348339](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310112223775.png)
+
 ![image-20230923160219905](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309231602567.png)
 
 
