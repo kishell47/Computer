@@ -22,9 +22,19 @@
 
 
 
-# 02 标准答案
+# 02 答案
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310131756479.png" alt="image-20231013175608167" style="zoom:50%;" />
 
 
+
+# 自己做
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310131707806.png" alt="image-20231013170705587" style="zoom:50%;" />
+
+# 视频消化
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310131706937.png" alt="image-20231013170644513" style="zoom:50%;" />
 
 
 
