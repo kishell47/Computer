@@ -42,6 +42,8 @@
 
 # 二叉树先/中/后序遍历总结
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310151354351.png" alt="image-20231015135413269" style="zoom:50%;" />
+
 
 
 
