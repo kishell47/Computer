@@ -36,7 +36,7 @@
 
 # 二叉搜索树/二叉排序树/二叉查找树BST
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310151439322.png" alt="image-20231015143921239" style="zoom:60%;" />
 
 
 
