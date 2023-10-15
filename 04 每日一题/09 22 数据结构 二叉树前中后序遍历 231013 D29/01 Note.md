@@ -34,4 +34,18 @@
 
 
 
-# 
+# 二叉搜索树/二叉排序树/二叉查找树BST
+
+
+
+
+
+# 二叉树先/中/后序遍历总结
+
+
+
+
+
+# 二叉树先/中/后序遍历
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310151122564.png" alt="image-20231015112219328" style="zoom:60%;" />
