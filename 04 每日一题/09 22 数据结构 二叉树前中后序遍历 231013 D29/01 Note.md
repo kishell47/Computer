@@ -6,7 +6,7 @@
 
 # 视频解析
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310141626440.png" alt="image-20231014162607228" style="zoom:50%;" />
+![image-20231016095205549](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310160952745.png)
 
 
 
