@@ -60,7 +60,7 @@
 
 # 二叉树的存储结构
 
-![image-20231017105715300](C:\Users\51532\AppData\Roaming\Typora\typora-user-images\image-20231017105715300.png)
+![](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310171431214.png)
 
 
 
