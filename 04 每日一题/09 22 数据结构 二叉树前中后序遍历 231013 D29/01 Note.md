@@ -57,3 +57,14 @@
 # 二叉树先/中/后序遍历
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310151122564.png" alt="image-20231015112219328" style="zoom:60%;" />
+
+# 二叉树的存储结构
+
+![image-20231017105715300](C:\Users\51532\AppData\Roaming\Typora\typora-user-images\image-20231017105715300.png)
+
+
+
+# 二叉树递归遍历代码题解题套路
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310171424165.png" alt="image-20231017142456971" style="zoom:60%;" />
+
