@@ -60,7 +60,7 @@
 
 # 二叉树的存储结构
 
-![](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310171431214.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310171449775.png" alt="image-20231017144912632" style="zoom:67%;" />
 
 
 
