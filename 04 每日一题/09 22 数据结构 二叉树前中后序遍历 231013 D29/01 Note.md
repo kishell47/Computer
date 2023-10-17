@@ -66,5 +66,5 @@
 
 # 二叉树递归遍历代码题解题套路
 
-![e](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310171527950.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310171737204.png" alt="image-20231017173750984" style="zoom:60%;" />
 
