@@ -66,5 +66,22 @@
 
 # 二叉树递归遍历代码题解题套路
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310171737204.png" alt="image-20231017173750984" style="zoom:60%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310171825052.png" alt="image-20231017182524792" style="zoom: 60%;" />
 
+​                  
+
+# 不是二叉排序树的三种情况
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310171837629.png" alt="image-20231017183758508" style="zoom: 67%;" />
+
+
+
+# 答案代码解析
+
+![image-20231018135056788](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310181350061.png)
+
+
+
+# 代码运行
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310181329302.png" alt="image-20231018132956133" style="zoom:50%;" />
