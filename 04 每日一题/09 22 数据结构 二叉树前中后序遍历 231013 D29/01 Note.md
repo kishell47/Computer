@@ -1,12 +1,12 @@
 # 题目
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310131829931.png" alt="image-20231013182958748" style="zoom: 60%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310131829931.png" alt="image-20231013182958748" style="zoom: 50%;" />
 
 
 
 # 答案
 
-![image-20231016100424844](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310161004211.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310181423838.png" alt="image-20231018142338653" style="zoom:50%;" />
 
 
 
