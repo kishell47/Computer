@@ -12,7 +12,7 @@
 
 # 背诵
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310111128946.png" alt="image-20231011112849740" style="zoom: 50%;" />
+![image-20231106141522090](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311061415636.png)
 
 
 
