@@ -6,9 +6,21 @@
 
 
 
-# 01 题目
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309201442391.png" alt="image-20230918180911077" style="zoom: 50%;" />
+
+# 背诵
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311071652671.png" alt="image-20231107165243526" style="zoom:50%;" />
+
+# 题目
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311071537412.png" alt="image-20231107153723325" style="zoom:50%;" />
+
+
+
+# 答案
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311071538524.png" alt="image-20231107153843407" style="zoom:50%;" />
 
 
 
