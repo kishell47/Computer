@@ -16,10 +16,10 @@
 
 # 02 王道视频解析
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311081955672.png" alt="image-20231108195541234" style="zoom:50%;" />
+![image-20231108195828872](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311081958515.png)
 
 
 
 # 03 答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309151644916.png" alt="image-20230915164454830" style="zoom: 67%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311081956238.png" style="zoom:50%;" />
