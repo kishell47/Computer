@@ -22,7 +22,7 @@
 
 # 答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311071538524.png" alt="image-20231107153843407" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311081956238.png" alt="image-20231108195647941" style="zoom:50%;" />
 
 
 
