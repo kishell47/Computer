@@ -16,7 +16,7 @@
 
 # 02 王道视频解析
 
-![image-20230915213157111](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309152131574.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311081950884.png" style="zoom:50%;" />311081950884.png)
 
 
 
