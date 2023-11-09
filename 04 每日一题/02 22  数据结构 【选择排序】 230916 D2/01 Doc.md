@@ -2,12 +2,6 @@
 
 
 
-# 8.4 综合 6
-
-
-
-
-
 # 背诵
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311081859657.png" alt="image-20231108185915017" style="zoom:50%;" />
@@ -26,13 +20,13 @@
 
 
 
-# 02 视频消化
+# 视频消化
 
 ![image-20230918163903923](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309181639220.png)
 
 
 
-# 03 手动模拟简单选择排序
+# 手动模拟简单选择排序
 
 ![image-20230918154736503](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309181547053.png)
 
