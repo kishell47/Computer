@@ -2,17 +2,9 @@
 
 
 
-# 4.1 综合 12
-
-* 王道书 P245
-
-
-
 # 背诵
 
-![image-20231109090035101](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311090900634.png)
-
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311091033627.png" alt="image-20231109103347837" style="zoom:50%;" />
 
 
 
