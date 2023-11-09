@@ -4,7 +4,7 @@
 
 # 背诵
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311091426169.png" alt="image-20231109142619696" style="zoom:50%;" />
+![image-20231109144844968](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311091448647.png)
 
 
 
