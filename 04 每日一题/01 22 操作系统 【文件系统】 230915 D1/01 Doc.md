@@ -4,13 +4,21 @@
 
 # 背诵
 
-![image-20231109151533794](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311091515259.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311091535037.png" alt="image-20231109153507806" style="zoom:50%;" />
 
 
 
 # 01 题目
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309151604186.png" alt="image-20230915160442079"  />
+
+
+
+# 视频消化
+
+![image-20231109152736562](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311091527956.png)
+
+
 
 
 
