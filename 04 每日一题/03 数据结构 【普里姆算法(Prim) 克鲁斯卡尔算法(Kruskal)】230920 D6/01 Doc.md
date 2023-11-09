@@ -2,15 +2,11 @@
 
 
 
-# 6.4 综合 12
-
-
-
 # 背诵
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311092054261.png" alt="image-20231109205424166" style="zoom:50%;" />
 
-
-# 01 题目
+# 题目
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309201549675.png" alt="image-20230920154903435" style="zoom: 67%;" />
 
