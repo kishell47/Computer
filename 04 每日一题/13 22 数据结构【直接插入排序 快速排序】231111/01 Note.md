@@ -1,6 +1,6 @@
 # 背诵
 
-<img src="C:\Users\51532\AppData\Roaming\Typora\typora-user-images\image-20231112180340359.png" alt="image-20231112180340359" style="zoom:50%;" />
+![image-20231112183056001](C:\Users\51532\AppData\Roaming\Typora\typora-user-images\image-20231112183056001.png)
 
 
 
