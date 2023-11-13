@@ -18,7 +18,7 @@
 
 # PV类题固定做题模式
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311131622164.png" alt="image-20231113162223069" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311132114914.png" alt="image-20231113211439808" style="zoom:50%;" />
 
 
 
