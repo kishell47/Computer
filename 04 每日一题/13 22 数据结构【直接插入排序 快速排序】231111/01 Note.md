@@ -1,20 +1,12 @@
 # 背诵
 
-![image-20231112183056001](C:\Users\51532\AppData\Roaming\Typora\typora-user-images\image-20231112183056001.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311131057810.png" alt="image-20231113105702634" style="zoom:50%;" />
 
 
 
 # 题目
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311111426925.png" style="zoom:50%;" />
-
-
-
-# 答案
-
-
-
-
 
 
 
