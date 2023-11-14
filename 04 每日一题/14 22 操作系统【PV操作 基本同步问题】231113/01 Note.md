@@ -1,6 +1,6 @@
 # 背诵
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311140730661.png" alt="image-20231114073059523" style="zoom:50%;" />
 
 
 
@@ -19,6 +19,14 @@
 # PV类题固定做题模式
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311132114914.png" alt="image-20231113211439808" style="zoom:50%;" />
+
+
+
+# 视频消化
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311140939269.png" alt="image-20231114093932109" style="zoom:50%;" />
+
+
 
 
 
