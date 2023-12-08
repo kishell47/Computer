@@ -2,6 +2,10 @@
 
 
 
+# 背诵
+
+
+
 # 问题描述
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202312080848273.png" alt="image-20231208084847405" style="zoom:50%;" />
