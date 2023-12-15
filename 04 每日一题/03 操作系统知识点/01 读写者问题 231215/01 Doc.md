@@ -4,15 +4,5 @@
 
 # 背诵
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202312151132123.png" alt="image-20231215113215049" style="zoom:50%;" />
-
-
-
-# 01
-
-![image-20231213224056749](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202312132240814.png)
-
-
-
-# 02
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202312152113278.png" alt="image-20231215211343833" style="zoom:50%;" />
 
