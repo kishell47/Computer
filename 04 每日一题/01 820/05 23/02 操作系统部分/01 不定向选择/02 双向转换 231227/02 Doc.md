@@ -13,3 +13,8 @@
 # 02 视频解析
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202312302143370.png" alt="image-20231230214307182" style="zoom:50%;" />
+
+
+
+# 进程的基本状态及转换
+
