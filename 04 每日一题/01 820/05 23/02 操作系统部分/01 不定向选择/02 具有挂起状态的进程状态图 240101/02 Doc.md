@@ -1,6 +1,6 @@
 # 00 背诵
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202312302137925.png" alt="image-20231230213739848" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401011628242.png" alt="image-20240101162830063" style="zoom:50%;" />
 
 
 
@@ -12,9 +12,10 @@
 
 # 02 视频解析
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202312302143370.png" alt="image-20231230214307182" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401011633371.png" alt="image-20240101163301214" style="zoom:50%;" />
 
 
 
-# 进程的基本状态及转换
 
+
+# 
