@@ -12,7 +12,7 @@
 
 # 02 视频解析
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401022138361.png" alt="image-20240102213829249" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401022209959.png" alt="image-20240102220910897" style="zoom:50%;" />
 
 
 
