@@ -12,9 +12,11 @@
 
 # 02 视频解析
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401030943626.png" alt="image-20240103094306521" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401031358103.png" alt="image-20240103135809969" style="zoom:50%;" />
 
 
 
-# 03 两级索引顺序文件
+# 03 索引顺序文件
+
+
 
