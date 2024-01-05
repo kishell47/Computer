@@ -6,7 +6,7 @@
 
 # 01 题目
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401051533696.png" alt="image-20240105153359518" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401052010088.png" alt="image-20240105201035893" style="zoom:50%;" />
 
 
 
@@ -14,7 +14,12 @@
 
 
 
+# 03 自用视频解析
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401052147998.png" alt="image-20240105214737853" style="zoom:50%;" />
 
 
-# 02 视频解析
 
+# 04 原视频解析
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401052137930.png" alt="image-20240105213705725" style="zoom:50%;" />
