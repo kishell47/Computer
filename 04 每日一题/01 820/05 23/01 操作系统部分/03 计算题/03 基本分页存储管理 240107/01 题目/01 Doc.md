@@ -20,11 +20,7 @@
 
 # 03 视频解析
 
-
-
-### 01 第(1)问
-
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401071421019.png" alt="image-20240107142126808" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401071440474.png" alt="02 视频解析" style="zoom: 50%;" />
 
 
 
