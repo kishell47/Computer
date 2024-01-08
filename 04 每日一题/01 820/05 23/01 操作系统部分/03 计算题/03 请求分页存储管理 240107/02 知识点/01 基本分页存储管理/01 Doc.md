@@ -10,4 +10,4 @@
 
 ## 02 页表
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401080955482.png" alt="image-20240108095517380" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401081009975.png" alt="image-20240108100915785" style="zoom: 43%;" />
