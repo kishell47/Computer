@@ -10,8 +10,9 @@
 
 ## 02 页表
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401081720372.png" alt="image-20240108172022100" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401081720372.png" alt="image-20240108172022100" style="zoom: 50%;" />
 
 
 
-## 03 
+## 03 问题1:每个页表项占多少字节
+
