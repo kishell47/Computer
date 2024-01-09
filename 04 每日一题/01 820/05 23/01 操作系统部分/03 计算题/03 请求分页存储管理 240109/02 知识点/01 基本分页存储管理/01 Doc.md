@@ -16,4 +16,4 @@
 
 ## 03 计算页表项占多少字节内存空间的计算方法
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401090932125.png" alt="image-20240109093225981" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401091027254.png" alt="image-20240109102709047" style="zoom:50%;" />
