@@ -28,5 +28,5 @@
 
 ### 04_1 子问题：如何确定一个逻辑地址对应的页号、页内偏移量
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401102041819.png" alt="image-20240110204110529" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401102045484.png" alt="image-20240110204500221" style="zoom:50%;" />
 
