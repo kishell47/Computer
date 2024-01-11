@@ -39,3 +39,11 @@
 
 
 # 05 逻辑地址结构
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401112041891.png" alt="image-20240111204153681" style="zoom:50%;" />
+
+
+
+# 06 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401112057462.png" alt="image-20240111205710276" style="zoom:50%;" />
