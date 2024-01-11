@@ -28,5 +28,14 @@
 
 ### 04_1 子问题：如何确定一个逻辑地址对应的页号、页内偏移量
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401102046384.png" alt="image-20240110204610121" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401111634906.png" alt="image-20240111163421123" style="zoom:50%;" />
 
+
+
+### 04_2 子问题：为何页面大小要取2的整数次幂
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401111830225.png" style="zoom:50%;" />
+
+
+
+# 05 逻辑地址结构
