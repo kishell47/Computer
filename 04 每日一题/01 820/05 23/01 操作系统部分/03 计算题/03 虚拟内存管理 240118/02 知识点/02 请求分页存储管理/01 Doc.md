@@ -6,4 +6,7 @@
 
 # 缺页中断机构
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401201041412.png" alt="image-20240120104149042" style="zoom:33%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401201051952.png" alt="image-20240120105100570" style="zoom:50%;" />
+
+# 地址变换机构
+
