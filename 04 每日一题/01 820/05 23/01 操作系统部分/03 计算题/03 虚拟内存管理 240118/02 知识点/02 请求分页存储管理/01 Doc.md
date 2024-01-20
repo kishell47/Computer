@@ -6,4 +6,4 @@
 
 # 缺页中断机构
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401201039374.png" alt="image-20240120103954995" style="zoom: 33%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401201041412.png" alt="image-20240120104149042" style="zoom:33%;" />
