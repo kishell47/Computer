@@ -46,4 +46,4 @@
 
 # 06 知识回顾与重要考点
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401112057462.png" alt="image-20240111205710276" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401211931575.png" alt="image-20240121193123340" style="zoom: 33%;" />
