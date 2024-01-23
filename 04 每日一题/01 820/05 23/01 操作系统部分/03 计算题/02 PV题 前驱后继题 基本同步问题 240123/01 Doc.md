@@ -14,6 +14,8 @@
 
 # 02 答案
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401230926556.png" alt="image-20240123092603370" style="zoom:33%;" />
+
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401160929584.png" alt="image-20240116092917457" style="zoom:50%;" />
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401051527898.png" alt="image-20240105152705780" style="zoom:50%;" />
