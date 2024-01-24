@@ -10,12 +10,16 @@
 
 
 
-# 02 视频解析
+# 02 答案
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401240812450.png" alt="image-20240124081258256" style="zoom:33%;" />
+
+# 03 视频解析
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202312271950116.png" alt="image-20231227195021974" style="zoom:50%;" />
 
 
 
-# 03 第1、2题的联系
+# 04 第1、2题的联系
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401020931554.png" alt="image-20240102093144484" style="zoom:50%;" />
