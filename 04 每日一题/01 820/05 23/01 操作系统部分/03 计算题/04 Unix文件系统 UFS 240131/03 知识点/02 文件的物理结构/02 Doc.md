@@ -28,4 +28,4 @@
 
 ## 03 混合索引
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401301725251.png" alt="image-20240130172551712" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401311446272.png" alt="image-20240131144645732" style="zoom:33%;" />
