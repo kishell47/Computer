@@ -21,4 +21,4 @@
 
 ## 02 知识点
 
-![image-20240201172139825](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402011721128.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402011747144.png" alt="image-20240201174758875" style="zoom:33%;" />
