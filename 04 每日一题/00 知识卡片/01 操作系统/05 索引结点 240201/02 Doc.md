@@ -21,4 +21,4 @@
 
 ## 02 知识点
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402011652713.png" alt="image-20240201165213017" style="zoom:50%;" />
+![image-20240201172139825](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402011721128.png)
