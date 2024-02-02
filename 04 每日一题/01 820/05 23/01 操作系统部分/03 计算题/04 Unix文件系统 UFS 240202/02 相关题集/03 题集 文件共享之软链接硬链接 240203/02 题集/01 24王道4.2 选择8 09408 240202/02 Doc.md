@@ -1,10 +1,10 @@
-# 24王道4.2选择8 09年
+# 24王道4.2选择8 09408
 
 
 
 # 背诵
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402021800473.png" alt="image-20240202180059356" style="zoom:50%;" />
 
 
 
