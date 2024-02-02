@@ -1,8 +1,24 @@
 # 文件共享之软链接硬链接
 
+
+
+## 01 总
+
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402021053821.png" alt="image-20240202105303429" style="zoom:50%;" />
 
 
 
+## 02 多个用户的目录项中对于同一共享文件的起名可以不同
 
+
+
+### 01 小题 1
+
+- [ ]  01 24王道4.2选择8 09 年408
+
+
+
+### 02 知识点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402021450543.png" alt="image-20240202145016161" style="zoom:50%;" />
 
