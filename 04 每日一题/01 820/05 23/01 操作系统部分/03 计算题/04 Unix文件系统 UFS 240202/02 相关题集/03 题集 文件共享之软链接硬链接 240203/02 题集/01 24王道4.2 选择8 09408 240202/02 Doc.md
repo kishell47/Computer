@@ -4,7 +4,7 @@
 
 # 背诵
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402021800473.png" alt="image-20240202180059356" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402030933786.png" alt="image-20240203093339925" style="zoom:50%;" />
 
 
 
@@ -22,11 +22,7 @@
 
 # 题目消化
 
-
-
-
-
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402030934337.png" alt="image-20240203093405756" style="zoom:50%;" />
 
 
 
