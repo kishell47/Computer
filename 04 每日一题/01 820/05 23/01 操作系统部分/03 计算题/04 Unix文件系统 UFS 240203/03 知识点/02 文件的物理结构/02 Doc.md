@@ -1,6 +1,6 @@
 # 01 文件分配方式/文件物理结构——索引分配
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401291645332.png" alt="image-20240129164505330" style="zoom: 33%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402031551474.png" style="zoom:50%;" />
 
 
 

@@ -122,3 +122,5 @@
 
 
 ### 02 知识点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402031452836.png" alt="image-20240203145237723" style="zoom:50%;" />
