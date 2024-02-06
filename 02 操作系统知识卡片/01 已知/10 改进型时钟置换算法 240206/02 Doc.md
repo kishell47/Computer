@@ -6,7 +6,7 @@
 
 - [ ] 01 改进型时钟置换算法
 
-
+ 	<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402060954131.png" alt="image-20240206095416052" style="zoom: 67%;" />
 
 ## 01 题集
 
@@ -14,9 +14,9 @@
 
 ### 01 小题  Z 1 N 1
 
-- [ ] 01 23820 计算题03  [04 Unix文件系统 UFS 240203](..\..\..\01 题集\01 820\05 23\01 操作系统\03 计算题\04 Unix文件系统 UFS 240203) 
+- [ ] 01 23820 计算题03  [03 虚拟内存管理 240205](..\..\..\01 题集\01 820\05 23\01 操作系统\03 计算题\03 虚拟内存管理 240205) 
 
-  <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402060928717.png" alt="01 23820 计算题03" style="zoom:50%;" />
+  <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402060957576.png" alt="01 23820 计算题03" style="zoom:50%;" />
   
   
 
