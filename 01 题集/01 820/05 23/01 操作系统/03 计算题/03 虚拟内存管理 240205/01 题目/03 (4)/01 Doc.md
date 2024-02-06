@@ -6,7 +6,7 @@
 
 # 题目
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401161538439.png" alt="image-20240116153807230" style="zoom:50%;" />
+<img src="C:\Users\51532\Desktop\Computer\02 操作系统知识卡片\01 已知\10 改进型时钟置换算法 240206\01 Pic\01 题集\01 23820 计算题03.png" alt="image-20240116153807230" style="zoom:50%;" />
 
 
 
