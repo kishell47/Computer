@@ -10,7 +10,7 @@
 
 ### 01 索引顺序文件的平均查找次数 背诵题目
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402061249218.png" alt="image-20240206124909158" style="zoom:50%;" />
+<img src="C:\Users\51532\Desktop\Computer\02 操作系统知识卡片\01 已知\09 索引顺序文件的平均查找次数 240206\01 Pic\00 背诵\00 背诵题目.png" alt="image-20240206124909158" style="zoom:50%;" />
 
 ### 02 索引顺序文件的平均查找次数 背诵答案
 
