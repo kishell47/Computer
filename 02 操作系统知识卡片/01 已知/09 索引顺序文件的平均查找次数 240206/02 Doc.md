@@ -26,7 +26,14 @@
 
 - [ ] 01 23820 填空04  [02 多级索引顺序文件 计算平均查找次数 240205 ×](..\..\..\01 题集\01 820\05 23\01 操作系统\02 填空题\02 多级索引顺序文件 计算平均查找次数 240205 ×) 
 
-  ![image-20240206091720726](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402060917800.png)
-  
   
 
+#### 01 23820 填空04 索引顺序文件的平均查找次数
+
+##### 01 题目
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402061406080.png" alt="01 题目" style="zoom:50%;" />
+
+##### 01 答案
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402061403862.png" alt="02 答案" style="zoom: 50%;" />
