@@ -14,7 +14,7 @@
 
 ### 02 背诵答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402060851826.png" alt="image-20240206085144720" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402061428137.png" alt="image-20240206142837062" style="zoom:50%;" />
 
 
 
@@ -38,4 +38,4 @@
 
 ##### 02 答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402060851826.png" alt="image-20240206085144720" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402061428137.png" style="zoom:50%;" />
