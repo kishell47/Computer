@@ -6,7 +6,7 @@
 
 - [ ] 01 改进型时钟置换算法
 
- 	<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402060954131.png" alt="image-20240206095416052" style="zoom: 67%;" />
+  <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402061041728.png" alt="image-20240206104102651" style="zoom:50%;" />
 
 ## 01 题集
 
