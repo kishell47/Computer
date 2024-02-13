@@ -19,7 +19,7 @@
 
 - [ ] 数据结构分块查找
 
-  <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402131739390.png" alt="image-20240213173929123" style="zoom:50%;" />
+  <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402131758930.png" alt="image-20240213175847651" style="zoom:50%;" />
 
 ## 02 文件的逻辑结构顺序文件能链式存储和顺序存储
 
