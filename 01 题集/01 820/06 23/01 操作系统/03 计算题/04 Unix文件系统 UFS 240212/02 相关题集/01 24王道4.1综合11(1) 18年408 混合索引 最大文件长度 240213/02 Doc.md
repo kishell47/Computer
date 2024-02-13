@@ -1,6 +1,6 @@
 # 01 背诵
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402130900489.png" alt="image-20240213090003060" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402131035177.png" alt="image-20240213103550226" style="zoom:50%;" />
 
 
 
@@ -22,7 +22,7 @@
 
 ## 01 文件控制块FCB 索引结点 混合索引的顶级索引表示意图
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402130755684.png" alt="image-20240213075541197" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402131035843.png" alt="image-20240213103513421" style="zoom:33%;" />
 
 # 05 视频解析
 
