@@ -8,7 +8,7 @@
 
 ### 01 知识点
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402141150441.png" alt="image-20240214115035325" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402141230617.png" alt="image-20240214123006448" style="zoom:50%;" />
 
 
 
@@ -25,4 +25,10 @@
 
 
 ## 02 例：C语言创建无结构文件
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402141722035.png" alt="image-20240214172250070" style="zoom:50%;" />
+
+
+
+## 03 例：C语言创建顺序文件
 
