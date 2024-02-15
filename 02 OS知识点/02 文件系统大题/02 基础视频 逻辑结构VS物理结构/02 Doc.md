@@ -36,7 +36,7 @@
 
 
 
-## 03 顺序文件的两种实现方式
+## 04 顺序文件的两种实现方式
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402151853671.png" alt="image-20240215185348201" style="zoom:50%;" />
 
@@ -44,6 +44,12 @@
 
 
 
-## 05 索引文件VS顺序文件
+## 05 随机访问
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402152222350.png" alt="image-20240215222207197" style="zoom:50%;" />
+
+
+
+## 06 索引文件VS顺序文件
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402151756147.png" alt="image-20240215175613748" style="zoom:50%;" />
