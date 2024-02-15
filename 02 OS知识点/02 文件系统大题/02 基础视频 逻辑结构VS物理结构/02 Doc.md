@@ -26,13 +26,13 @@
 
 ## 02 例：C语言创建无结构文件
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402141722035.png" alt="image-20240214172250070" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402151845589.png" alt="image-20240215184501679" style="zoom:50%;" />
 
 
 
 ## 03 例：C语言创建顺序文件
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402151241945.png" alt="image-20240215124114426" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402151843027.png" alt="image-20240215184327551" style="zoom:50%;" />
 
 
 
