@@ -32,7 +32,7 @@
 
 ## 03 例：C语言创建顺序文件
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402151231861.png" alt="image-20240215123151366" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402151241945.png" alt="image-20240215124114426" style="zoom:50%;" />
 
 
 
@@ -47,3 +47,11 @@
 ### 02 相关题目 1
 
 - [ ] 23820 填空03 [03 顺序文件 链式存储 240205](..\..\..\01 题集\01 820\06 23\01 操作系统\02 填空题\03 顺序文件 链式存储 240205) 
+
+
+
+
+
+## 04 索引文件VS顺序文件
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402151417403.png" alt="image-20240215141733199" style="zoom:50%;" />
