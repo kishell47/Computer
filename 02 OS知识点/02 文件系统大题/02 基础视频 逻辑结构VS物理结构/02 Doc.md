@@ -32,8 +32,18 @@
 
 ## 03 例：C语言创建顺序文件
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402151129251.png" alt="image-20240215112928711" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402151231861.png" alt="image-20240215123151366" style="zoom:50%;" />
 
 
 
 ## 03 顺序文件采用顺序存储/链式存储
+
+
+
+### 01 知识点
+
+
+
+### 02 相关题目 1
+
+- [ ] 23820 填空03 [03 顺序文件 链式存储 240205](..\..\..\01 题集\01 820\06 23\01 操作系统\02 填空题\03 顺序文件 链式存储 240205) 
