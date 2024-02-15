@@ -38,7 +38,7 @@
 
 ## 03 顺序文件的两种实现方式
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402151628810.png" alt="image-20240215162809637" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402151711273.png" alt="image-20240215171119977" style="zoom:50%;" />
 
 ### 01 知识点
 
@@ -54,4 +54,4 @@
 
 ## 04 索引文件VS顺序文件
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402151620342.png" alt="image-20240215162040023" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402151711013.png" alt="image-20240215171136685" style="zoom:50%;" />
