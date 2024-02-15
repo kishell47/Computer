@@ -36,7 +36,7 @@
 
 
 
-## 03 顺序文件采用顺序存储/链式存储
+## 03 顺序文件的两种实现方式
 
 
 
@@ -54,4 +54,4 @@
 
 ## 04 索引文件VS顺序文件
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402151510907.png" alt="image-20240215151000605" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402151620342.png" alt="image-20240215162040023" style="zoom:50%;" />
