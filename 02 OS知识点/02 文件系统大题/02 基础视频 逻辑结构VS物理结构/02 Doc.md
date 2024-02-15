@@ -38,7 +38,7 @@
 
 ## 03 顺序文件的两种实现方式
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402151717727.png" alt="image-20240215171703399" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402151756260.png" alt="image-20240215175559850" style="zoom:50%;" />
 
 ### 01 知识点
 
@@ -50,8 +50,12 @@
 
 
 
+## 04 链式存储的顺序文件采用连续分配
 
 
-## 04 索引文件VS顺序文件
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402151711013.png" alt="image-20240215171136685" style="zoom:50%;" />
+
+
+## 05 索引文件VS顺序文件
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402151756147.png" alt="image-20240215175613748" style="zoom:50%;" />
