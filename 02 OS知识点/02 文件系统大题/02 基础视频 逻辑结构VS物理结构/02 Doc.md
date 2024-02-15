@@ -32,4 +32,8 @@
 
 ## 03 例：C语言创建顺序文件
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402150855152.png" alt="image-20240215085512822" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402151129251.png" alt="image-20240215112928711" style="zoom:50%;" />
+
+
+
+## 03 顺序文件采用顺序存储/链式存储
