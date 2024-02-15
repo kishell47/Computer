@@ -38,7 +38,7 @@
 
 ## 03 顺序文件的两种实现方式
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402151852929.png" alt="image-20240215185238460" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402151853671.png" alt="image-20240215185348201" style="zoom:50%;" />
 
 - [ ] 23820 填空03 [03 顺序文件 链式存储 240205](..\..\..\01 题集\01 820\06 23\01 操作系统\02 填空题\03 顺序文件 链式存储 240205)
 
