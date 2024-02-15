@@ -54,4 +54,4 @@
 
 ## 04 索引文件VS顺序文件
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402151426059.png" alt="image-20240215142647890" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402151510907.png" alt="image-20240215151000605" style="zoom:50%;" />
