@@ -38,7 +38,7 @@
 
 ## 03 顺序文件的两种实现方式
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402151623698.png" alt="image-20240215162310530" style="zoom:50%;" />
 
 ### 01 知识点
 
