@@ -46,10 +46,14 @@
 
 ## 05 随机访问
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402152222350.png" alt="image-20240215222207197" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402152223632.png" alt="image-20240215222319506" style="zoom:50%;" />
+
+## 06 文件逻辑结构的顺序文件的链式存储VS文件物理结构的链接分配
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402160804830.png" alt="image-20240216080423320" style="zoom:50%;" />
 
 
 
-## 06 索引文件VS顺序文件
+## 07 索引文件VS顺序文件
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402151756147.png" alt="image-20240215175613748" style="zoom:50%;" />
