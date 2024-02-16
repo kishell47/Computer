@@ -48,12 +48,26 @@
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402152223632.png" alt="image-20240215222319506" style="zoom:50%;" />
 
-## 06 文件逻辑结构的顺序文件的链式存储VS文件物理结构的链接分配
+## 06 链式存储的顺序文件采用链接分配/连续分配
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402160841543.png" alt="image-20240216084151944" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402160900513.png" alt="image-20240216090041243" style="zoom:50%;" />
 
 
 
-## 07 索引文件VS顺序文件
+## 07 逻辑结构：索引文件
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402160928866.png" alt="image-20240216092825614" style="zoom:50%;" />
+
+
+
+## 08 索引文件采用索引分配
+
+
+
+
+
+
+
+## 09 索引文件VS顺序文件
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402151756147.png" alt="image-20240215175613748" style="zoom:50%;" />
