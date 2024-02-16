@@ -2,6 +2,12 @@
 
 
 
+## 00 逻辑结构VS物理结构 总结
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402161029179.png" alt="image-20240216102950082" style="zoom:50%;" />
+
+
+
 ## 01 文件逻辑结构分类 VS 文件物理结构分类
 
 
@@ -56,15 +62,13 @@
 
 ## 07 逻辑结构：索引文件
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402160948807.png" alt="image-20240216094852596" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402161004789.png" alt="image-20240216100415575" style="zoom:50%;" />
 
 
 
 ## 08 索引文件采用索引分配
 
-
-
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402161020691.png" alt="image-20240216102026450" style="zoom:50%;" />
 
 ## 09 索引文件VS顺序文件
 
