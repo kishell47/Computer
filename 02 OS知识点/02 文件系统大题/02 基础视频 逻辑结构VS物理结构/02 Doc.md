@@ -62,12 +62,10 @@
 
 ## 08 索引文件采用索引分配
 
-
-
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402160948807.png" alt="image-20240216094852596" style="zoom:50%;" />
 
 
 
 ## 09 索引文件VS顺序文件
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402151756147.png" alt="image-20240215175613748" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402160948993.png" alt="image-20240216094838629" style="zoom:50%;" />
