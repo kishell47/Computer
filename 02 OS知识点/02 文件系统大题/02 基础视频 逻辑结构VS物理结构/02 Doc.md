@@ -50,7 +50,7 @@
 
 ## 06 文件逻辑结构的顺序文件的链式存储VS文件物理结构的链接分配
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402160804830.png" alt="image-20240216080423320" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402160841543.png" alt="image-20240216084151944" style="zoom:50%;" />
 
 
 
