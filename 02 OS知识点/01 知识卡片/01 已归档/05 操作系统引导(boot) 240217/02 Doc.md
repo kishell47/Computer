@@ -52,7 +52,7 @@
 
 ### 04 磁盘分区C:盘
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402171759312.png" alt="image-20240217175951828" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402171831845.png" alt="image-20240217183135391" style="zoom:50%;" />
 
 
 
