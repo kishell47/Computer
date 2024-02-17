@@ -38,8 +38,9 @@
 
 #### 01 一个刚买来的磁盘(硬盘)
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402171711289.png" alt="image-20240217171106151" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402172204403.png" alt="image-20240217220435271" style="zoom:50%;" />
 
+- [ ]  [04 程序执行前需要先放到内存中才能被CPU处理 240217](..\04 程序执行前需要先放到内存中才能被CPU处理 240217)  1
 
 
 

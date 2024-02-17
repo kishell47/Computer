@@ -6,7 +6,7 @@
 
 # 01 磁盘=外存=硬盘
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402041435828.png" alt="image-20240204143510785" style="zoom: 67%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402172204200.png" alt="image-20240217220419116" style="zoom:50%;" />
 
 
 
