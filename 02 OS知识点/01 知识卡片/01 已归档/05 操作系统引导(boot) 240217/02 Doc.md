@@ -46,11 +46,11 @@
 
 ### 03 安装了操作系统后的磁盘(硬盘)
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402171645741.png" alt="image-20240217164531614" style="zoom: 50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402171714199.png" style="zoom:50%;" />
 
 
 
-### 03_03 磁盘分区C:盘
+### 04 磁盘分区C:盘
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402041916306.png" alt="image-20240204191627162" style="zoom:50%;" />
 
