@@ -4,7 +4,13 @@
 
 ## 00_00 背诵
 
-- [ ] 01 操作系统引导(开机过程)
+
+
+### 01 总览
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402171625526.png" alt="image-20240217162547416" style="zoom:50%;" />
+
+### 02 操作系统引导(开机过程)
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402051020698.png" alt="image-20240205102055467" style="zoom:50%;" />
 
