@@ -38,13 +38,13 @@
 
 #### 01 一个刚买来的磁盘(硬盘)
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402041658849.png" alt="image-20240204165845629" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402171711289.png" alt="image-20240217171106151" style="zoom:50%;" />
 
 
 
 
 
-### 03_02 安装了操作系统后的磁盘(硬盘)
+### 03 安装了操作系统后的磁盘(硬盘)
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402171645741.png" alt="image-20240217164531614" style="zoom: 50%;" />
 
