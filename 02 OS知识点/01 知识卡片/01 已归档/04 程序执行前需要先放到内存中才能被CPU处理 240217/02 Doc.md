@@ -18,15 +18,4 @@
 
 # 03 程序执行前要放入内存中才能被CPU执行——为了缓和CPU和磁盘的速度矛盾
 
-
-
-## 01 知识点
-
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402041521004.png" alt="image-20240204152121947" style="zoom:50%;" />
-
-
-
-## 02 问题
-
-- [ ] 问题：那么程序是如何从外存中调入内存中的呢？
-
+![image-20240217221110303](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402172211369.png)
