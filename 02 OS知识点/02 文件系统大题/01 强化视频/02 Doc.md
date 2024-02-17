@@ -13,7 +13,7 @@
 - [ ] 文件的物理结构链接分配——显式链接FAT
 - [ ] 数据结构静态链表
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402141005823.png" alt="image-20240214100505631" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402170931779.png" alt="01 总" style="zoom:50%;" />
 
 
 
