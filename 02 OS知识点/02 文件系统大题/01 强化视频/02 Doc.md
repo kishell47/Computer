@@ -1,6 +1,14 @@
 # 00 背诵
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402171011866.png" alt="image-20240217101157703" style="zoom:50%;" />
+
+
+## 01 文件记录 文件物理结构
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402171051525.png" alt="image-20240217105140303" style="zoom:50%;" />
+
+## 02 FAT 
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402171109203.png" alt="image-20240217110917038" style="zoom:50%;" />
 
 
 
