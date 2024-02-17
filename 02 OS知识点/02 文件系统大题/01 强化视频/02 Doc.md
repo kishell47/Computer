@@ -15,7 +15,7 @@
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402170931779.png" alt="01 总" style="zoom:50%;" />
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402170935262.png" alt="image-20240217093515653" style="zoom:50%;" />
 
 ### 02 文件逻辑结构分类VS文件物理结构分类
 
