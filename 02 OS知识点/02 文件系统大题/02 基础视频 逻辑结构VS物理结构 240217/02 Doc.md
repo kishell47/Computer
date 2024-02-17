@@ -62,7 +62,7 @@
 
 ## 07 逻辑结构：索引文件
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402171513072.png" alt="image-20240217151352791" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402171516005.png" alt="image-20240217151639754" style="zoom:50%;" />
 
 - [ ] 数据结构分块查找
 
