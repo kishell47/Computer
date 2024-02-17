@@ -8,7 +8,9 @@
 
 ### 01 总览
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402171625526.png" alt="image-20240217162547416" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402171631368.png" alt="image-20240217163120214" style="zoom:50%;" />
+
+
 
 ### 02 操作系统引导(开机过程)
 
