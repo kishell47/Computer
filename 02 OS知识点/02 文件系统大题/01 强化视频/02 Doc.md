@@ -1,3 +1,11 @@
+# 00 背诵
+
+* <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402170954184.png" alt="image-20240217095424060" style="zoom:50%;" />
+
+
+
+
+
 # 01 作业
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402131409451.png" alt="image-20240213140926382" style="zoom:50%;" />
@@ -8,14 +16,12 @@
 
 
 
-### 01 总览
+## 01 总览
 
 - [ ] 文件的物理结构链接分配——显式链接FAT
 - [ ] 数据结构静态链表
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402170931779.png" alt="01 总" style="zoom:50%;" />
-
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402170935262.png" alt="image-20240217093515653" style="zoom:50%;" />
 
 ### 02 文件逻辑结构分类VS文件物理结构分类
 
