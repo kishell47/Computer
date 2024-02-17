@@ -8,7 +8,7 @@
 
 ## 02 FAT 
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402171130775.png" alt="image-20240217113010613" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402171146951.png" alt="image-20240217114610782" style="zoom:50%;" />
 
 - [ ] FAT访问文件某一块的过程
 
