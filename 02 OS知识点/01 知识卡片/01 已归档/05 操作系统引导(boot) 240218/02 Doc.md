@@ -47,7 +47,7 @@
 
 ### 03 安装了操作系统后的磁盘(硬盘)
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402181106458.png" alt="image-20240218110650263" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402181126726.png" alt="image-20240218112636395" style="zoom:50%;" />
 
 
 
@@ -78,5 +78,5 @@
 
 ### 04_02 操作系统引导过程(开机过程)
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402050948890.png" alt="image-20240205094825470" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402181158926.png" alt="image-20240218115859391" style="zoom:50%;" />
 
