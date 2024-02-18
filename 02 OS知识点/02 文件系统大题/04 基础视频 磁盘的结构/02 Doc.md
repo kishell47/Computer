@@ -10,4 +10,8 @@
 
 *   [01 磁盘 平均延迟 240218 ×](..\..\..\01 题集\01 820\06 23\01 OS\02 填空题\01 磁盘 平均延迟 240218 ×)  1
 
-![image-20240218175552648](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402181755074.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402182049007.png" style="zoom:50%;" />
+
+
+
+## 03 如何在磁盘中读/写数据
