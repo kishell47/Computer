@@ -10,4 +10,4 @@
 
 *  [01 磁盘 平均延迟 240218](..\..\..\01 题集\01 820\06 23\01 OS\02 填空题\01 磁盘 平均延迟 240218)  1
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402181556035.png" alt="image-20240218155601858" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402181606022.png" alt="image-20240218160647767" style="zoom:50%;" />
