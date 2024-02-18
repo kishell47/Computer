@@ -16,4 +16,4 @@
 
 ## 03 如何在磁盘中读/写数据
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402182202484.png" alt="image-20240218220223238" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402182205800.png" alt="image-20240218220546531" style="zoom:50%;" />
