@@ -47,7 +47,7 @@
 
 ### 03 安装了操作系统后的磁盘(硬盘)
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402171714199.png" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402181029317.png" alt="image-20240218102952041" style="zoom: 50%;" />
 
 
 
