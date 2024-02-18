@@ -41,4 +41,4 @@
 
 - [ ] [05 操作系统引导(boot) 240217](..\..\01 知识卡片\01 已归档\05 操作系统引导(boot) 240217) 
 
-  <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402181015949.png" alt="image-20240218101506759" style="zoom:50%;" />
+  <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402181035396.png" alt="image-20240218103502287" style="zoom:50%;" />
