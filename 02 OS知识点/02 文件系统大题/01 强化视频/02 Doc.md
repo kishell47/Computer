@@ -41,7 +41,7 @@
 
 - [ ]  [05 操作系统引导(boot) 240218](..\..\01 知识卡片\01 已归档\05 操作系统引导(boot) 240218) 
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402182116165.png" alt="image-20240218211610028" style="zoom:50%;" />
 
 
 ## 02 磁盘初始化
