@@ -28,3 +28,4 @@
 
 ## 05 磁盘的物理地址
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402191148726.png" alt="image-20240219114806297" style="zoom:50%;" />
