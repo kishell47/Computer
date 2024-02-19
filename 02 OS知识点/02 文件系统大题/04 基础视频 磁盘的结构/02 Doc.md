@@ -8,7 +8,7 @@
 
 ## 02 磁盘 磁道 扇区
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402190826506.png" alt="image-20240219082610950" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402190841014.png" alt="image-20240219084126443" style="zoom:50%;" />
 
 
 
