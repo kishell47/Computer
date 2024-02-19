@@ -17,3 +17,9 @@
 - [ ]  [01 磁盘 平均延迟 240218 ×](..\..\..\01 题集\01 820\06 23\01 OS\02 填空题\01 磁盘 平均延迟 240218 ×) 1
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402190825723.png" alt="image-20240219082528398" style="zoom:50%;" />
+
+
+
+## 04 盘面柱面
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402191000658.png" alt="image-20240219100035325" style="zoom:50%;" />
