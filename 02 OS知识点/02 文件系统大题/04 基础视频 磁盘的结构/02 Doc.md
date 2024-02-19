@@ -34,6 +34,8 @@
 
 ## 06 磁盘根据磁盘物理地址结构(柱面号，盘面号，扇区号)来读取指定扇区/磁盘块中的数据
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402191510645.png" alt="image-20240219151012419" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402191519163.png" alt="image-20240219151909961" style="zoom:50%;" />
 
-# 
+## 07 磁盘的分类
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402191534835.png" alt="image-20240219153433657" style="zoom:50%;" />
