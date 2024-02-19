@@ -32,8 +32,8 @@
 
 
 
-## 06 磁盘根据(柱面号，盘面号，扇区号)这种地址形式来读取指定扇区/磁盘块
+## 06 磁盘根据磁盘物理地址结构(柱面号，盘面号，扇区号)来读取指定扇区/磁盘块中的数据
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402191451255.png" alt="image-20240219145128054" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402191507021.png" alt="image-20240219150714805" style="zoom:50%;" />
 
 # 
