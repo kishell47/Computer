@@ -28,4 +28,12 @@
 
 ## 05 磁盘的物理地址
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402191148726.png" alt="image-20240219114806297" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402191442039.png" alt="image-20240219144251487" style="zoom:50%;" />
+
+
+
+## 06 磁盘根据(柱面号，盘面号，扇区号)这种地址形式来读取指定扇区/磁盘块
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402191451255.png" alt="image-20240219145128054" style="zoom:50%;" />
+
+# 
