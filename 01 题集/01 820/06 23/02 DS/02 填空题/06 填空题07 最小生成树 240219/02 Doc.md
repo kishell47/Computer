@@ -4,4 +4,4 @@
 
 # 02 视频解析
 
-![image-20240219220021673](C:\Users\51532\AppData\Roaming\Typora\typora-user-images\image-20240219220021673.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402192203026.png" alt="image-20240219220352967" style="zoom:50%;" />
