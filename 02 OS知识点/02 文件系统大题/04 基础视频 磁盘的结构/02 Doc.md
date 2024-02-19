@@ -20,6 +20,6 @@
 
 
 
-## 04 盘面柱面
+## 04 盘面 柱面
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402191000658.png" alt="image-20240219100035325" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402191004561.png" alt="image-20240219100425360" style="zoom:50%;" />
