@@ -39,3 +39,7 @@
 ## 07 磁盘的分类
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402191534835.png" alt="image-20240219153433657" style="zoom:50%;" />
+
+## 08 知识点回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402191623989.png" alt="image-20240219162353822" style="zoom:50%;" />
