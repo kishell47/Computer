@@ -22,13 +22,13 @@
 
 ## 04 盘面 柱面
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402191016254.png" alt="image-20240219101644017" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402191710645.png" alt="image-20240219171014383" style="zoom:50%;" />
 
 
 
 ## 05 磁盘的物理地址
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402191442039.png" alt="image-20240219144251487" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402191714975.png" alt="image-20240219171456417" style="zoom:50%;" />
 
 
 
