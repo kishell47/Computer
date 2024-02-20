@@ -1,3 +1,3 @@
 # FAT
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402201128224.png" alt="02 FAT" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402201343531.png" alt="image-20240220134356391" style="zoom:50%;" />
