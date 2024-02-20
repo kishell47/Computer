@@ -16,4 +16,4 @@
 
 * [03 基础视频 磁盘的管理](..\03 基础视频 磁盘的管理) 
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402200928056.png" alt="image-20240220092819742" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402200935805.png" alt="image-20240220093551475" style="zoom:50%;" />
