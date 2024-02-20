@@ -5,7 +5,6 @@
 ## 01 磁盘初始化
 
 *  [04 基础视频 磁盘的结构 240219](..\04 基础视频 磁盘的结构 240219) 
-*   [05 操作系统引导(boot) 240218](..\..\01 知识卡片\01 已归档\05 操作系统引导(boot) 240218) 
-*  
+*  [05 操作系统引导(boot) 240218](..\..\01 知识卡片\01 已归档\05 操作系统引导(boot) 240218) 
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402192037095.png" alt="image-20240219203716063" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402200914850.png" alt="image-20240220091459594" style="zoom:50%;" />
