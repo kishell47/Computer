@@ -44,4 +44,16 @@
 
 #### 02 文件块 磁盘块
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402211501777.png" alt="image-20240221150152398" style="zoom:50%;" />
+
+
+##### 01 磁盘分块 磁盘块
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402212047454.png" alt="image-20240221204753246" style="zoom:50%;" />
+
+
+
+##### 02 磁盘的磁盘块大小=内存的内存块大小=进程的页面大小的好处
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402212050179.png" alt="image-20240221205052058" style="zoom:50%;" />
+
+##### 03 文件逻辑地址分块 文件块
