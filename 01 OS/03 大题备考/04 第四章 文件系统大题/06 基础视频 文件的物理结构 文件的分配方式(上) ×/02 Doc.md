@@ -57,3 +57,10 @@
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402212050179.png" alt="image-20240221205052058" style="zoom:50%;" />
 
 ##### 03 外存管理 文件逻辑地址空间分块 文件块
+
+* 01 外存管理 文件逻辑地址空间分块 文件块
+* 02 进程的逻辑地址 文件的逻辑地址
+* 03 文件块VS磁盘块
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402212135506.png" alt="image-20240221213553375" style="zoom:50%;" />
+
