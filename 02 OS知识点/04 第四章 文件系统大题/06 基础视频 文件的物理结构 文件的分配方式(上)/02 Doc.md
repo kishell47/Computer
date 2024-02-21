@@ -40,6 +40,8 @@
 
 *  [10 磁盘块 扇区 240221](..\..\01 知识卡片\01 已归档\10 磁盘块 扇区 240221) 
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402211502667.png" alt="01 磁盘块 扇区" style="zoom:50%;" />
 
 #### 02 文件块 磁盘块
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402211501777.png" alt="image-20240221150152398" style="zoom:50%;" />
