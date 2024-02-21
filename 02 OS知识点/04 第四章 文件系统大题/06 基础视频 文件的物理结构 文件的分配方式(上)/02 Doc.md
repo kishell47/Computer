@@ -8,4 +8,7 @@
 
 * [12 文件物理结构 文件分配方式 240220](..\..\01 知识卡片\01 已归档\12 文件物理结构 文件分配方式 240220) 
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402201502990.png" alt="image-20240220150251794" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402210843478.png" alt="image-20240221084308249" style="zoom:50%;" />
+
+## 02 文件块 磁盘块
+
