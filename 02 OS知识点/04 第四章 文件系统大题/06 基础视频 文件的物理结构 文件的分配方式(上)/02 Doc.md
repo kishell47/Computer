@@ -28,7 +28,7 @@
 
 *  [01 基础视频 基本分页存储管理的基本概念 240221](..\..\03 第三章 内存管理大题\01 基础视频 基本分页存储管理的基本概念 240221) 
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402210941975.png" alt="image-20240221094115761" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402211045575.png" alt="03 内存分页" style="zoom:50%;" />
 
 
 
