@@ -56,4 +56,4 @@
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402212050179.png" alt="image-20240221205052058" style="zoom:50%;" />
 
-##### 03 文件逻辑地址分块 文件块
+##### 03 外存管理 文件逻辑地址空间分块 文件块
