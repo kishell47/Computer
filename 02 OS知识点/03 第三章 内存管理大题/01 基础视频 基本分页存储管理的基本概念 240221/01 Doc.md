@@ -4,7 +4,7 @@
 
 ## 01 分页存储
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402211044787.png" alt="image-20240221104422301" style="zoom:50%;" />
+![image-20240221105516728](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402211055075.png)
 
 
 
