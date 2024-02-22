@@ -62,3 +62,7 @@
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402210917224.png" alt="02 文件物理结构 文件分配方式" style="zoom:50%;" />
 
+
+
+## 12 文件 外存 内存 进程
+
