@@ -4,4 +4,4 @@
 
 # 02 视频解析
 
-![image-20240223150238038](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402231502261.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402231519669.png" alt="image-20240223151924484" style="zoom:50%;" />
