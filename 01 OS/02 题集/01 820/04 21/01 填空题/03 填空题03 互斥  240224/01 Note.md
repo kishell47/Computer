@@ -1,15 +1,15 @@
-# 背诵
+# 00 背诵
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310271119580.png" alt="image-20231027111914516" style="zoom:50%;" />
 
 
 
-# 题目
+# 01 题目
 
 ![image-20231019180127971](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310191801054.png)
 
 
 
-# 视频解析
+# 02 视频解析
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310191808462.png" alt="image-20231019180807372" style="zoom:50%;" />
