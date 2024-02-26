@@ -12,9 +12,7 @@
 
 # 01 题目
 
-![image-20231019151405133](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310191514239.png)
-
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402260750104.png" alt="image-20240226075048984" style="zoom:67%;" />
 
 # 02 答案
 
