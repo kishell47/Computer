@@ -16,7 +16,7 @@
 
 # 02 答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310271612249.png" alt="image-20231027161259011" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402261031047.png" alt="image-20240226103132879" style="zoom:50%;" />
 
 
 
