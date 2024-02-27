@@ -6,4 +6,4 @@
 
 # 02 知识点
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402271618907.png" alt="image-20240227161803792" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402272051297.png" alt="image-20240227205151181" style="zoom:50%;" />
