@@ -6,4 +6,4 @@
 
 # 02 题目解析
 
-<img src="C:\Users\51532\AppData\Roaming\Typora\typora-user-images\image-20240216125441865.png" alt="image-20240216125441865" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403011909239.png" alt="image-20240301190907048" style="zoom:50%;" />
