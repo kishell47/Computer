@@ -1,6 +1,6 @@
 # 01 快速排序
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403011852563.png" alt="image-20240301185233339" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403011855231.png" alt="image-20240301185556973" style="zoom:50%;" />
 
 
 
