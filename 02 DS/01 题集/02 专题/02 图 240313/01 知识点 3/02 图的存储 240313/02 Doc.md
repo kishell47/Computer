@@ -4,4 +4,4 @@
 
 # 02 知识点
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402281054043.png" alt="image-20240228105400973" style="zoom:50%;" />
+![image-20240313205358364](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403132053510.png)
