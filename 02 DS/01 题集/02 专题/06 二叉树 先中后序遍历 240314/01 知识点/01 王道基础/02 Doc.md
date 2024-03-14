@@ -8,4 +8,6 @@
 
 # 02 二叉树 遍历
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403141438387.png" alt="image-20240314143838028" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403141626925.png" alt="image-20240314162617668" style="zoom:50%;" />
+
+# 03 二叉树 先中后序(根)遍历 手算练习
