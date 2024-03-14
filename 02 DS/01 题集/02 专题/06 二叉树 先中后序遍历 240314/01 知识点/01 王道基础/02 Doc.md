@@ -12,5 +12,5 @@
 
 # 03 二叉树 先中后序(根)遍历 手算练习
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403141847403.png" alt="image-20240314184712078" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403142049634.png" alt="image-20240314204913112" style="zoom:50%;" />
 
