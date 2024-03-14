@@ -8,4 +8,4 @@
 
 # 02 二叉树 遍历
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403141059789.png" alt="image-20240314105900532" style="zoom:33%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403141108029.png" alt="image-20240314110846805" style="zoom:50%;" />
