@@ -6,5 +6,6 @@
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403140838979.png" alt="image-20240314083851712" style="zoom: 67%;" />
 
-# 02 什么是遍历
+# 02 二叉树 遍历
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403141059789.png" alt="image-20240314105900532" style="zoom:33%;" />
