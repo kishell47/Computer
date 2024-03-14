@@ -11,3 +11,8 @@
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403141626925.png" alt="image-20240314162617668" style="zoom:50%;" />
 
 # 03 二叉树 先中后序(根)遍历 手算练习
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403141847403.png" alt="image-20240314184712078" style="zoom:50%;" />
+
+# 04 二叉树 先中后序(根)遍历 分支结点逐层展开法
+
