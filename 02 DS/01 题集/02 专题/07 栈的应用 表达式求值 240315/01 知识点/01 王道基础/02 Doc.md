@@ -14,9 +14,10 @@
 
 
 
-# 03 波兰数学家的灵感
+# 03 波兰数学家的灵感 前缀表达式 后缀表达式
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403151004016.png" alt="image-20240315100431958" style="zoom:50%;" />
 
 
 
+# 04 中缀表达式 手算转换 后缀表达式 前缀表达式
