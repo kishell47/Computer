@@ -16,7 +16,7 @@
 
 # 03 波兰数学家的灵感
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403150954736.png" alt="image-20240315095437678" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403151004016.png" alt="image-20240315100431958" style="zoom:50%;" />
 
 
 
