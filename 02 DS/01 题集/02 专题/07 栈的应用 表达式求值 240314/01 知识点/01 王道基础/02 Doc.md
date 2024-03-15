@@ -10,4 +10,13 @@
 
 # 02 熟悉的算术表达式 中缀表达式 组成
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403150900215.png" alt="image-20240315090034113" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403150904524.png" alt="image-20240315090424422" style="zoom:50%;" />
+
+
+
+# 03 波兰数学家的灵感
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403150954736.png" alt="image-20240315095437678" style="zoom:50%;" />
+
+
+
