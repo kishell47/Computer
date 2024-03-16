@@ -52,6 +52,9 @@
 
 # 04 专业课抽题
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403161829603.png" alt="image-20240316182938472" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403161851557.png" alt="image-20240316185148427" style="zoom:50%;" />
 
-# 05 
+
+
+# 05 九门学习
+
