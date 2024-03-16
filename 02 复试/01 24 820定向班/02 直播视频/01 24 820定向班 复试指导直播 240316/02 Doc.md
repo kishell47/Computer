@@ -1,4 +1,4 @@
-# 23 820定向班 复试指导直播
+# 24 820定向班 复试指导直播
 
 
 
@@ -59,3 +59,6 @@
 # 05 7门学习
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403161917778.png" alt="image-20240316191710656" style="zoom:50%;" />
+
+# 05 简历准备
+

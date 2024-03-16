@@ -20,4 +20,9 @@
 
 
 
-# 04 中缀表达式 手算转换 后缀表达式 前缀表达式
+# 04 中缀表达式 手算转换 后缀表达式
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403162015192.png" alt="image-20240316201517834" style="zoom:50%;" />
+
+# 05 后缀表达式的计算 手算
+
