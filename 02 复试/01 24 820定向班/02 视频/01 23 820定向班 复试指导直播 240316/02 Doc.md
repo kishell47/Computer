@@ -28,3 +28,8 @@
 
 ## 04 复试内容及流程
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403161011334.png" alt="image-20240316101128160" style="zoom:50%;" />
+
+
+
+## 
