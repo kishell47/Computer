@@ -32,5 +32,14 @@
 
 
 
-## 05 英语面试
+# 02 英语面试
 
+
+
+## 01 英语面试流程
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403161037734.png" alt="image-20240316103715619" style="zoom:50%;" />
+
+
+
+## 02 
