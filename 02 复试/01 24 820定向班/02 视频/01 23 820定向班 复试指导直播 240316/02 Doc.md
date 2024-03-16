@@ -44,3 +44,7 @@
 
 ## 02 常见英语面试题
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403161146486.png" alt="image-20240316114605297" style="zoom:50%;" />
+
+# 03 C语言笔试
+
