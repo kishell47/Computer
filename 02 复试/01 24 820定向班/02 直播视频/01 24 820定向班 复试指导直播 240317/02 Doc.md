@@ -62,3 +62,9 @@
 
 # 05 简历准备
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403170748553.png" alt="image-20240317074826368" style="zoom:50%;" />
+
+
+
+# 06 找导师及发邮件
+
