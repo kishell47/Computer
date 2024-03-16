@@ -29,3 +29,5 @@
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403162155186.png" style="zoom:50%;" />
 
 # 05 后缀表达式 机算方法 用栈
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403162243042.png" alt="image-20240316224301803" style="zoom:50%;" />
