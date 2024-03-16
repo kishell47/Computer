@@ -16,3 +16,10 @@
 
 ## 02 各专业复试分数线
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403160857761.png" alt="image-20240316085748689" style="zoom:50%;" />
+
+
+
+## 03 复试时间安排
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403160924771.png" alt="image-20240316092402618" style="zoom:50%;" />
