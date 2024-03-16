@@ -49,3 +49,9 @@
 # 03 C语言笔试
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403161333287.png" alt="image-20240316133334116" style="zoom:50%;" />
+
+# 04 专业课抽题
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403161829603.png" alt="image-20240316182938472" style="zoom:50%;" />
+
+# 05 
