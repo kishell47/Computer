@@ -38,4 +38,8 @@
 
 # 08 前缀表达式 机算方法 用栈
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403171717407.png" alt="image-20240317171704245" style="zoom: 50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403171724698.png" alt="image-20240317172435535" style="zoom:50%;" />
+
+# 09 表达式求值问题 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403171745650.png" alt="image-20240317174557499" style="zoom:50%;" />
