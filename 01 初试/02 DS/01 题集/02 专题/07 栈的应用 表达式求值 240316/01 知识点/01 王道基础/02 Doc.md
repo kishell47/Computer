@@ -33,3 +33,7 @@
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403171443760.png" alt="image-20240317144328389" style="zoom:50%;" />
 
 # 07 中缀表达式 手算转换 前缀表达式
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403171552768.png" alt="image-20240317155240491" style="zoom:50%;" />
+
+# 08
