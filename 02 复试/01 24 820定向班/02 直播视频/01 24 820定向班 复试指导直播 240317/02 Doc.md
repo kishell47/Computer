@@ -66,5 +66,21 @@
 
 
 
-# 06 找导师及发邮件
+# 06 选择导师及发邮件
+
+
+
+## 01 导师筛选
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403170843522.png" alt="12 导师筛选" style="zoom:50%;" />
+
+
+
+## 02 发邮件
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403170832367.png" alt="image-20240317083259186" style="zoom:50%;" />
+
+
+
+# 07 其他
 
