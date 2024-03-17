@@ -22,7 +22,7 @@
 
 # 04 中缀表达式 手算转换 后缀表达式
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403171500858.png" alt="image-20240317150051483" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403171512557.png" alt="image-20240317151247171" style="zoom:50%;" />
 
 # 05 后缀表达式 手算方法
 
