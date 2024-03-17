@@ -48,7 +48,9 @@
 
 # 03 C语言笔试
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403161333287.png" alt="image-20240316133334116" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403170846465.png" alt="image-20240317084653338" style="zoom:50%;" />
+
+
 
 # 04 专业课抽题
 
@@ -62,7 +64,7 @@
 
 # 05 简历准备
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403170748553.png" alt="image-20240317074826368" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403170909797.png" alt="image-20240317090910607" style="zoom:50%;" />
 
 
 
@@ -78,7 +80,7 @@
 
 ## 02 发邮件
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403170832367.png" alt="image-20240317083259186" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403170850298.png" alt="image-20240317085006116" style="zoom:50%;" />
 
 
 
