@@ -30,10 +30,12 @@
 
 # 06 后缀表达式 机算方法 用栈
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403171644419.png" alt="image-20240317164432102" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403171718511.png" alt="image-20240317171825217" style="zoom:50%;" />
 
 # 07 中缀表达式 手算转换 前缀表达式
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403171630560.png" alt="image-20240317163014253" style="zoom:50%;" />
 
 # 08 前缀表达式 机算方法 用栈
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403171717407.png" alt="image-20240317171704245" style="zoom: 50%;" />
