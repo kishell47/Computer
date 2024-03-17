@@ -34,6 +34,6 @@
 
 # 07 中缀表达式 手算转换 前缀表达式
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403171552768.png" alt="image-20240317155240491" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403171630560.png" alt="image-20240317163014253" style="zoom:50%;" />
 
 # 08
