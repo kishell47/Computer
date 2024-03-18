@@ -12,4 +12,8 @@
 
 # 04 用栈实现 中缀表达式的计算
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403181805841.png" alt="image-20240318180536455" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403181910019.png" alt="image-20240318191018597" style="zoom:50%;" />
+
+# 05 栈的应用 表达式求值 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403181916909.png" alt="image-20240318191642821" style="zoom:50%;" />
