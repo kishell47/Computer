@@ -8,3 +8,6 @@
 
 # 03 中缀表达式 机算转换 后缀表达式 用栈
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403181418015.png" alt="image-20240318141803247" style="zoom:50%;" />
+
+# 04 用栈实现 中缀表达式的计算
