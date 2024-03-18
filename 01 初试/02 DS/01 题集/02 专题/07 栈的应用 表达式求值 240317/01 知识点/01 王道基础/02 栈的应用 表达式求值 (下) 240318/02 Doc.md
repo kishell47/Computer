@@ -11,3 +11,5 @@
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403181419329.png" alt="image-20240318141927936" style="zoom:50%;" />
 
 # 04 用栈实现 中缀表达式的计算
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403181805841.png" alt="image-20240318180536455" style="zoom:50%;" />
