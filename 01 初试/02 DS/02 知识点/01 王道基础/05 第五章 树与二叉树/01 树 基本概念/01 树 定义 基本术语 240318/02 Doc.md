@@ -6,3 +6,5 @@
 
 # 02 树 基本概念
 
+<img src="C:\Users\51532\AppData\Roaming\Typora\typora-user-images\image-20240319070307378.png" alt="image-20240319070307378" style="zoom:50%;" />
+
