@@ -16,4 +16,8 @@
 
 
 
-# 04 
+# 04 结点之间 关系描述
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403191001846.png" alt="image-20240319100143432" style="zoom:50%;" />
+
+# 05 
