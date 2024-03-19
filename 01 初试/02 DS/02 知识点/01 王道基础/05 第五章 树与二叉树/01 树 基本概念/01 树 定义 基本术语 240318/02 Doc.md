@@ -20,4 +20,6 @@
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403191001846.png" alt="image-20240319100143432" style="zoom:50%;" />
 
-# 05 
+# 05 结点 树 属性描述
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403191043891.png" alt="image-20240319104338719" style="zoom:50%;" />
