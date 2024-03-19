@@ -20,6 +20,22 @@
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403191001846.png" alt="image-20240319100143432" style="zoom:50%;" />
 
+
+
 # 05 结点 树 属性描述
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403191043891.png" alt="image-20240319104338719" style="zoom:50%;" />
+
+# 06 有序树 无序树
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403191116670.png" alt="image-20240319111612564" style="zoom:50%;" />
+
+
+
+# 07 树 森林
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403191139957.png" alt="image-20240319113959872" style="zoom:50%;" />
+
+
+
+# 08 树 定义 基本术语 知识回顾与重要考点
