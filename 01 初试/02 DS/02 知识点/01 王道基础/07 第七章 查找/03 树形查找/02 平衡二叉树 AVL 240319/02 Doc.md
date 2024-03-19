@@ -38,3 +38,4 @@
 
 # 07 代码思路 右旋 左旋
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403192143690.png" alt="image-20240319214337419" style="zoom:50%;" />
