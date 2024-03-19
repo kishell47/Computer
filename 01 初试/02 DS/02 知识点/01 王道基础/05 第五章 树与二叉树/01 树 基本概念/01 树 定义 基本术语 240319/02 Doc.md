@@ -40,4 +40,4 @@
 
 # 08 树 定义 基本术语 知识回顾与重要考点
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403191151972.png" alt="image-20240319115107886" style="zoom: 67%;" />
+![image-20240319213452317](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403192134532.png)

@@ -32,3 +32,9 @@
 
 # 06 调整最小不平衡子树 RR
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403192030290.png" alt="image-20240319203030952" style="zoom:50%;" />
+
+
+
+# 07 代码思路 右旋 左旋
+
