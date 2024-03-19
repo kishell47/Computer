@@ -42,3 +42,4 @@
 
 # 08 调整最小不平衡子树 LR
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403192251500.png" alt="image-20240319225156327" style="zoom:50%;" />
