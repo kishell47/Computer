@@ -60,10 +60,25 @@
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403200952657.png" alt="image-20240320095237443" style="zoom:67%;" />
 
+
+
 # 12 练习1 RR型
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403201047973.png" alt="image-20240320104741873" style="zoom:50%;" />
 
+
+
 # 13 练习2 RL型
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403201148358.png" alt="image-20240320114830167" style="zoom:50%;" />
+
+
+
+# 14 练习3 LR型
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403201400485.png" alt="image-20240320140039388" style="zoom:50%;" />
+
+
+
+# 15 查找效率分析
+
