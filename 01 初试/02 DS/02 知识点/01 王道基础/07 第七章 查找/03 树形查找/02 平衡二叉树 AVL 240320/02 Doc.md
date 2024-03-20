@@ -54,7 +54,7 @@
 
 # 10 调整最小不平衡子树 汇总
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403200900954.png" alt="image-20240320090030687" style="zoom:67%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403200900954.png" alt="image-20240320090030687" style="zoom: 50%;" />
 
 # 11 每次调整的对象 最小不平衡子树
 
@@ -62,4 +62,8 @@
 
 # 12 练习1 RR型
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403201044137.png" alt="image-20240320104406978" style="zoom: 67%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403201047973.png" alt="image-20240320104741873" style="zoom:50%;" />
+
+# 13 练习2 RL型
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403201148358.png" alt="image-20240320114830167" style="zoom:50%;" />
