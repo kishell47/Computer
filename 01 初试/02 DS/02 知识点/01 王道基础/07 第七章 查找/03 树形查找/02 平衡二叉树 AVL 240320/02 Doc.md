@@ -86,3 +86,4 @@
 
 # 16 平衡二叉树 AVL 知识回顾与重要考点
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403201544534.png" alt="image-20240320154439408" style="zoom:50%;" />
