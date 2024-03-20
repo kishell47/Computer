@@ -59,3 +59,7 @@
 # 11 每次调整的对象 最小不平衡子树
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403200952657.png" alt="image-20240320095237443" style="zoom:67%;" />
+
+# 12 练习1 RR型
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403201044137.png" alt="image-20240320104406978" style="zoom: 67%;" />
