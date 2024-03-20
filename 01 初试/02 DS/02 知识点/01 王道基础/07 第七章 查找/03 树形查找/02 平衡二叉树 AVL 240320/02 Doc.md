@@ -82,3 +82,7 @@
 
 # 15 查找效率分析
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403201526792.png" alt="image-20240320152635557" style="zoom: 50%;" />
+
+# 16 平衡二叉树 AVL 知识回顾与重要考点
+
