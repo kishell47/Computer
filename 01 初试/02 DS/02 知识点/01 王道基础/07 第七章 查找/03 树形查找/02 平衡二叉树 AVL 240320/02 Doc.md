@@ -49,3 +49,11 @@
 # 09 调整最小不平衡子树 RL
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403200821734.png" alt="image-20240320082159417" style="zoom:50%;" />
+
+
+
+# 10 调整最小不平衡子树 汇总
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403200900954.png" alt="image-20240320090030687" style="zoom:67%;" />
+
+# 11 每次调整的对象 最小不平衡子树
