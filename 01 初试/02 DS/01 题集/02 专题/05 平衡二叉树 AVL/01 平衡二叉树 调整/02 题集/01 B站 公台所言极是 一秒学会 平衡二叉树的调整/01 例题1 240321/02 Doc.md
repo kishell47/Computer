@@ -4,4 +4,4 @@
 
 # 02 答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403202239768.png" alt="image-20240320223924673" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403210805314.png" alt="image-20240321080520210" style="zoom:50%;" />
