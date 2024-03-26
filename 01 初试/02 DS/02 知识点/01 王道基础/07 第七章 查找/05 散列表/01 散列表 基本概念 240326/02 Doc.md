@@ -8,5 +8,10 @@
 
 
 
-# 01 散列表 基本概念 知识总览
+# 02 散列表 散列函数
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403261640577.png" alt="image-20240326164043241" style="zoom:50%;" />
+
+
+
+# 03 冲突 同义词
