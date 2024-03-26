@@ -15,3 +15,9 @@
 
 
 # 03 冲突 同义词
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403261752408.png" alt="image-20240326175202125" style="zoom:50%;" />
+
+
+
+# 04 如何减少冲突
