@@ -21,3 +21,9 @@
 
 
 # 04 如何减少冲突
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403261904110.png" alt="image-20240326190402800" style="zoom:50%;" />
+
+
+
+# 05 若冲突无法避免 如何处理冲突
