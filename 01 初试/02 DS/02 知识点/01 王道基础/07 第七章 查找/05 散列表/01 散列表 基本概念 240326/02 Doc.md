@@ -27,3 +27,11 @@
 
 
 # 05 若冲突无法避免 如何处理冲突
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403262030609.png" alt="image-20240326203059288" style="zoom:50%;" />
+
+
+
+# 06 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403262047679.png" alt="image-20240326204715520" style="zoom: 67%;" />
