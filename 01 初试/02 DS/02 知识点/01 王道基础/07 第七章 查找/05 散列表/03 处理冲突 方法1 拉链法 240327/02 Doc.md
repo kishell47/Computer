@@ -38,4 +38,4 @@
 
 # 08 拓展：插入操作的小优化
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403271757431.png" alt="image-20240327175739345" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403271824467.png" alt="image-20240327182405358" style="zoom:50%;" />
