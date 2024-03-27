@@ -21,3 +21,7 @@
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403271047086.png" alt="image-20240327104702970" style="zoom:50%;" />
 
 # 05 散列函数 构造方法3 数学分析法
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403271122005.png" alt="image-20240327112211887" style="zoom:50%;" />
+
+# 06 散列函数 构造方法4 平方取中法
