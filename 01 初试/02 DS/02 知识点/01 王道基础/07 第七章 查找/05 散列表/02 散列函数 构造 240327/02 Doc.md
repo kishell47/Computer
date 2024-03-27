@@ -25,3 +25,9 @@
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403271122005.png" alt="image-20240327112211887" style="zoom:50%;" />
 
 # 06 散列函数 构造方法4 平方取中法
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403271342368.png" alt="image-20240327134258194" style="zoom:50%;" />
+
+# 07 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403271357963.png" alt="image-20240327135759786" style="zoom: 67%;" />
