@@ -15,3 +15,9 @@
 
 
 # 03 散列表 插入操作 拉链法 解决冲突
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403271551812.png" alt="image-20240327155134391" style="zoom:50%;" />
+
+
+
+# 04 散列表 查找操作 拉链法 解决冲突
