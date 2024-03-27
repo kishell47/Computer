@@ -23,3 +23,16 @@
 # 04 散列表 查找操作 拉链法 解决冲突
 
 ![image-20240327163844194](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403271638499.png)
+
+# 05 散列表 删除操作 拉链法 解决冲突
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403271718942.png" alt="image-20240327171809788" style="zoom:50%;" />
+
+# 06 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403271731067.png" alt="image-20240327173139990" style="zoom:67%;" />
+
+
+
+# 07 传送门
+
