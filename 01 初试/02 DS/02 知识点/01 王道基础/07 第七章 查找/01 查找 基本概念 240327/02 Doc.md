@@ -9,3 +9,15 @@
 
 
 # 02 查找 基本概念
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403272033822.png" alt="image-20240327203306575" style="zoom:50%;" />
+
+# 03 对查找表的常见操作
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403272058872.png" alt="image-20240327205821764" style="zoom:50%;" />
+
+
+
+# 04 查找算法的评价指标
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403272111918.png" alt="image-20240327211116852" style="zoom:50%;" />
