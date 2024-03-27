@@ -20,4 +20,8 @@
 
 # 04 查找算法的评价指标
 
-![image-20240327221348732](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403272213919.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403272213919.png" alt="image-20240327221348732" style="zoom:50%;" />
+
+# 05 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403272222616.png" alt="image-20240327222259544" style="zoom:50%;" />
