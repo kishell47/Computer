@@ -18,6 +18,6 @@
 
 # 04 散列函数 构造方法2 直接定址法
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403271028531.png" alt="image-20240327102835408" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403271047086.png" alt="image-20240327104702970" style="zoom:50%;" />
 
 # 05 散列函数 构造方法3 数学分析法
