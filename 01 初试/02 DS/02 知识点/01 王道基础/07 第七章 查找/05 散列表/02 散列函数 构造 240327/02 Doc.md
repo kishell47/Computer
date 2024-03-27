@@ -20,4 +20,4 @@
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403271028531.png" alt="image-20240327102835408" style="zoom:50%;" />
 
-# 05 散列函数 构造方法3 
+# 05 散列函数 构造方法3 数学分析法
