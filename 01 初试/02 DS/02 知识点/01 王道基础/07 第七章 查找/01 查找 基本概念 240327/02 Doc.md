@@ -20,4 +20,4 @@
 
 # 04 查找算法的评价指标
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403272111918.png" alt="image-20240327211116852" style="zoom:50%;" />
+![image-20240327221348732](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403272213919.png)
