@@ -32,7 +32,8 @@
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403271731067.png" alt="image-20240327173139990" style="zoom:67%;" />
 
-
-
 # 07 传送门
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403271738510.png" alt="image-20240327173811451" style="zoom: 67%;" />
+
+# 08 拓展：插入操作的小优化
