@@ -15,3 +15,10 @@
 
 
 # 03 哈夫曼树 定义
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403281852218.png" alt="image-20240328185221101" style="zoom:50%;" />
+
+
+
+# 04 哈夫曼树 构造
+
