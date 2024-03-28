@@ -22,3 +22,10 @@
 
 # 04 哈夫曼树 构造
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403282140249.png" alt="image-20240328214057807" style="zoom: 50%;" />
+
+
+
+# 05 哈夫曼树经典应用 哈夫曼编码
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403282243444.png" alt="image-20240328224355252" style="zoom:50%;" />
