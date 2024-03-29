@@ -29,3 +29,9 @@
 # 05 哈夫曼树经典应用 哈夫曼编码
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403290815130.png" alt="image-20240329081550728" style="zoom:50%;" />
+
+
+
+# 06 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403290832967.png" alt="image-20240329083214866" style="zoom:50%;" />
