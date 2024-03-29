@@ -28,4 +28,4 @@
 
 # 05 哈夫曼树经典应用 哈夫曼编码
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403282243444.png" alt="image-20240328224355252" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403290815130.png" alt="image-20240329081550728" style="zoom:50%;" />
