@@ -16,6 +16,9 @@
 
 
 
-# 04 几个特殊的二叉树 满二叉树 完全二叉树
+# 04 特殊的二叉树 满二叉树 完全二叉树
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403312012436.png" alt="image-20240331201226358" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404010710064.png" alt="image-20240401071006266" style="zoom:50%;" />
+
+# 05 特殊的二叉树 二叉排序树
+
