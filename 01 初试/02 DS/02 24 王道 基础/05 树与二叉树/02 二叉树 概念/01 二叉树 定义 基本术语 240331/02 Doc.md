@@ -16,6 +16,6 @@
 
 
 
-# 04 几个特殊的二叉树
+# 04 几个特殊的二叉树 满二叉树 完全二叉树
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403312012436.png" alt="image-20240331201226358" style="zoom:50%;" />
