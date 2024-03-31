@@ -14,3 +14,4 @@
 
 # 03 二叉树 顺序存储
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403311054506.png" alt="image-20240331105427372" style="zoom:50%;" />
