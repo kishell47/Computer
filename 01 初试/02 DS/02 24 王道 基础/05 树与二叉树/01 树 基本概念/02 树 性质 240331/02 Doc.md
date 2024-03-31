@@ -35,3 +35,9 @@
 # 06 树 常考性质6
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403311601620.png" alt="image-20240331160159508" style="zoom:50%;" />
+
+
+
+# 07 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403311613282.png" alt="image-20240331161307219" style="zoom: 67%;" />
