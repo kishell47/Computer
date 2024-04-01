@@ -15,3 +15,13 @@
 # 03 二叉树 性质3
 
 <img src="C:\Users\51532\AppData\Roaming\Typora\typora-user-images\image-20240331175547929.png" alt="image-20240331175547929" style="zoom:50%;" />
+
+
+
+# 04 完全二叉树 性质1
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404011142282.png" alt="image-20240401114242901" style="zoom:50%;" />
+
+
+
+# 05 完全二叉树 性质2
