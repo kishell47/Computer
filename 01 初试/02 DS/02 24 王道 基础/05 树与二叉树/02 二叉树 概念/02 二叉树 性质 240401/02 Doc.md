@@ -14,7 +14,7 @@
 
 # 03 二叉树 性质3
 
-<img src="C:\Users\51532\AppData\Roaming\Typora\typora-user-images\image-20240331175547929.png" alt="image-20240331175547929" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404011633291.png" alt="03 二叉树 性质3" style="zoom:50%;" />
 
 
 
