@@ -22,3 +22,14 @@
 
 # 05 特殊的二叉树 二叉排序树
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404010825638.png" alt="image-20240401082527488" style="zoom:50%;" />
+
+
+
+# 06 特殊的二叉树 平衡二叉树
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404010917506.png" alt="image-20240401091741205" style="zoom:50%;" />
+
+
+
+# 07 知识回顾与重要考点
