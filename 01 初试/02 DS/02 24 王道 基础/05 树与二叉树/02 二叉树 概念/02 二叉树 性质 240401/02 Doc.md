@@ -25,3 +25,11 @@
 
 
 # 05 完全二叉树 性质2
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404011342376.png" alt="image-20240401134229225" style="zoom:50%;" />
+
+
+
+# 06 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404011347448.png" alt="image-20240401134704392" style="zoom:50%;" />
