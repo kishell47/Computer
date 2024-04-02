@@ -43,3 +43,7 @@
 # 08 树的存储2 孩子表示法
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404021907491.png" alt="image-20240402190711235" style="zoom:50%;" />
+
+
+
+# 09 拓展 孩子表示法 存储森林
