@@ -55,3 +55,16 @@
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404022110491.png" alt="image-20240402211027137" style="zoom:50%;" />
 
 # 11 树的存储3 孩子兄弟表示法
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404030652375.png" alt="image-20240403065238168" style="zoom:50%;" />
+
+
+
+# 12 孩子兄弟表示法 存储森林
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404030722767.png" alt="image-20240403072214673" style="zoom:50%;" />
+
+
+
+# 13 知识回顾与重要考点
+
