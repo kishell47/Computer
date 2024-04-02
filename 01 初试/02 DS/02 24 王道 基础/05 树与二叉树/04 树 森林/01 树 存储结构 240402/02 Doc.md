@@ -36,3 +36,8 @@
 
 # 07 双亲表示法 优缺点
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404021827480.png" alt="image-20240402182749304" style="zoom:50%;" />
+
+
+
+# 08 树的存储2 孩子表示法
