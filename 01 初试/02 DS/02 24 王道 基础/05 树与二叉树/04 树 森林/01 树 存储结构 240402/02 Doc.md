@@ -12,6 +12,12 @@
 
 
 
-# 03 二叉树 顺序存储
+# 03 回顾 二叉树 顺序存储
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403311054506.png" alt="image-20240331105427372" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404021628951.png" alt="image-20240402162806841" style="zoom:50%;" />
+
+
+
+# 04 如何实现树的顺序存储
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404021628511.png" alt="image-20240402162857381" style="zoom:50%;" />
