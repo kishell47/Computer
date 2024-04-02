@@ -31,3 +31,8 @@
 # 06 拓展 双亲表示法 存储森林
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404021734623.png" alt="image-20240402173446436" style="zoom:50%;" />
+
+
+
+# 07 双亲表示法 优缺点
+
