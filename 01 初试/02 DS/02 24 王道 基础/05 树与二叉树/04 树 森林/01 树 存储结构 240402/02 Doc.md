@@ -53,3 +53,5 @@
 # 10 孩子表示法 优缺点
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404022110491.png" alt="image-20240402211027137" style="zoom:50%;" />
+
+# 11 树的存储3 孩子兄弟表示法
