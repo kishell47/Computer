@@ -21,3 +21,9 @@
 # 04 如何实现树的顺序存储
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404021628511.png" alt="image-20240402162857381" style="zoom:50%;" />
+
+
+
+# 05 树的存储1 双亲表示法
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404021655806.png" alt="image-20240402165543701" style="zoom:50%;" />
