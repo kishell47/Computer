@@ -47,3 +47,5 @@
 
 
 # 09 拓展 孩子表示法 存储森林
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404022022146.png" alt="image-20240402202247912" style="zoom:50%;" />
