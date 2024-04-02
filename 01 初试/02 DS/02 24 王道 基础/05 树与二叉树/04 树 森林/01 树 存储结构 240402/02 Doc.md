@@ -20,7 +20,7 @@
 
 # 04 如何实现树的顺序存储
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404021628511.png" alt="image-20240402162857381" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404021700122.png" style="zoom:50%;" />
 
 
 
