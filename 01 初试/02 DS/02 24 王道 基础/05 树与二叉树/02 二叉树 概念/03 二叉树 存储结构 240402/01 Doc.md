@@ -15,3 +15,11 @@
 
 
 # 03 二叉树 链式存储
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404021405083.png" alt="image-20240402140522831" style="zoom:50%;" />
+
+
+
+# 04 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404021424799.png" alt="image-20240402142411692" style="zoom:50%;" />
