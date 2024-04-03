@@ -64,3 +64,9 @@
 
 # 11 强连通分量
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404032121362.png" alt="image-20240403212140168" style="zoom: 80%;" />
+
+
+
+# 12 生成树
+
