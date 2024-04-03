@@ -34,4 +34,10 @@
 
 # 06 顶点 度 入度 出度
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404031649141.png" alt="image-20240403164949991" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404031730297.png" alt="image-20240403173022206" style="zoom:50%;" />
+
+
+
+# 07 顶点-顶点 关系描述
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404031729479.png" alt="image-20240403172953348" style="zoom:50%;" />
