@@ -51,3 +51,16 @@
 
 
 # 09 研究图的局部 子图
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404032018567.png" alt="image-20240403201850302" style="zoom:50%;" />
+
+
+
+# 10 连通分量
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404032058254.png" alt="image-20240403205822920" style="zoom:50%;" />
+
+
+
+# 11 强连通分量
+
