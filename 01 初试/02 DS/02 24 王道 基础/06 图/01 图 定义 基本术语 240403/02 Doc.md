@@ -40,4 +40,9 @@
 
 # 07 顶点-顶点 关系描述
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404031729479.png" alt="image-20240403172953348" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404031827884.png" alt="image-20240403182737663" style="zoom:50%;" />
+
+
+
+# 08 连通图 强连通图
+
