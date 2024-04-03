@@ -4,7 +4,7 @@
 
 # 01 图 定义 基本术语 知识总览
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404031106797.png" alt="image-20240403110623597" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404031658789.png" alt="image-20240403165829724" style="zoom:50%;" />
 
 
 
