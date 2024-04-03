@@ -46,3 +46,8 @@
 
 # 08 连通图 强连通图
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404031914572.png" alt="image-20240403191458421" style="zoom:50%;" />
+
+
+
+# 09 研究图的局部 子图
