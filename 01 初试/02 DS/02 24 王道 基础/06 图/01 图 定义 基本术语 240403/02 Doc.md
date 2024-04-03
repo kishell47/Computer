@@ -22,3 +22,20 @@
 
 # 04 无向图 有向图
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404031402668.png" alt="image-20240403140218425" style="zoom:50%;" />
+
+
+
+# 05 简单图 多重图
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404031438348.png" alt="image-20240403143837099" style="zoom:50%;" />
+
+
+
+# 06 顶点 度 入度 出度
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404031532389.png" alt="image-20240403153243249" style="zoom:50%;" />
+
+
+
+# 07 
