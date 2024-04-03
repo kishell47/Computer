@@ -34,7 +34,7 @@
 
 # 06 顶点 度 入度 出度
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404031730297.png" alt="image-20240403173022206" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404032217321.png" alt="image-20240403221728110" style="zoom:50%;" />
 
 
 
