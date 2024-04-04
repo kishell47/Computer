@@ -70,3 +70,10 @@
 
 # 12 生成树
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404040812523.png" alt="image-20240404081223401" style="zoom:50%;" />
+
+
+
+# 13 生成森林
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404040907450.png" alt="image-20240404090726292" style="zoom:50%;" />
