@@ -77,3 +77,13 @@
 # 13 生成森林
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404040907450.png" alt="image-20240404090726292" style="zoom:50%;" />
+
+
+
+# 14 边的权 带权图/网
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404040949151.png" alt="image-20240404094931014" style="zoom:50%;" />
+
+
+
+# 15 几种特殊形态的图
