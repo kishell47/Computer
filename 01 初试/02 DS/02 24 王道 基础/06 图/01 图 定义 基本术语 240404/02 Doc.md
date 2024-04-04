@@ -86,4 +86,17 @@
 
 
 
-# 15 几种特殊形态的图
+# 15 几种特殊形态的图 完全图
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404041013649.png" alt="image-20240404101323559" style="zoom:50%;" />
+
+
+
+# 16 几种特殊形态的图 稀疏图 稠密图
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404041026217.png" alt="image-20240404102602135" style="zoom:50%;" />
+
+
+
+# 17 几种特殊形态的图 树 有向树
+
