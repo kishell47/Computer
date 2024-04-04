@@ -22,3 +22,4 @@
 
 # 04 邻接矩阵法 性能分析
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404041832384.png" alt="image-20240404183202265" style="zoom:50%;" />
