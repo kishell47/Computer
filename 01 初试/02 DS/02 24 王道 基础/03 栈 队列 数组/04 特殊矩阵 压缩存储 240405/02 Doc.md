@@ -17,3 +17,14 @@
 # 03 二维数组 存储结构
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404042232003.png" alt="image-20240404223241544" style="zoom:50%;" />
+
+
+
+# 04 普通矩阵 存储
+
+<img src="C:\Users\51532\AppData\Roaming\Typora\typora-user-images\image-20240405073014362.png" style="zoom:50%;" />
+
+
+
+# 05 对称矩阵 压缩存储
+
