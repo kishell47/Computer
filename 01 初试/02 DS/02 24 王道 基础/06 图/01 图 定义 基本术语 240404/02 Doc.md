@@ -100,3 +100,10 @@
 
 # 17 几种特殊形态的图 树 森林 有向树
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404041132027.png" alt="image-20240404113258856" style="zoom:50%;" />
+
+
+
+# 18 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404041141260.png" alt="image-20240404114140148" style="zoom:50%;" />
