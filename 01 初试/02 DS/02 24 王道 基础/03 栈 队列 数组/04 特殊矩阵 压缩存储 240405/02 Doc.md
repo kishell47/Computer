@@ -28,4 +28,8 @@
 
 # 05 对称矩阵 压缩存储
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404050951144.png" alt="image-20240405095114869" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404051429740.png" alt="image-20240405142909002" style="zoom:50%;" />
+
+
+
+# 06 三角矩阵 压缩存储
