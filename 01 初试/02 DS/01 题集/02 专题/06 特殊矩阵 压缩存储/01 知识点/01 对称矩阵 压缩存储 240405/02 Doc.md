@@ -10,4 +10,4 @@
 
 # 02 下三角 列优先 数组下标0 矩阵行号列号1
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404051523740.png" alt="image-20240405152359449" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404051532894.png" style="zoom: 50%;" />
