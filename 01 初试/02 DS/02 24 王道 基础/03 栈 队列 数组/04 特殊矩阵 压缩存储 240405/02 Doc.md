@@ -22,7 +22,7 @@
 
 # 04 普通矩阵 存储
 
-<img src="C:\Users\51532\AppData\Roaming\Typora\typora-user-images\image-20240405073014362.png" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404051435528.png" alt="image-20240405143531360" style="zoom:50%;" />
 
 
 
