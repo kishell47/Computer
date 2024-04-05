@@ -33,3 +33,5 @@
 
 
 # 06 三角矩阵 压缩存储
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404051729586.png" alt="image-20240405172954398" style="zoom:50%;" />
