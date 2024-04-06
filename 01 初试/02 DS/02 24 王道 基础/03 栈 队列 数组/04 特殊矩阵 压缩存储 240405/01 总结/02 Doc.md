@@ -16,13 +16,13 @@
 
 # 03 二维数组 存储结构
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404061600059.png" alt="image-20240406160054785" style="zoom:50%;" />
 
 
 
 # 04 普通矩阵 存储
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404051435528.png" alt="image-20240405143531360" style="zoom:50%;" />
+
 
 
 
