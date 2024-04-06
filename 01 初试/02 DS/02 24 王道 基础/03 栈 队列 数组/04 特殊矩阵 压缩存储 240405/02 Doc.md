@@ -28,7 +28,7 @@
 
 # 05 对称矩阵 压缩存储
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404051429740.png" alt="image-20240405142909002" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404061053236.png" alt="05 对称矩阵 压缩存储" style="zoom:50%;" />
 
 
 
