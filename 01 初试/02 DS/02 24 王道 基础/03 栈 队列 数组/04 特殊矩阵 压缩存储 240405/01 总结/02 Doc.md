@@ -10,13 +10,13 @@
 
 # 02 一维数组 存储结构
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404042035366.png" alt="image-20240404203554237" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404061238661.png" alt="image-20240406123824554" style="zoom:50%;" />
 
 
 
 # 03 二维数组 存储结构
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404061016500.png" alt="image-20240406101619261" style="zoom:50%;" />
+
 
 
 
