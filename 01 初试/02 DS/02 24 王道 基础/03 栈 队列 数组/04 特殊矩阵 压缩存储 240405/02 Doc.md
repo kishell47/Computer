@@ -40,9 +40,17 @@
 
 # 07 三对角矩阵 压缩存储
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404060827602.png" alt="image-20240406082700321" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404060831175.png" alt="image-20240406083157926" style="zoom:50%;" />
 
 
 
 # 08 稀疏矩阵 压缩存储
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404060944009.png" alt="image-20240406094433781" style="zoom:50%;" />
+
+
+
+# 09 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404060953966.png" alt="image-20240406095311864" style="zoom:50%;" />
 
