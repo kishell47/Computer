@@ -22,13 +22,13 @@
 
 # 04 普通矩阵 存储
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404061628105.png" alt="image-20240406162836019" style="zoom:50%;" />
 
 
 
 # 05 对称矩阵 压缩存储
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404061053236.png" alt="05 对称矩阵 压缩存储" style="zoom:50%;" />
+
 
 
 
