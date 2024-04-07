@@ -21,3 +21,7 @@
 # 04 拓扑排序 代码
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403302159927.png" alt="04 拓扑排序 代码" style="zoom:50%;" />
+
+# 05 拓扑排序 代码演示
+
+![image-20240407185610255](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404071856655.png)
