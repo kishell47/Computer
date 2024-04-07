@@ -29,3 +29,15 @@
 # 05 回顾 对称矩阵 压缩存储
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404071347435.png" alt="image-20240407134731340" style="zoom:50%;" />
+
+
+
+# 06 邻接矩阵法 性质
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404071602053.png" alt="image-20240407160207414" style="zoom:50%;" />
+
+
+
+# 07 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404071607474.png" alt="image-20240407160707357" style="zoom: 67%;" />
