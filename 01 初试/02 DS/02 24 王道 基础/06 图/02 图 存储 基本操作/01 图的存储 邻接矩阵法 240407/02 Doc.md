@@ -23,3 +23,9 @@
 # 04 邻接矩阵法 性能分析
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404041832384.png" alt="image-20240404183202265" style="zoom:50%;" />
+
+
+
+# 05 回顾 对称矩阵 压缩存储
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404071347435.png" alt="image-20240407134731340" style="zoom:50%;" />
