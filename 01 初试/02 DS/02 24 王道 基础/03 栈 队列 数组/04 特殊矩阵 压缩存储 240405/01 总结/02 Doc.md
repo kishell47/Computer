@@ -34,13 +34,13 @@
 
 # 06 三角矩阵 压缩存储
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404070808354.png" alt="image-20240407080834931" style="zoom:50%;" />
 
 
 
 # 07 三对角矩阵 压缩存储
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404060831175.png" alt="image-20240406083157926" style="zoom:50%;" />
+
 
 
 
