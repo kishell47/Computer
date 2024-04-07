@@ -17,3 +17,12 @@
 # 03 对比：树的孩子表示法
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403310922305.png" alt="image-20240331092249240" style="zoom:50%;" />
+
+# 04 邻接表法
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404071722180.png" alt="image-20240407172224765" style="zoom: 50%;" />
+
+
+
+# 05 知识回顾与重要考点
+
