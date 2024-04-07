@@ -46,11 +46,11 @@
 
 # 08 稀疏矩阵 压缩存储
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404071113208.png" alt="image-20240407111340968" style="zoom:50%;" />
 
 
 
 # 09 知识回顾与重要考点
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404060953966.png" alt="image-20240406095311864" style="zoom:50%;" />
+
 
