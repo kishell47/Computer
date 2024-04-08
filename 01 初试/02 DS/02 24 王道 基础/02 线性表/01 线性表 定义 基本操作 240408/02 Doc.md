@@ -21,3 +21,9 @@
 # 03 线性表 基本操作
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404082217711.png" alt="image-20240408221748090" style="zoom:50%;" />
+
+
+
+# 04 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404082237487.png" alt="image-20240408223727205" style="zoom:50%;" />
