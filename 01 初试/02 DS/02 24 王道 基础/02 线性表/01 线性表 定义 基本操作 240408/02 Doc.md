@@ -20,3 +20,4 @@
 
 # 03 线性表 基本操作
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404082217711.png" alt="image-20240408221748090" style="zoom:50%;" />
