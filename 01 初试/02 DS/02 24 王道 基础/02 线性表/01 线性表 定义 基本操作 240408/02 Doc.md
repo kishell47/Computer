@@ -14,3 +14,8 @@
 
 # 02 线性表 定义
 
+<img src="C:\Users\51532\AppData\Roaming\Typora\typora-user-images\image-20240408145308181.png" alt="image-20240408145308181" style="zoom:50%;" />
+
+
+
+# 03 
