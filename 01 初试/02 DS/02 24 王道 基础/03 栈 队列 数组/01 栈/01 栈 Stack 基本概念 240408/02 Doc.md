@@ -26,3 +26,4 @@
 
 # 04 栈 基本操作
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404090945798.png" alt="image-20240409094550683" style="zoom:50%;" />
