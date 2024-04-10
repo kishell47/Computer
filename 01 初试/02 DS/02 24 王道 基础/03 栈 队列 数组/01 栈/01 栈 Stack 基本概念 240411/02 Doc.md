@@ -32,3 +32,9 @@
 
 # 05 栈 常考题型
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404110726185.png" alt="image-20240411072649052" style="zoom:50%;" />
+
+
+
+# 06 知识回顾与重要考点
+
