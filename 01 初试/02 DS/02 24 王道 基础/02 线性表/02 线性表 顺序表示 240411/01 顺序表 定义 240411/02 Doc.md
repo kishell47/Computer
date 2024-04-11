@@ -22,3 +22,9 @@
 
 # 04 顺序表 实现 动态分配
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404112042611.png" alt="image-20240411204206221" style="zoom:50%;" />
+
+
+
+# 05 顺序表 实现
+
