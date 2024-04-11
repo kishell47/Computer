@@ -16,4 +16,9 @@
 
 # 03 顺序表 实现 静态分配
 
-![image-20240411160950530](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404111609393.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404111609393.png" alt="image-20240411160950530" style="zoom:50%;" />
+
+
+
+# 04 顺序表 实现 动态分配
+
