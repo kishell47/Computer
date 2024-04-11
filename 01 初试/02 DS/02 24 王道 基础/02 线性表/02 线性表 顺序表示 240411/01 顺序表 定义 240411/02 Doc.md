@@ -16,3 +16,4 @@
 
 # 03 顺序表 实现 静态分配
 
+![image-20240411160950530](C:\Users\51532\AppData\Roaming\Typora\typora-user-images\image-20240411160950530.png)
