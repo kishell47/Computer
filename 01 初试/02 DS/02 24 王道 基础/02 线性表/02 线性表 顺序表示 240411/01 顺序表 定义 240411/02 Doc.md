@@ -28,3 +28,9 @@
 
 # 05 顺序表 实现
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404112229761.png" alt="image-20240411222907592" style="zoom:50%;" />
+
+
+
+# 06 知识回顾与重要考点
+
