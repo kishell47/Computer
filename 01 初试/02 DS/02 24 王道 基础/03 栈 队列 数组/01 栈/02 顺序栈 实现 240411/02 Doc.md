@@ -10,3 +10,4 @@
 
 # 02 顺序栈 初始化操作
 
+![image-20240411085735229](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404110857382.png)
