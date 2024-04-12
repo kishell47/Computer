@@ -22,3 +22,9 @@
 
 # 04 顺序表 基本操作 删除
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404122137223.png" alt="image-20240412213754946" style="zoom:50%;" />
+
+
+
+# 05 删除操作 时间复杂度
+
