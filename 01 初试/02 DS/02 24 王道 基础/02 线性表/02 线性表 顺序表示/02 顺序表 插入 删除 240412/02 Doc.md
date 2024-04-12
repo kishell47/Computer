@@ -10,3 +10,15 @@
 
 # 02 顺序表 基本操作 插入
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404121617189.png" alt="image-20240412161713477" style="zoom:50%;" />
+
+
+
+# 03 插入操作 时间复杂度
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404121707706.png" alt="image-20240412170738253" style="zoom: 50%;" />
+
+
+
+# 04 顺序表 基本操作 删除
+
