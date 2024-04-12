@@ -29,3 +29,7 @@
 # 05 删除操作 时间复杂度
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404122232084.png" alt="image-20240412223229959" style="zoom:50%;" />
+
+# 06 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404122259057.png" alt="image-20240412225955930" style="zoom:50%;" />
