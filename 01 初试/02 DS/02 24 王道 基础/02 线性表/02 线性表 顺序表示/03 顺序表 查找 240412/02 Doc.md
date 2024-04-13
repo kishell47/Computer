@@ -10,6 +10,21 @@
 
 # 02 顺序表 按位查找
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404131626339.png" style="zoom:50%;" />
 
 
-![image-20240413142854149](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404131428251.png)
+
+# 03 按位查找 时间复杂度
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404131645339.png" alt="image-20240413164508272" style="zoom:50%;" />
+
+
+
+# 04 顺序表 按值查找
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404131734615.png" alt="image-20240413173441455" style="zoom:50%;" />
+
+
+
+# 05 结构类型 比较
+
