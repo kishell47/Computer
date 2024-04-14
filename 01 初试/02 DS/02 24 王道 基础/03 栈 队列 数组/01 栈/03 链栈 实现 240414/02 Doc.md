@@ -14,4 +14,11 @@
 
 
 
-# 03 
+# 03 穿越：单链表 删除操作
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404141533058.png" alt="image-20240414153301968" style="zoom:50%;" />
+
+
+
+# 04 链栈 定义
+
