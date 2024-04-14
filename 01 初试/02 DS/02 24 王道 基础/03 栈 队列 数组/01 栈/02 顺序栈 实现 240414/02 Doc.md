@@ -27,3 +27,10 @@
 
 
 # 05 读栈顶元素操作
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404141038492.png" alt="image-20240414103843416" style="zoom:50%;" />
+
+
+
+# 06 另一种方式
+
