@@ -10,7 +10,7 @@
 
 # 02 顺序栈 初始化操作
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404140941167.png" alt="image-20240414094123059" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404141200706.png" alt="image-20240414120005383" style="zoom:50%;" />
 
 
 
