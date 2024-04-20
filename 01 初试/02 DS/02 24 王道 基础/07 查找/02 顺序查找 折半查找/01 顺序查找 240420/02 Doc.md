@@ -35,3 +35,21 @@
 # 06 顺序查找 优化 有序表
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404201624256.png" alt="image-20240420162458089" style="zoom:50%;" />
+
+
+
+# 07 顺序查找 用查找判定树分析ASL
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404201647843.png" alt="image-20240420164730741" style="zoom:50%;" />
+
+
+
+# 08 顺序查找 优化 被查概率不相等
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404201704988.png" alt="image-20240420170446890" style="zoom:50%;" />
+
+
+
+# 09 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404201722903.png" alt="image-20240420172204794" style="zoom:50%;" />
