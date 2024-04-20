@@ -16,3 +16,22 @@
 
 # 03 顺序查找 实现
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404201416708.png" alt="image-20240420141606461" style="zoom:50%;" />
+
+
+
+# 04 顺序查找 实现 哨兵
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404201501113.png" alt="image-20240420150139883" style="zoom:50%;" />
+
+
+
+# 05 顺序查找 查找效率分析
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404201537975.png" alt="image-20240420153731839" style="zoom:50%;" />
+
+
+
+# 06 顺序查找 优化 有序表
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404201624256.png" alt="image-20240420162458089" style="zoom:50%;" />
