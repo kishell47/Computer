@@ -28,3 +28,16 @@
 
 # 05 折半查找 判定树构造
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404211504739.png" alt="image-20240421150411386" style="zoom:50%;" />
+
+
+
+# 06 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404211514501.png" alt="image-20240421151458278" style="zoom:50%;" />
+
+
+
+# 07 拓展思考
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404211548807.png" alt="image-20240421154837436" style="zoom:50%;" />
