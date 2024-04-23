@@ -29,3 +29,9 @@
 # 05 I/O设备 分类 按信息交换的单位
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404232052612.png" alt="image-20240423205210512" style="zoom:50%;" />
+
+
+
+# 06 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404232113119.png" alt="image-20240423211324019" style="zoom:50%;" />
