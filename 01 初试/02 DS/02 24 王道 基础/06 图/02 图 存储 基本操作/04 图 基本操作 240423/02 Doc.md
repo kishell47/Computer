@@ -22,3 +22,10 @@
 
 # 04 图 基本操作 InsertVertex
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404231535093.png" alt="image-20240423153545004" style="zoom:50%;" />
+
+
+
+# 05 图 基本操作 DeleteVertex
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404231618417.png" alt="image-20240423161853344" style="zoom:50%;" />
