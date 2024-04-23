@@ -10,3 +10,4 @@
 
 # 02 程序直接控制方式
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404231716791.png" alt="image-20240423171600617" style="zoom:50%;" />
