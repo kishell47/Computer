@@ -15,3 +15,11 @@
 
 
 # 03 I/O设备 电子部件 I/O控制器
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404241140257.png" alt="image-20240424114054038" style="zoom:50%;" />
+
+
+
+# 04 I/O控制器 组成
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404241445577.png" alt="image-20240424144502300" style="zoom:50%;" />
