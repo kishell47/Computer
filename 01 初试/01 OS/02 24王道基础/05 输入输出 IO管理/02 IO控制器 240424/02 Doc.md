@@ -23,3 +23,14 @@
 # 04 I/O控制器 组成
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404241445577.png" alt="image-20240424144502300" style="zoom:50%;" />
+
+
+
+# 05 内存映像I/O VS 寄存器独立编址
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404241522485.png" alt="image-20240424152245352" style="zoom:50%;" />
+
+
+
+# 06 知识回顾与重要考点
+
