@@ -32,4 +32,11 @@
 
 
 
-# 06 
+# 06 其他需要由操作系统实现的文件管理功能
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404252109991.png" alt="image-20240425210931823" style="zoom:50%;" />
+
+
+
+# 07 知识点回顾与重要考点
+
