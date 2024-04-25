@@ -40,3 +40,10 @@
 
 # 07 通道控制方式
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404251014889.png" alt="image-20240425101401410" style="zoom:50%;" />
+
+
+
+# 08 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404251047061.png" alt="image-20240425104659773" style="zoom:50%;" />
