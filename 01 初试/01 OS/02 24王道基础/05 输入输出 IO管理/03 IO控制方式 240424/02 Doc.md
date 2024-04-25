@@ -27,3 +27,5 @@
 
 
 # 05 DMA控制器
+
+![image-20240425080501754](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404250805929.png)
