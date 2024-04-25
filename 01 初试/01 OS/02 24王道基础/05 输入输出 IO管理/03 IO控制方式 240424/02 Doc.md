@@ -28,4 +28,15 @@
 
 # 05 DMA控制器
 
-![image-20240425080501754](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404250805929.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404250805929.png" alt="image-20240425080501754" style="zoom:50%;" />
+
+
+
+# 06 DMA方式
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404250903725.png" alt="image-20240425090348298" style="zoom: 50%;" />
+
+
+
+# 07 通道控制方式
+
