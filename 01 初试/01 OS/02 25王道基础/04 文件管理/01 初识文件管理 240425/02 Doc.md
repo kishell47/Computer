@@ -28,3 +28,8 @@
 
 # 05 从上往下看 文件应如何存放在外存
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404252050946.png" alt="image-20240425205019732" style="zoom:50%;" />
+
+
+
+# 06 
