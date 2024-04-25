@@ -40,3 +40,4 @@
 
 # 07 知识点回顾与重要考点
 
+<img src="C:\Users\51532\AppData\Roaming\Typora\typora-user-images\image-20240425213227977.png" alt="image-20240425213227977" style="zoom:50%;" />
