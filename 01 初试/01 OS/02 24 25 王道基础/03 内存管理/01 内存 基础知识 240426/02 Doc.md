@@ -16,3 +16,8 @@
 
 # 03 补充知识 几个常用的数量单位
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404261612137.png" alt="image-20240426161210997" style="zoom:50%;" />
+
+
+
+# 04 知识滚雪球 指令的工作原理
