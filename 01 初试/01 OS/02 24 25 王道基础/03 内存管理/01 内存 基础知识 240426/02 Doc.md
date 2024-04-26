@@ -21,3 +21,10 @@
 
 
 # 04 知识滚雪球 指令的工作原理
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404262113774.png" alt="image-20240426211345481" style="zoom: 50%;" />
+
+
+
+# 05 装入的3种方式 绝对装入
+
