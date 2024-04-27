@@ -52,4 +52,8 @@
 
 # 09 链接的3种方式
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404270938065.png" alt="image-20240427093824814" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404271133094.png" alt="image-20240427113329953" style="zoom:50%;" />
+
+# 10 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404271220631.png" alt="image-20240427122023426" style="zoom:50%;" />
