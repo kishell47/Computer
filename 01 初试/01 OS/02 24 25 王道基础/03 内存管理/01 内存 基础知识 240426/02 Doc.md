@@ -28,6 +28,27 @@
 
 # 05 装入的3种方式 绝对装入
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404270721977.png" alt="image-20240427072126640" style="zoom:50%;" />
 
 
-# 06 装入的3种方式 绝对装入
+
+# 06 装入的3种方式 可重定位装入
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404270758898.png" alt="image-20240427075843632" style="zoom:50%;" />
+
+
+
+# 07 装入的3种方式 动态运行时装入
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404270828274.png" alt="image-20240427082849974" style="zoom:50%;" />
+
+
+
+# 08 从写程序到程序运行
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404270907379.png" alt="image-20240427090723054" style="zoom:50%;" />
+
+
+
+# 09 链接的3种方式
+
