@@ -10,3 +10,10 @@
 
 # 02 什么是进程同步
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404280911378.png" alt="image-20240428091111093" style="zoom: 50%;" />
+
+
+
+# 03 什么是进程互斥
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404281014758.png" alt="image-20240428101409594" style="zoom:50%;" />
