@@ -23,3 +23,8 @@
 # 04 双标志先检查法
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404292116567.png" alt="image-20240429211633982" style="zoom:50%;" />
+
+
+
+# 05 双标志后检查法
+
