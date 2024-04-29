@@ -17,3 +17,9 @@
 # 03 单标志法
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404291445266.png" alt="image-20240429144547958" style="zoom:50%;" />
+
+
+
+# 04 双标志先检查a
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404291547952.png" alt="image-20240429154711806" style="zoom:50%;" />
