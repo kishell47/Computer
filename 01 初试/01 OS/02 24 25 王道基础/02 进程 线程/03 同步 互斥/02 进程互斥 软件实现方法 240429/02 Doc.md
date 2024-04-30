@@ -33,3 +33,11 @@
 
 
 # 06 Peterson 算法
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404301444618.png" alt="image-20240430144400203" style="zoom:50%;" />
+
+
+
+# 07 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404301550145.png" alt="image-20240430155055001" style="zoom:50%;" />
