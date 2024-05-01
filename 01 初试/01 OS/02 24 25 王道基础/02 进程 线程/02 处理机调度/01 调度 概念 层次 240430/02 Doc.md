@@ -16,3 +16,34 @@
 
 # 03 调度 3个层次 高级调度
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404302025356.png" alt="image-20240430202530164" style="zoom:50%;" />
+
+
+
+# 04 调度 3个层次 低级调度
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404302102288.png" alt="image-20240430210212087" style="zoom:50%;" />
+
+
+
+# 05 调度 3个层次 中级调度
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405010721947.png" alt="image-20240501072117777" style="zoom:50%;" />
+
+
+
+# 06 补充知识：进程的挂起态与七状态模型
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405010805237.png" alt="image-20240501080510869" style="zoom:50%;" />
+
+
+
+# 07 三层调度 联系 对比
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405010835664.png" alt="image-20240501083516370" style="zoom:50%;" />
+
+
+
+# 08 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405010854300.png" alt="image-20240501085420062" style="zoom:50%;" />
