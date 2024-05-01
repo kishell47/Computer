@@ -21,3 +21,10 @@
 
 
 # 04 进程 切换与过程
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405011957940.png" alt="image-20240501195740797" style="zoom: 67%;" />
+
+
+
+# 05 知识回顾与重要考点
+
