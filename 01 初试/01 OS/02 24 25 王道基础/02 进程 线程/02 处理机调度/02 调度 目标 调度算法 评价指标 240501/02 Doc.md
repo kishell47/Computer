@@ -16,3 +16,9 @@
 
 # 03 系统吞吐量
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405011021588.png" alt="image-20240501102133512" style="zoom:50%;" />
+
+
+
+# 04 周转时间
+
