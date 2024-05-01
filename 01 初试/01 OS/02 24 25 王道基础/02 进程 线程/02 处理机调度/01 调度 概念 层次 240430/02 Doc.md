@@ -34,7 +34,7 @@
 
 # 06 补充知识：进程的挂起态与七状态模型
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405010805237.png" alt="image-20240501080510869" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405010917063.png" alt="image-20240501091731681" style="zoom:50%;" />
 
 
 
