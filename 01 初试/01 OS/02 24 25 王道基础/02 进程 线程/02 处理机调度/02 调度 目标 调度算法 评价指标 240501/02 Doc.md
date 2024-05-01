@@ -22,3 +22,9 @@
 
 # 04 周转时间
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405011117595.png" alt="image-20240501111758364" style="zoom:50%;" />
+
+
+
+# 05 等待时间
+
