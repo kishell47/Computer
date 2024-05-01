@@ -28,3 +28,15 @@
 
 # 05 等待时间
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405011140735.png" alt="image-20240501114048589" style="zoom:50%;" />
+
+
+
+# 06 响应时间
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405011148584.png" alt="image-20240501114802504" style="zoom:50%;" />
+
+
+
+# 07 知识回顾与重要考点
+
