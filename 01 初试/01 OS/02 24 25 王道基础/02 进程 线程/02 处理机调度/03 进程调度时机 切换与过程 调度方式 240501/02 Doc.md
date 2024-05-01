@@ -15,3 +15,9 @@
 
 
 # 03 进程调度 方式
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405011919602.png" style="zoom:50%;" />
+
+
+
+# 04 进程 切换与过程
