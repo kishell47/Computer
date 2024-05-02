@@ -9,3 +9,9 @@
 
 
 # 02 先来先服务 FCFS First Come First Serve
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405021233678.png" alt="image-20240502123307285" style="zoom:50%;" />
+
+
+
+# 03 短作业优先 SJF Shortest Job First
