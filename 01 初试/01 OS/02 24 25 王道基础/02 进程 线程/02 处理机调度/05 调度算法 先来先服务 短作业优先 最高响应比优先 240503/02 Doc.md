@@ -16,8 +16,16 @@
 
 # 03 短作业优先 SJF Shortest Job First
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405021551054.png" alt="image-20240502155121608" style="zoom: 50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405030925802.png" alt="image-20240503092516249" style="zoom:50%;" />
 
 
 
-# 04 
+# 04 对FCFS和SJF两种算法的思考
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405031015002.png" alt="image-20240503101556899" style="zoom:50%;" />
+
+
+
+# 05 高响应比优先 HRRN Highest Response Ratio Next
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405031120977.png" alt="image-20240503112013708" style="zoom:50%;" />
