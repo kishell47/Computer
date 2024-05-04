@@ -10,4 +10,14 @@
 
 # 02 中断屏蔽方法
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404301616505.png" alt="image-20240430161639391" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405042024533.png" alt="image-20240504202413383" style="zoom:50%;" />
+
+
+
+# 03 TestAndSet指令
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405042102748.png" alt="image-20240504210230258" style="zoom:50%;" />
+
+
+
+# 04 
