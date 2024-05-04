@@ -2,4 +2,10 @@
 
 
 
-# 
+# 01 调度算法 知识总览
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405041040628.png" alt="image-20240504104007473" style="zoom:50%;" />
+
+
+
+# 02 时间片轮转 RR, Round-Robin
