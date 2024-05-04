@@ -21,3 +21,11 @@
 
 
 # 04 多级反馈队列调度算法
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405041740905.png" alt="image-20240504174040492" style="zoom:50%;" />
+
+
+
+# 05 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405041756763.png" alt="image-20240504175659586" style="zoom:50%;" />
