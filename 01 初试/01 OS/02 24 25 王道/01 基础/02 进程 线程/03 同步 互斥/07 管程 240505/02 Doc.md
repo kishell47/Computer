@@ -9,3 +9,9 @@
 
 
 # 02 为什么要引入管程
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405052203869.png" alt="image-20240505220348743" style="zoom:50%;" />
+
+
+
+# 03 管程 定义 基本特征
