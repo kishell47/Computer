@@ -15,3 +15,5 @@
 
 
 # 03 管程 定义 基本特征
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405052226279.png" alt="image-20240505222608079" style="zoom:50%;" />
