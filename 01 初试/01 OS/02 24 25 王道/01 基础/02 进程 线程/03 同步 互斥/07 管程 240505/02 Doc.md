@@ -16,4 +16,8 @@
 
 # 03 管程 定义 基本特征
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405052226279.png" alt="image-20240505222608079" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405060736642.png" alt="image-20240506073637461" style="zoom:50%;" />
+
+
+
+# 拓展1 用管程 解决 生产者消费者问题
