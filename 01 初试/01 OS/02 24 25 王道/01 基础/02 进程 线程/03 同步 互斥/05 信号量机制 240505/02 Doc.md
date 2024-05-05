@@ -21,3 +21,11 @@
 
 
 # 04 信号量机制 记录型信号量
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405051127377.png" alt="image-20240505112700028" style="zoom:50%;" />
+
+
+
+# 05 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405051137041.png" alt="image-20240505113701898" style="zoom:50%;" />
