@@ -20,4 +20,17 @@
 
 
 
-# 拓展1 用管程 解决 生产者消费者问题
+# 04 拓展1 用管程 解决 生产者消费者问题
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405060932467.png" alt="image-20240506093232021" style="zoom:50%;" />
+
+
+
+# 05 拓展2 Java中 类似于 管程的机制
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405060952600.png" alt="image-20240506095220455" style="zoom:50%;" />
+
+
+
+# 06 知识回顾与重要考点
+
