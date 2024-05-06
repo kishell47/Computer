@@ -16,3 +16,9 @@
 
 # 03 多生产者-消费者问题 代码实现
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405061429111.png" alt="image-20240506142916708" style="zoom:50%;" />
+
+
+
+# 04 知识回顾与重要考点
+
