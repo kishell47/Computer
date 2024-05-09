@@ -15,3 +15,9 @@
 
 
 # 03 安全序列 不安全状态 死锁 联系
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405091723035.png" alt="image-20240509172352650" style="zoom:50%;" />
+
+
+
+# 04 银行家算法
