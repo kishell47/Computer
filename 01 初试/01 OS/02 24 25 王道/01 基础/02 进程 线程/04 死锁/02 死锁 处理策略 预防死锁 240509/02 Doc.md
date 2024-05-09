@@ -27,3 +27,10 @@
 
 
 # 05 破坏 循环等待条件
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405091528606.png" alt="image-20240509152804405" style="zoom:50%;" />
+
+
+
+# 06 知识回顾与重要考点
+
