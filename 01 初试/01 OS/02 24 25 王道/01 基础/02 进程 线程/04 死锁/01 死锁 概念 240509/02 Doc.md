@@ -28,3 +28,8 @@
 
 # 05 什么时候 会发生死锁
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405091051756.png" alt="image-20240509105128647" style="zoom:50%;" />
+
+
+
+# 06 
