@@ -9,3 +9,9 @@
 
 
 # 02 什么是 安全序列
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405091659153.png" alt="image-20240509165949203" style="zoom:50%;" />
+
+
+
+# 03 安全序列 不安全状态 死锁 联系
