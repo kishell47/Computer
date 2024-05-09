@@ -21,3 +21,5 @@
 
 
 # 04 银行家算法
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405091815490.png" alt="image-20240509181541079" style="zoom:50%;" />
