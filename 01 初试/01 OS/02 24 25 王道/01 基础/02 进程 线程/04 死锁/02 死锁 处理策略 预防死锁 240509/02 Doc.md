@@ -21,3 +21,9 @@
 
 
 # 04 破坏 请求和保持条件
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405091458891.png" alt="image-20240509145814706" style="zoom:50%;" />
+
+
+
+# 05 破坏 循环等待条件
