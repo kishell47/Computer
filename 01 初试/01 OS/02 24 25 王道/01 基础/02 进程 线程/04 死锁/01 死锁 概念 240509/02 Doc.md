@@ -32,4 +32,12 @@
 
 
 
-# 06 
+# 06 死锁 处理策略
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405091105774.png" alt="image-20240509110513685" style="zoom:50%;" />
+
+
+
+# 07 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405091113669.png" alt="image-20240509111341526" style="zoom: 50%;" />
