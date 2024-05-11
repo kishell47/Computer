@@ -33,3 +33,17 @@
 
 
 # 06 知识滚雪球 程序是如何运行的
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405111912266.png" alt="image-20240511191222869" style="zoom:50%;" />
+
+
+
+# 07 进程控制 相关原语
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405111919369.png" alt="image-20240511191945262" style="zoom:50%;" />
+
+
+
+# 08 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405111929147.png" alt="image-20240511192939010" style="zoom: 50%;" />
