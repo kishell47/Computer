@@ -22,3 +22,14 @@
 
 # 04 如何实现 原语的原子性
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405111518362.png" alt="image-20240511151851011" style="zoom:50%;" />
+
+
+
+# 05 进程控制 相关原语
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405111650747.png" alt="image-20240511165014169" style="zoom:50%;" />
+
+
+
+# 06 知识滚雪球 程序是如何运行的
