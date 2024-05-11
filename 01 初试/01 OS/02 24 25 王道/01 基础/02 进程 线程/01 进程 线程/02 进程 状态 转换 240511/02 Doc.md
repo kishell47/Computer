@@ -46,3 +46,14 @@
 
 # 08 进程组织 链接方式
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405111143859.png" alt="image-20240511114344709" style="zoom:50%;" />
+
+
+
+# 09 进程组织 索引方式
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405111150000.png" alt="image-20240511115009916" style="zoom:50%;" />
+
+
+
+# 10 进程组织
