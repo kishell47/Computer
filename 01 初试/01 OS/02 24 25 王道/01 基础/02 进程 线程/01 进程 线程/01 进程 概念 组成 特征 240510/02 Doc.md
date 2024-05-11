@@ -34,3 +34,16 @@
 
 # 06 进程 组成
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405110901828.png" alt="image-20240511090112621" style="zoom:50%;" />
+
+
+
+# 07 进程 特征
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405110912834.png" alt="image-20240511091256703" style="zoom:50%;" />
+
+
+
+# 08 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405110921771.png" alt="image-20240511092121644" style="zoom:50%;" />
