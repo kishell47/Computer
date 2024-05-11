@@ -57,3 +57,11 @@
 
 
 # 10 进程组织
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405111153654.png" alt="image-20240511115339572" style="zoom:50%;" />
+
+
+
+# 11 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405111157497.png" alt="image-20240511115705366" style="zoom:50%;" />
