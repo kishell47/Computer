@@ -16,5 +16,33 @@
 
 # 03 进程状态 运行态
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405110957520.png" alt="image-20240511095758397" style="zoom:50%;" />
 
+
+
+# 04 进程状态 阻塞态
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405111014911.png" alt="image-20240511101453784" style="zoom:50%;" />
+
+
+
+# 05 进程状态 终止态
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405111030563.png" alt="image-20240511103021460" style="zoom:50%;" />
+
+
+
+# 06 进程状态 转换
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405111112957.png" alt="image-20240511111217719" style="zoom:50%;" />
+
+
+
+# 07 进程状态
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405111120374.png" style="zoom:50%;" />
+
+
+
+# 08 进程组织 链接方式
 
