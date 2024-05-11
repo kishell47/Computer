@@ -10,8 +10,15 @@
 
 # 02 什么是进程间通信
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405112144020.png" alt="image-20240511214420783" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405112151451.png" alt="image-20240511215112223" style="zoom:50%;" />
 
 
 
 # 03 为什么 进程通信 需要操作系统支持
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405112205935.png" alt="image-20240511220507656" style="zoom:50%;" />
+
+
+
+# 04 共享存储
+
