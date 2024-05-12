@@ -45,3 +45,17 @@
 
 
 # 08 进程通信 管道通信
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405121030295.png" style="zoom:50%;" />
+
+
+
+# 09 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405121050504.png" alt="image-20240512105001318" style="zoom:50%;" />
+
+
+
+# 10 补充 管道通信 
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405121100874.png" alt="image-20240512110043761" style="zoom:50%;" />
