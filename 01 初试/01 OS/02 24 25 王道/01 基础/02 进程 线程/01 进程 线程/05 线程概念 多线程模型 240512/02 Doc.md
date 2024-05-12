@@ -21,3 +21,5 @@
 
 
 # 04 线程 属性
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405121252835.png" style="zoom:50%;" />
