@@ -32,4 +32,16 @@
 
 
 
-# 06 消息传递
+# 06 消息传递 直接通信方式
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405120849439.png" alt="image-20240512084951305" style="zoom:50%;" />
+
+
+
+# 07 消息传递 间接通信方式
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405120920051.png" alt="image-20240512092021925" style="zoom:50%;" />
+
+
+
+# 08 进程通信 管道通信
