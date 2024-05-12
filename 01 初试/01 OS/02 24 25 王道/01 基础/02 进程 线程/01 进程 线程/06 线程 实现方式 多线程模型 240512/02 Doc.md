@@ -20,5 +20,24 @@
 
 
 
-# 04 多线程模型
+# 04 多线程模型 一对一模型
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405122039444.png" alt="image-20240512203937335" style="zoom:50%;" />
+
+
+
+# 05 多线程模型 多对一模型
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405122149258.png" alt="image-20240512214906137" style="zoom:50%;" />
+
+
+
+# 06 多线程模型 多对多模型
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405122207045.png" alt="image-20240512220723854" style="zoom:50%;" />
+
+
+
+# 07 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405122214956.png" alt="image-20240512221443856" style="zoom:50%;" />
