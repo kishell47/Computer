@@ -22,3 +22,14 @@
 
 # 04 共享存储
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405120801473.png" alt="image-20240512080113847" style="zoom:50%;" />
+
+
+
+# 05 消息传递
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405120826472.png" alt="image-20240512082638240" style="zoom:50%;" />
+
+
+
+# 06 消息传递
