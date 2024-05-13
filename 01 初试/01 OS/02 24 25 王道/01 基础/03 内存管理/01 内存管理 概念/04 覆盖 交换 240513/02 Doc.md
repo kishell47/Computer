@@ -16,3 +16,10 @@
 
 # 03 交换技术
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405131503389.png" alt="image-20240513150338970" style="zoom:50%;" />
+
+
+
+# 04 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405131511995.png" alt="image-20240513151106867" style="zoom:50%;" />
