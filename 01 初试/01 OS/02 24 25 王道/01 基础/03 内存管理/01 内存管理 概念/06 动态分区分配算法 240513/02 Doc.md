@@ -27,3 +27,10 @@
 
 
 # 05 邻近适应算法
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405140728279.png" alt="image-20240514072833026" style="zoom:50%;" />
+
+
+
+# 06 知识回顾与重要考点
+
