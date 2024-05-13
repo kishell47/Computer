@@ -10,3 +10,20 @@
 
 # 02 首次适应算法
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405132119986.png" alt="image-20240513211923788" style="zoom:50%;" />
+
+
+
+# 03 最佳适应算法
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405132151100.png" alt="image-20240513215100923" style="zoom:50%;" />
+
+
+
+# 04 最坏适应算法
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405132215507.png" alt="image-20240513221548357" style="zoom:50%;" />
+
+
+
+# 05 邻近适应算法
