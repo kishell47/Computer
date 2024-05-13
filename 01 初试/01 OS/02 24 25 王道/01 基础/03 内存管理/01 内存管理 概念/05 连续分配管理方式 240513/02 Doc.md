@@ -10,3 +10,15 @@
 
 # 02 单一连续分配
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405131533282.png" alt="image-20240513153341145" style="zoom:50%;" />
+
+
+
+# 03 固定分区分配
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405131626877.png" alt="image-20240513162656462" style="zoom:50%;" />
+
+
+
+# 04 动态分区分配
+
