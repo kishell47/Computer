@@ -27,3 +27,17 @@
 
 
 # 05 引入快表后 地址的变换过程
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405142134004.png" alt="image-20240514213434656" style="zoom:50%;" />
+
+
+
+# 06 局部性原理
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405142158307.png" alt="image-20240514215859091" style="zoom:50%;" />
+
+
+
+# 07 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405142209364.png" alt="image-20240514220948259" style="zoom:50%;" />
