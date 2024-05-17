@@ -10,4 +10,17 @@
 
 # 03 系统调用
 
-![image-20240517170055812](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405171700754.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405171817949.png" alt="image-20240517181709625" style="zoom:50%;" />
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405171752470.png" alt="image-20240517175245875" style="zoom:50%;" />
+
+
+
+# 04 进程切换
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405171921023.png" alt="image-20240517192118377" style="zoom:50%;" />
+
+
+
+# 05 模式切换
+
