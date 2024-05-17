@@ -6,7 +6,7 @@
 
 # 02 答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405171105506.png" alt="image-20240517110546433" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405172040613.png" alt="image-20240517204031556" style="zoom:50%;" />
 
 # 03 系统调用
 
@@ -24,3 +24,10 @@
 
 # 05 模式切换
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405172033767.png" alt="image-20240517203326461" style="zoom:50%;" />
+
+
+
+# 06 外部中断
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405172040503.png" alt="image-20240517204000366" style="zoom:50%;" />
