@@ -22,9 +22,22 @@
 
 # 04 特权指令 vs 非特权指令
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405172228427.png" alt="image-20240517222807240" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405180733659.png" alt="image-20240518073322542" style="zoom:50%;" />
 
 
 
 # 05 内核态 vs 用户态
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405180744563.png" alt="image-20240518074457442" style="zoom:50%;" />
+
+
+
+# 06 内核态 用户态 切换
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405180836323.png" alt="image-20240518083602901" style="zoom:50%;" />
+
+
+
+# 07 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405180854049.png" alt="image-20240518085423922" style="zoom:50%;" />
