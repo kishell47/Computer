@@ -34,3 +34,10 @@
 
 # 08 操作系统的特征 异步
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405182155678.png" alt="image-20240518215537458" style="zoom:50%;" />
+
+
+
+# 09 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405182200432.png" alt="image-20240518220019335" style="zoom:50%;" />
