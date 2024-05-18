@@ -27,3 +27,17 @@
 
 
 # 05 什么功能 要用到 系统调用
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405181345968.png" alt="image-20240518134554860" style="zoom:50%;" />
+
+
+
+# 06 系统调用 过程
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405181420405.png" alt="image-20240518142058100" style="zoom:50%;" />
+
+
+
+# 07 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405181427439.png" alt="image-20240518142730318" style="zoom:50%;" />
