@@ -22,3 +22,10 @@
 
 # 04 地址变换机构
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405200759829.png" alt="image-20240520075947048" style="zoom:50%;" />
+
+
+
+# 05 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405200814381.png" alt="image-20240520081442202" style="zoom:50%;" />
