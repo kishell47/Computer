@@ -21,3 +21,11 @@
 
 
 # 04 内存映射文件 Memory-Mapped Files
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405202126476.png" alt="image-20240520212604167" style="zoom:50%;" />
+
+
+
+# 05 知识回顾
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405202131437.png" alt="image-20240520213115317" style="zoom:50%;" />
