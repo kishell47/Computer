@@ -9,3 +9,10 @@
 
 
 # 02 文件块 磁盘块
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405230733494.png" alt="image-20240523073337248" style="zoom:50%;" />
+
+
+
+# 03 文件分配方式 连续分配
+
