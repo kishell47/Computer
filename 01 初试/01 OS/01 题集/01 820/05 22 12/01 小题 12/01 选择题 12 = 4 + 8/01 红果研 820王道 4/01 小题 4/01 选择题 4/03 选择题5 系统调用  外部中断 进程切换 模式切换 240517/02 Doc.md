@@ -10,9 +10,9 @@
 
 # 03 系统调用
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405171817949.png" alt="image-20240517181709625" style="zoom:50%;" />
+![03_1 系统调用_1](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405231639286.png)
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405171752470.png" alt="image-20240517175245875" style="zoom:50%;" />
+![03_2 系统调用_2](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405231639443.png)
 
 
 
