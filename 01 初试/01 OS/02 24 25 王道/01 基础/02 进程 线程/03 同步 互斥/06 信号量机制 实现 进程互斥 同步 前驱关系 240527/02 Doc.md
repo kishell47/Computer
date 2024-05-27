@@ -2,6 +2,12 @@
 
 
 
+# 00 背诵
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405271914457.png" alt="image-20240527191410213" style="zoom: 80%;" />
+
+
+
 # 01 信号量机制 知识总览
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405051158473.png" alt="image-20240505115815328" style="zoom:50%;" />
