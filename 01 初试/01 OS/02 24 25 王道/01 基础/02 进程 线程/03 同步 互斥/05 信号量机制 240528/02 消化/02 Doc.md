@@ -16,7 +16,7 @@
 
 # 03 信号量机制 整型信号量
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405050933549.png" alt="image-20240505093336240" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405281920177.png" alt="image-20240528192011885" style="zoom:50%;" />
 
 
 
