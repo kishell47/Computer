@@ -4,7 +4,7 @@
 
 # 01 进程互斥 软件实现方法 知识总览
 
-
+![image-20240528210152247](C:\Users\51532\AppData\Roaming\Typora\typora-user-images\image-20240528210152247.png)
 
 
 
