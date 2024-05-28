@@ -10,7 +10,7 @@
 
 # 02 信号量机制 实现进程互斥
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405051459359.png" alt="image-20240505145946153" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405280947232.png" alt="image-20240528094721792" style="zoom:50%;" />
 
 
 
