@@ -16,7 +16,7 @@
 
 # 03 为什么 进程通信 需要操作系统支持
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405112205935.png" alt="image-20240511220507656" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405282233826.png" alt="image-20240528223312496" style="zoom:50%;" />
 
 
 
