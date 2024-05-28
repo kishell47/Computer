@@ -10,7 +10,7 @@
 
 # 02 信号量机制
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405050845546.png" alt="![](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405050845546.png)" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405281612416.png" alt="image-20240528161224106" style="zoom:50%;" />
 
 
 
