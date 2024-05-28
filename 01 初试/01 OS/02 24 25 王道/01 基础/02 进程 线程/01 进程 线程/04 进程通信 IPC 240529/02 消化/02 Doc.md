@@ -10,7 +10,7 @@
 
 # 02 什么是进程间通信
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405282214914.png" alt="image-20240528221449682" style="zoom:50%;" />
 
 
 
