@@ -40,7 +40,7 @@
 
 # 07 消息传递 间接通信方式
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405120920051.png" alt="image-20240512092021925" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405291229291.png" alt="image-20240529122958866" style="zoom:50%;" />
 
 
 
