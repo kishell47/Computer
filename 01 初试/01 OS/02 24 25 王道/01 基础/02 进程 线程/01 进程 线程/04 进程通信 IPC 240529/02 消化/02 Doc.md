@@ -46,7 +46,7 @@
 
 # 08 进程通信 管道通信
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405121030295.png" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405291556492.png" alt="image-20240529155640721" style="zoom:50%;" />
 
 
 
