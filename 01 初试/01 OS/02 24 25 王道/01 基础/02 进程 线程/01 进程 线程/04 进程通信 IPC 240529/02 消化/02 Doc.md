@@ -22,7 +22,7 @@
 
 # 04 共享存储
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405120801473.png" alt="image-20240512080113847" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405290859669.png" alt="image-20240529085910999" style="zoom:50%;" />
 
 
 
