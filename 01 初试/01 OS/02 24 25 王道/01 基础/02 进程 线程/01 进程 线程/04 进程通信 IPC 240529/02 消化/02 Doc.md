@@ -28,7 +28,7 @@
 
 # 05 消息传递
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405120826472.png" alt="image-20240512082638240" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405291039992.png" alt="image-20240529103921717" style="zoom:50%;" />
 
 
 
