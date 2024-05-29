@@ -16,10 +16,10 @@
 
 # 03 什么是进程互斥
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404281115646.png" alt="image-20240428111543048" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405292230556.png" alt="image-20240529223030784" style="zoom:50%;" />
 
 
 
 # 04 知识回顾与重要考点
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404281131976.png" alt="image-20240428113101738" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405292241294.png" alt="image-20240529224145911" style="zoom:50%;" />
