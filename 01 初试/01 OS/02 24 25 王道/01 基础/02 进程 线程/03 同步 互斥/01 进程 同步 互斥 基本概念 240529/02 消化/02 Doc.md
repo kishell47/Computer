@@ -10,7 +10,7 @@
 
 # 02 什么是进程同步
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405282122511.png" alt="image-20240528212220271" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405291851104.png" alt="image-20240529185138702" style="zoom:50%;" />
 
 
 
