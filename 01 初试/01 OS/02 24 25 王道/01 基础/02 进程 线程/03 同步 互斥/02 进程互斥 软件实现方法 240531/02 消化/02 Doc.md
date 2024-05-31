@@ -4,13 +4,13 @@
 
 # 01 进程互斥 软件实现方法 知识总览
 
-![image-20240528210152247](C:\Users\51532\AppData\Roaming\Typora\typora-user-images\image-20240528210152247.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405310949630.png" alt="image-20240531094952511" style="zoom:50%;" />
 
 
 
 # 02 如果没有注意进程互斥
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404291047608.png" alt="image-20240429104748320" style="zoom: 67%;" />
+
 
 
 
