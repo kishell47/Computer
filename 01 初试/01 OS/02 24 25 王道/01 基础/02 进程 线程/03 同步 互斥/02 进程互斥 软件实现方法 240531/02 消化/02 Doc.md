@@ -22,13 +22,13 @@
 
 # 04 双标志先检查法
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404292116567.png" alt="image-20240429211633982" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405311728393.png" alt="image-20240531172835156" style="zoom:50%;" />
 
 
 
 # 05 双标志后检查法
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404300810723.png" alt="image-20240430081024531" style="zoom:50%;" />
+
 
 
 
