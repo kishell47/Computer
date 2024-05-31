@@ -28,13 +28,13 @@
 
 # 05 双标志后检查法
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405311850871.png" style="zoom:50%;" />
 
 
 
 # 06 Peterson 算法
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404301444618.png" alt="image-20240430144400203" style="zoom:50%;" />
+
 
 
 
