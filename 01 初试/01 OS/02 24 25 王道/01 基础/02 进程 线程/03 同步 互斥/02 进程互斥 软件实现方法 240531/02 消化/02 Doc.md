@@ -16,7 +16,7 @@
 
 # 03 单标志法
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405311433520.png" alt="image-20240531143319012" style="zoom:50%;" />
 
 
 
