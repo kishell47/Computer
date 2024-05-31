@@ -8,9 +8,9 @@
 
 
 
-# 02 如果没有注意进程互斥
+# 02 如果没有注意 进程互斥
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405311030328.png" alt="image-20240531103057015" style="zoom:50%;" />
 
 
 
