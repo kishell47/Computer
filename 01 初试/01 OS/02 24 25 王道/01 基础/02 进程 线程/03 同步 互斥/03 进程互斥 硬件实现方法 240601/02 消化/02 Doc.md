@@ -10,7 +10,7 @@
 
 # 02 中断屏蔽方法
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405042024533.png" alt="image-20240504202413383" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406010910693.png" alt="image-20240601091057497" style="zoom:50%;" />
 
 
 
