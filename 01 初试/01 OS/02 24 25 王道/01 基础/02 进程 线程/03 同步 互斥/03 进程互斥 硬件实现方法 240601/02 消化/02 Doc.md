@@ -16,7 +16,7 @@
 
 # 03 TestAndSet指令
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405042102748.png" alt="image-20240504210230258" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406011014512.png" alt="image-20240601101450004" style="zoom:50%;" />
 
 
 
