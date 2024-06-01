@@ -22,7 +22,7 @@
 
 # 04 信号量机制 记录型信号量
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405051127377.png" alt="image-20240505112700028" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406011933954.png" alt="image-20240601193350491" style="zoom:50%;" />
 
 
 
