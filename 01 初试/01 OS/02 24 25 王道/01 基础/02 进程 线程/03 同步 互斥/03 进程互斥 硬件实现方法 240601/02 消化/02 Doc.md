@@ -22,7 +22,7 @@
 
 # 04 Swap指令
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405042124559.png" alt="image-20240504212423267" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406011434692.png" alt="image-20240601143407541" style="zoom:50%;" />
 
 
 
