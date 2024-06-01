@@ -4,7 +4,7 @@
 
 # 01 进程互斥 硬件实现方法 知识总览
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406010831636.png" alt="image-20240601083107448" style="zoom:50%;" />
 
 
 
