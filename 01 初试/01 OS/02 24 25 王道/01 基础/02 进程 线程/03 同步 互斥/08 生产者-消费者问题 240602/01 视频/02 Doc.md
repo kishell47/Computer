@@ -10,7 +10,7 @@
 
 # 02 生产者-消费者问题 问题分析
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406022156716.png" alt="image-20240602215628231" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406022231177.png" alt="image-20240602223149625" style="zoom: 50%;" />
 
 
 
