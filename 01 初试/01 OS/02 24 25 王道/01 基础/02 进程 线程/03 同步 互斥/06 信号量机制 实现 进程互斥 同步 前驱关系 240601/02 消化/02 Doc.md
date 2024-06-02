@@ -16,7 +16,7 @@
 
 # 03 信号量机制 实现进程同步
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405051559855.png" alt="image-20240505155949569" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406021708022.png" alt="image-20240602170850330" style="zoom:50%;" />
 
 
 
