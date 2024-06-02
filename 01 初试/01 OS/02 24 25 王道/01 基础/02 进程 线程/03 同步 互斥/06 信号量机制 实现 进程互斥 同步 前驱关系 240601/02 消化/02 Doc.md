@@ -16,13 +16,13 @@
 
 # 03 信号量机制 实现进程同步
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406021708022.png" alt="image-20240602170850330" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406021743801.png" alt="03 信号量机制 实现进程同步" style="zoom:50%;" />
 
 
 
 # 04 信号量机制 实现前驱关系
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405051639985.png" alt="image-20240505163918779" style="zoom:50%;" />
+
 
 
 
