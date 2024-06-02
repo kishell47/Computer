@@ -22,7 +22,7 @@
 
 # 04 信号量机制 实现前驱关系
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406021754241.png" alt="image-20240602175445723" style="zoom:50%;" />
 
 
 
