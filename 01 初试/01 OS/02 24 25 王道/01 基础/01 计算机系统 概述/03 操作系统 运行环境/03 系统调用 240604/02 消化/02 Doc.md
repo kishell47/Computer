@@ -16,7 +16,7 @@
 
 # 03 系统调用 库函数 区别
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405181226036.png" alt="image-20240518122600855" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406040735306.png" alt="image-20240604073539927" style="zoom:50%;" />
 
 
 
