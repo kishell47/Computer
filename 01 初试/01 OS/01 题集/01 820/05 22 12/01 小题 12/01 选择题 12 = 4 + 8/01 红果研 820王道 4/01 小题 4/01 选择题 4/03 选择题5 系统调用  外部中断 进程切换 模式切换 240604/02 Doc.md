@@ -1,3 +1,9 @@
+# 00 背诵
+
+
+
+
+
 # 01 题目
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405171104670.png" alt="image-20240517110401609" style="zoom:80%;" />
@@ -6,7 +12,19 @@
 
 # 02 答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405172040613.png" alt="image-20240517204031556" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406031927477.png" alt="image-20240603192743339" style="zoom:50%;" />
+
+
+
+# 03 解析
+
+
+
+
+
+
+
+
 
 # 03 系统调用
 
