@@ -16,7 +16,7 @@
 
 # 03 管程 定义 基本特征
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405060736642.png" alt="image-20240506073637461" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406031022890.png" alt="image-20240603102230354" style="zoom:50%;" />
 
 
 
