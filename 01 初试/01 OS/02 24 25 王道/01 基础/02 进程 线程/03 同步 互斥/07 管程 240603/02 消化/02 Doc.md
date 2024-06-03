@@ -28,7 +28,7 @@
 
 # 05 拓展2 Java中 类似于 管程的机制
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406031745679.png" alt="image-20240603174548573" style="zoom:50%;" />
 
 
 
