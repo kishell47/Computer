@@ -10,7 +10,7 @@
 
 # 02 什么是系统调用 有何作用
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405181152941.png" alt="image-20240518115230820" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406032207044.png" alt="image-20240603220728892" style="zoom:50%;" />
 
 
 
