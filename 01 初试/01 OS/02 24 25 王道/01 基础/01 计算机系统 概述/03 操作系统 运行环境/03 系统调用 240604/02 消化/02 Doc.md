@@ -4,7 +4,7 @@
 
 # 01 系统调用 知识总览
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405181136859.png" alt="image-20240518113654764" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406032153993.png" alt="image-20240603215304883" style="zoom:50%;" />
 
 
 
