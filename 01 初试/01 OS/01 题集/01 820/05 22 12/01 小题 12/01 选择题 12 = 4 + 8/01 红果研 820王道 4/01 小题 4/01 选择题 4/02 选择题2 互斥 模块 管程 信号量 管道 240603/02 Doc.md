@@ -1,9 +1,3 @@
-# 00 背诵
-
-
-
-
-
 # 01 题目
 
 ![image-20240427175502736](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404271755797.png)
@@ -18,4 +12,4 @@
 
 # 03 解析
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406031651399.png" alt="image-20240603165113067" style="zoom: 50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406031917440.png" alt="image-20240603191708050" style="zoom:50%;" />
