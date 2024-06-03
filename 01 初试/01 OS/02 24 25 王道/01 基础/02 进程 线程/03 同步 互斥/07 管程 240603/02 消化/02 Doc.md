@@ -22,7 +22,7 @@
 
 # 04 拓展1 用管程 解决 生产者消费者问题
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405060932467.png" alt="image-20240506093232021" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406031234111.png" alt="image-20240603123418116" style="zoom:50%;" />
 
 
 
