@@ -16,7 +16,7 @@
 
 # 03 中断 类型
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405180951850.png" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406042121719.png" alt="image-20240604212157389" style="zoom:50%;" />
 
 
 
