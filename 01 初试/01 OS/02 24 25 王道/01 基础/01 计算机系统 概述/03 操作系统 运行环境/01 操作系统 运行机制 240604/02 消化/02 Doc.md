@@ -28,7 +28,7 @@
 
 # 05 内核态 vs 用户态
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405180744563.png" alt="image-20240518074457442" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406041643656.png" alt="image-20240604164327215" style="zoom:50%;" />
 
 
 
