@@ -22,7 +22,7 @@
 
 # 04 内中断 例子
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405181018185.png" alt="image-20240518101818820" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406050748693.png" alt="image-20240605074823102" style="zoom:50%;" />
 
 
 
