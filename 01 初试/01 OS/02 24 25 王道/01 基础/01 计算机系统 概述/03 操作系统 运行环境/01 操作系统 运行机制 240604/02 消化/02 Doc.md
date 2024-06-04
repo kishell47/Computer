@@ -4,7 +4,7 @@
 
 # 01 操作系统 运行机制 知识总览
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405172052910.png" alt="image-20240517205243820" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406041135015.png" alt="image-20240604113558884" style="zoom:50%;" />
 
 
 
