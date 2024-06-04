@@ -10,7 +10,7 @@
 
 # 02 中断 作用
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406041129668.png" alt="image-20240604112921525" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406042123690.png" alt="02 中断 作用" style="zoom:50%;" />
 
 
 
