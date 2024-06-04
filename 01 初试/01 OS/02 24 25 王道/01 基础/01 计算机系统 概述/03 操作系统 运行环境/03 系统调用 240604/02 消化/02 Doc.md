@@ -28,7 +28,7 @@
 
 # 05 什么功能 要用到 系统调用
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405181345968.png" alt="image-20240518134554860" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406040940011.png" alt="image-20240604094025770" style="zoom: 50%;" />
 
 
 
