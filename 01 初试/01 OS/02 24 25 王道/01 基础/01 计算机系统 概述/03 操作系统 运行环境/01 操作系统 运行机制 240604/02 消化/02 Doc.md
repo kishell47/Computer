@@ -22,7 +22,7 @@
 
 # 04 特权指令 vs 非特权指令
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405180733659.png" alt="image-20240518073322542" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406041604532.png" style="zoom:50%;" />
 
 
 
