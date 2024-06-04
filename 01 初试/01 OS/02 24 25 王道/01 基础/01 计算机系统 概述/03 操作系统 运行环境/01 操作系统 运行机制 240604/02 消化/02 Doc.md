@@ -16,7 +16,7 @@
 
 # 03 内核程序 vs 应用程序
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405172129101.png" alt="image-20240517212906950" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406041509555.png" alt="image-20240604150948180" style="zoom:50%;" />
 
 
 
