@@ -4,7 +4,7 @@
 
 # 01 中断 异常 知识总览
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405180908254.png" alt="image-20240518090851150" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406041104417.png" alt="image-20240604110454267" style="zoom:50%;" />
 
 
 
