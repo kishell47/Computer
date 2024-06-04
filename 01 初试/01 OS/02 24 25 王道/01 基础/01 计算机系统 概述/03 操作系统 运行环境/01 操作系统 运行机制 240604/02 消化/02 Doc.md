@@ -34,7 +34,7 @@
 
 # 06 内核态 用户态 切换
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405180836323.png" alt="image-20240518083602901" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406041710083.png" alt="image-20240604171003203" style="zoom:50%;" />
 
 
 
