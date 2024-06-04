@@ -22,7 +22,7 @@
 
 # 04 小例子 为什么 系统调用 是必须的
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405181242699.png" alt="image-20240518124244562" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406040902457.png" alt="image-20240604090211172" style="zoom:50%;" />
 
 
 
