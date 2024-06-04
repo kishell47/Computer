@@ -10,7 +10,7 @@
 
 # 02 预备知识 程序是如何运行的
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405172113258.png" alt="image-20240517211320996" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406041151182.png" alt="image-20240604115145903" style="zoom:33%;" />
 
 
 
