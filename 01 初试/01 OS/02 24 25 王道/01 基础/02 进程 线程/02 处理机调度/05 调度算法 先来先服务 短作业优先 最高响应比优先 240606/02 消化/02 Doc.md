@@ -4,7 +4,7 @@
 
 # 01 调度算法 知识总览
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405021030094.png" alt="image-20240502103011988" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406052206648.png" alt="image-20240605220645437" style="zoom:50%;" />
 
 
 
