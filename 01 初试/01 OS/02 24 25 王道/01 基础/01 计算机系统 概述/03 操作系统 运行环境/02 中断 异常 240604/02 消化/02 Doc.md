@@ -28,7 +28,7 @@
 
 # 05 外中断 例子
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405181041925.png" alt="image-20240518104138729" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406050910336.png" alt="image-20240605091058891" style="zoom:50%;" />
 
 
 
