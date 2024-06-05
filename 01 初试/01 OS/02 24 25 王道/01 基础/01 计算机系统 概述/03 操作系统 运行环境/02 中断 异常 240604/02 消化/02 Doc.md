@@ -40,7 +40,7 @@
 
 # 07 中断机制 基本原理
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405181120991.png" alt="image-20240518112004886" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406051012150.png" alt="image-20240605101259051" style="zoom:50%;" />
 
 
 
