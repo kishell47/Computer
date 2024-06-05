@@ -34,7 +34,7 @@
 
 # 06 中断 分类
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405181106430.png" alt="image-20240518110604260" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406050941483.png" alt="image-20240605094148076" style="zoom:50%;" />
 
 
 
