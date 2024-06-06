@@ -52,7 +52,7 @@
 
 # 09 进程组织 索引方式
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405111150000.png" alt="image-20240511115009916" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406062202568.png" alt="image-20240606220217456" style="zoom:50%;" />
 
 
 
