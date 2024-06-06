@@ -46,7 +46,7 @@
 
 # 08 进程组织 链接方式
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406062113342.png" alt="image-20240606211340937" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406062138834.png" alt="image-20240606213829704" style="zoom:50%;" />
 
 
 
