@@ -22,7 +22,7 @@
 
 # 04 进程状态 阻塞态
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405111014911.png" alt="image-20240511101453784" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406061523282.png" alt="image-20240606152328038" style="zoom:50%;" />
 
 
 
