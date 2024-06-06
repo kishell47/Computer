@@ -34,7 +34,7 @@
 
 # 06 进程状态 转换
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405111112957.png" alt="image-20240511111217719" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406061702626.png" alt="image-20240606170247330" style="zoom:50%;" />
 
 
 
