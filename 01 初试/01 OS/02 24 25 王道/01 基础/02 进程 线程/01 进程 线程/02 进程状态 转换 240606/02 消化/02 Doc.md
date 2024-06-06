@@ -34,19 +34,19 @@
 
 # 06 进程状态 转换
 
-<img src="D:\00 考研\Computer\01 初试\01 OS\02 24 25 王道\01 基础\02 进程 线程\01 进程 线程\02 进程状态 转换 240606\02 消化\01 Pic\06 进程状态 转换.png" alt="image-20240606170247330" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406061714194.png" alt="image-20240606171454948" style="zoom:50%;" />
 
 
 
 # 07 进程状态
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405111120374.png" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406061838115.png" alt="image-20240606183819816" style="zoom:50%;" />
 
 
 
 # 08 进程组织 链接方式
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405111143859.png" alt="image-20240511114344709" style="zoom:50%;" />
+
 
 
 
