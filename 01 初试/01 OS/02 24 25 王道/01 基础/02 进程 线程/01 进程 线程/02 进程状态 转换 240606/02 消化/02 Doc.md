@@ -28,7 +28,7 @@
 
 # 05 进程状态 终止态
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405111030563.png" alt="image-20240511103021460" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406061628081.png" alt="image-20240606162810875" style="zoom:50%;" />
 
 
 
