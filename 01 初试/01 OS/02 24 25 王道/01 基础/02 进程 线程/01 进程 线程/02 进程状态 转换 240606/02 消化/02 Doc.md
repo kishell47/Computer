@@ -10,7 +10,7 @@
 
 # 02 进程状态 创建态 就绪态
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406061149259.png" alt="image-20240606114901060" style="zoom:50%;" />
 
 
 
