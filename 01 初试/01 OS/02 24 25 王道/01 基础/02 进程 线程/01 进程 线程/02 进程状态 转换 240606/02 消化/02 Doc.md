@@ -16,7 +16,7 @@
 
 # 03 进程状态 运行态
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405110957520.png" alt="image-20240511095758397" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406061457819.png" alt="image-20240606145749588" style="zoom:50%;" />
 
 
 
