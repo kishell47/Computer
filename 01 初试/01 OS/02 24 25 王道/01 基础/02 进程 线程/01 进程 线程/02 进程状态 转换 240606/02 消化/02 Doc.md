@@ -58,7 +58,7 @@
 
 # 10 进程组织
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405111153654.png" alt="image-20240511115339572" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406070753187.png" alt="image-20240607075328104" style="zoom:50%;" />
 
 
 
