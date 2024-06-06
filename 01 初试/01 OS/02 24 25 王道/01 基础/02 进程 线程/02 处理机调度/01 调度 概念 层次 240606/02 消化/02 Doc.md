@@ -10,7 +10,7 @@
 
 # 02 调度 基本概念
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404301829707.png" alt="image-20240430182929525" style="zoom: 50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406060826339.png" alt="image-20240606082628082" style="zoom:50%;" />
 
 
 
