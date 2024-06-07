@@ -34,7 +34,7 @@
 
 # 06 响应时间
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405011148584.png" alt="image-20240501114802504" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406071630469.png" alt="image-20240607163031337" style="zoom:50%;" />
 
 
 
