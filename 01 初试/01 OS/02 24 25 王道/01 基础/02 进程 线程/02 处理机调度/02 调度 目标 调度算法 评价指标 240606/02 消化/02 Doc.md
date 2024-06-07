@@ -28,7 +28,7 @@
 
 # 05 等待时间
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405011140735.png" alt="image-20240501114048589" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406071548524.png" alt="image-20240607154825176" style="zoom:50%;" />
 
 
 
