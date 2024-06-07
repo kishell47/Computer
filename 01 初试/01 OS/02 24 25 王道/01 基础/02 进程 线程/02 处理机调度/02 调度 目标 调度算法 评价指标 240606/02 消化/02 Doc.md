@@ -4,7 +4,7 @@
 
 # 01 调度算法 评价指标 知识总览
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405010943264.png" alt="image-20240501094340165" style="zoom: 67%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406071132749.png" alt="image-20240607113249584" style="zoom:50%;" />
 
 
 
