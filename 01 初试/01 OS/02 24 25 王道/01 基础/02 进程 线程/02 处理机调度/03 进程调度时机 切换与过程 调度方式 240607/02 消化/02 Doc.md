@@ -10,7 +10,7 @@
 
 # 02 进程调度 时机
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406071757982.png" alt="image-20240607175729521" style="zoom: 50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406071842432.png" alt="image-20240607184228046" style="zoom:50%;" />
 
 
 
