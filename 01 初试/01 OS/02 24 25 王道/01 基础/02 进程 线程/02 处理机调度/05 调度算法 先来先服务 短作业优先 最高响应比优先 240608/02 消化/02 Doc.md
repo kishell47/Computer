@@ -28,7 +28,7 @@
 
 # 05 高响应比优先 HRRN Highest Response Ratio Next
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406082114102.png" alt="image-20240608211417436" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406082217644.png" alt="image-20240608221710141" style="zoom:50%;" />
 
 
 
