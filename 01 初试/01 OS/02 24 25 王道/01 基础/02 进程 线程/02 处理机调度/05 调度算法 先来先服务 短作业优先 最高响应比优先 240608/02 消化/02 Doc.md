@@ -22,7 +22,7 @@
 
 # 04 对FCFS和SJF两种算法的思考
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405031015002.png" alt="image-20240503101556899" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406082014495.png" alt="image-20240608201449360" style="zoom:50%;" />
 
 
 
