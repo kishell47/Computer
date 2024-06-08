@@ -16,7 +16,7 @@
 
 # 03 短作业优先 SJF Shortest Job First
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405030925802.png" alt="image-20240503092516249" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406081622347.png" alt="image-20240608162251896" style="zoom: 50%;" />
 
 
 
