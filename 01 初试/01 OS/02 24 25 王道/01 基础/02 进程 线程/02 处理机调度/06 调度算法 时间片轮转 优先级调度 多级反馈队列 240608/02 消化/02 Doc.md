@@ -22,7 +22,7 @@
 
 # 04 多级反馈队列调度算法
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405041740905.png" alt="image-20240504174040492" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406091706176.png" alt="image-20240609170630172" style="zoom:50%;" />
 
 
 
