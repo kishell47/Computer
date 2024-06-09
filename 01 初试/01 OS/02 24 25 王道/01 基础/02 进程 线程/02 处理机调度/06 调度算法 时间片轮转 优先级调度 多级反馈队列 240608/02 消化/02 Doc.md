@@ -10,7 +10,7 @@
 
 # 02 时间片轮转 RR, Round-Robin
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406090946829.png" alt="image-20240609094623255" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406091147613.png" alt="image-20240609114711124" style="zoom:50%;" />
 
 
 
