@@ -16,7 +16,7 @@
 
 # 03 优先级调度算法
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405041617298.png" alt="image-20240504161659821" style="zoom: 50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406091624099.png" alt="image-20240609162453664" style="zoom:50%;" />
 
 
 
