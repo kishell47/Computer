@@ -16,7 +16,7 @@
 
 # 03 引入线程机制后 有什么变化
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405121235178.png" alt="image-20240512123551056" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406141450325.png" alt="image-20240614145033927" style="zoom:50%;" />
 
 
 
