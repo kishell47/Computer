@@ -4,7 +4,7 @@
 
 # 01 线程 实现方式 多线程模型 知识总览
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405121446916.png" alt="image-20240512144609827" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406141700257.png" alt="image-20240614170009136" style="zoom:50%;" />
 
 
 
