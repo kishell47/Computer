@@ -22,7 +22,7 @@
 
 # 04 多线程模型 一对一模型
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405122039444.png" alt="image-20240512203937335" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406151141690.png" alt="image-20240615114132364" style="zoom:50%;" />
 
 
 
