@@ -8,7 +8,7 @@
 
 # 02 线程的状态与转换
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405122229199.png" alt="image-20240512222943107" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406161244937.png" alt="image-20240616124437731" style="zoom:50%;" />
 
 
 
