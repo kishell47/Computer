@@ -1,0 +1,49 @@
+# 操作系统 发展 分类
+
+
+
+# 01 操作系统 发展 分类 知识总览
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405182208477.png" alt="image-20240518220851369" style="zoom:50%;" />
+
+
+
+# 02 手工操作阶段
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405190749591.png" alt="image-20240519074925386" style="zoom:50%;" />
+
+
+
+# 03 批处理阶段 单道批处理系统
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405190807067.png" alt="image-20240519080730901" style="zoom:50%;" />
+
+
+
+# 04 批处理阶段 多道批处理系统
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405190833580.png" alt="image-20240519083313428" style="zoom:50%;" />
+
+
+
+# 05 分时操作系统
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405190846797.png" alt="image-20240519084655650" style="zoom:50%;" />
+
+
+
+# 06 实时操作系统
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405190902767.png" alt="image-20240519090252659" style="zoom:50%;" />
+
+
+
+# 07 其他几种操作系统
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405190906906.png" alt="image-20240519090623835" style="zoom:50%;" />
+
+
+
+# 08 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405190910998.png" alt="image-20240519091027863" style="zoom:50%;" />
