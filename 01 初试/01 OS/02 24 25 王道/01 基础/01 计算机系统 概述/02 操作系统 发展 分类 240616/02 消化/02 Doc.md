@@ -10,7 +10,7 @@
 
 # 02 手工操作阶段
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405190749591.png" alt="image-20240519074925386" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406162228531.png" alt="image-20240616222839137" style="zoom:50%;" />
 
 
 
