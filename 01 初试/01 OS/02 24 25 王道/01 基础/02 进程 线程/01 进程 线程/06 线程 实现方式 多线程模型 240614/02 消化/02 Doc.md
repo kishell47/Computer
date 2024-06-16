@@ -34,7 +34,7 @@
 
 # 06 多线程模型 多对多模型
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405122207045.png" alt="image-20240512220723854" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406161013445.png" alt="image-20240616101359193" style="zoom:50%;" />
 
 
 
