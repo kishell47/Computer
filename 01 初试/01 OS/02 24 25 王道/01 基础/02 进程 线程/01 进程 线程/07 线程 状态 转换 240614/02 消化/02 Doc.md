@@ -14,4 +14,4 @@
 
 # 03 线程的组织与控制
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405130748841.png" style="zoom:50%;" />
+![image-20240616144323706](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406161443121.png)
