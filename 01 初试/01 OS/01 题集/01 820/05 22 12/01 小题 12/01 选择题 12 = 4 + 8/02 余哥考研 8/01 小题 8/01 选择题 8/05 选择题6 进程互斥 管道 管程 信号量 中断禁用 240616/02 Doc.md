@@ -1,3 +1,9 @@
+# 00 背诵
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406161800827.png" alt="image-20240616180008618" style="zoom:50%;" />
+
+
+
 # 01 题目
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405171034104.png" alt="image-20240517103449045" style="zoom: 80%;" />
