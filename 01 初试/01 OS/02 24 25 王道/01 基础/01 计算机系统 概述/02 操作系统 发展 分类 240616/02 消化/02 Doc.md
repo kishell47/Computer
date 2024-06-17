@@ -22,7 +22,7 @@
 
 # 04 批处理阶段 多道批处理系统
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405190833580.png" alt="image-20240519083313428" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406171010230.png" alt="image-20240617101035064" style="zoom:50%;" />
 
 
 
