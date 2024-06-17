@@ -28,7 +28,7 @@
 
 # 05 分时操作系统
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405190846797.png" alt="image-20240519084655650" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406171139363.png" alt="image-20240617113935207" style="zoom:50%;" />
 
 
 
