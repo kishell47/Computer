@@ -16,7 +16,7 @@
 
 # 03 批处理阶段 单道批处理系统
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405190807067.png" alt="image-20240519080730901" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406170837477.png" alt="image-20240617083728276" style="zoom:50%;" />
 
 
 
