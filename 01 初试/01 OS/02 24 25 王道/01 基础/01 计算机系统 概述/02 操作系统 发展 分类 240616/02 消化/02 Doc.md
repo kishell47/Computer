@@ -34,7 +34,7 @@
 
 # 06 实时操作系统
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405190902767.png" alt="image-20240519090252659" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406171620931.png" alt="image-20240617162034820" style="zoom:50%;" />
 
 
 
