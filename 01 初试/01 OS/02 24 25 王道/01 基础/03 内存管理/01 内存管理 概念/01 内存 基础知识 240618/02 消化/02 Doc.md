@@ -4,7 +4,7 @@
 
 # 01 内存 基础知识 知识总览
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404261430005.png" alt="image-20240426143004829" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406172150062.png" alt="image-20240617215037556" style="zoom:50%;" />
 
 
 
