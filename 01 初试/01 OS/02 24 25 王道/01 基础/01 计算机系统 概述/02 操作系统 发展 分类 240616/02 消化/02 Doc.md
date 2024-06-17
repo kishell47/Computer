@@ -40,7 +40,7 @@
 
 # 07 其他几种操作系统
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405190906906.png" alt="image-20240519090623835" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406171745523.png" alt="image-20240617174547454" style="zoom:50%;" />
 
 
 
