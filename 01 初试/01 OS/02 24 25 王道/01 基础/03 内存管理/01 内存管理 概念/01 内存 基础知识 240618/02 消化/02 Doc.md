@@ -10,7 +10,7 @@
 
 # 02 什么是内存 有何作用
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404261540062.png" alt="image-20240426154008746" style="zoom: 50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406180828643.png" alt="image-20240618082849982" style="zoom:50%;" />
 
 
 
