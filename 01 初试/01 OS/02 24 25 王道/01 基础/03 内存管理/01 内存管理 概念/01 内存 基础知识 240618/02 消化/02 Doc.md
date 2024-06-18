@@ -22,7 +22,7 @@
 
 # 04 知识滚雪球 指令的工作原理
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404262113774.png" alt="image-20240426211345481" style="zoom: 50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406181119384.png" alt="image-20240618111941924" style="zoom:50%;" />
 
 
 
