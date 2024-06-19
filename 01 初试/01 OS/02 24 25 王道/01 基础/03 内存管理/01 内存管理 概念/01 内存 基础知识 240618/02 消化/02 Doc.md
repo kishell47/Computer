@@ -34,7 +34,7 @@
 
 # 06 装入的3种方式 可重定位装入
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404270758898.png" alt="image-20240427075843632" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406191613294.png" alt="image-20240619161325116" style="zoom:50%;" />
 
 
 
