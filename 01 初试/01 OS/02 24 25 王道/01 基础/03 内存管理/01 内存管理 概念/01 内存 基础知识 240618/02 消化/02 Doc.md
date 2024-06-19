@@ -28,7 +28,7 @@
 
 # 05 装入的3种方式 绝对装入
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404270721977.png" alt="image-20240427072126640" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406190858937.png" alt="image-20240619085822739" style="zoom:50%;" />
 
 
 
