@@ -10,7 +10,7 @@
 
 # 02 内存空间 分配与回收
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405130901296.png" alt="image-20240513090109180" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406201752915.png" alt="image-20240620175226583" style="zoom:50%;" />
 
 
 
