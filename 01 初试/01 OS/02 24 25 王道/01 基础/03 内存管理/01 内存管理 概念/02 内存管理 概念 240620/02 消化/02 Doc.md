@@ -16,7 +16,7 @@
 
 # 03 内存空间 扩展
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405130911311.png" alt="image-20240513091124211" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406201900754.png" alt="image-20240620190021503" style="zoom:50%;" />
 
 
 
