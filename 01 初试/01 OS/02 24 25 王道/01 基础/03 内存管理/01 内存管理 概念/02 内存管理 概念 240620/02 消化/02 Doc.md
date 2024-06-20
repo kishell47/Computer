@@ -4,7 +4,7 @@
 
 # 01 内存管理 概念 知识总览
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405130849190.png" alt="image-20240513084944085" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406201622236.png" alt="image-20240620162243078" style="zoom:50%;" />
 
 
 
