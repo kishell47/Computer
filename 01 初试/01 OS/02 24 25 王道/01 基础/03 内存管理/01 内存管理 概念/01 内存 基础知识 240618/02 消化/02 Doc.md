@@ -40,7 +40,7 @@
 
 # 07 装入的3种方式 动态运行时装入
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404270828274.png" alt="image-20240427082849974" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406201015234.png" alt="image-20240620101517014" style="zoom: 50%;" />
 
 
 
