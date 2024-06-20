@@ -46,13 +46,15 @@
 
 # 08 从写程序到程序运行
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404270907379.png" alt="image-20240427090723054" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406201056409.png" alt="image-20240620105646091" style="zoom:50%;" />
 
 
 
 # 09 链接的3种方式
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404271133094.png" alt="image-20240427113329953" style="zoom:50%;" />
+
+
 
 # 10 知识回顾与重要考点
 
