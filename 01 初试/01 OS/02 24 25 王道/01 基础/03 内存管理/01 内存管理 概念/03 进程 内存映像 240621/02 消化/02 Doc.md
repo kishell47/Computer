@@ -4,7 +4,7 @@
 
 # 01 进程 内存映像
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405131139776.png" alt="image-20240513113948472" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406211830463.png" alt="image-20240621183037054" style="zoom:50%;" />
 
 
 
