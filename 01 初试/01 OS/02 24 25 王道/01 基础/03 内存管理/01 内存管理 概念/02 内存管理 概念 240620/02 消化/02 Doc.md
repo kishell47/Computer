@@ -22,16 +22,15 @@
 
 # 04 地址转换
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405130939497.png" alt="image-20240513093946315" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406211512455.png" alt="image-20240621151200917" style="zoom:50%;" />
 
 
 
 # 05 内存保护
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405130959765.png" alt="image-20240513095942554" style="zoom:50%;" />
+
 
 
 
 # 06 知识回顾与重要考点
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405131006940.png" alt="image-20240513100643835" style="zoom:50%;" />
