@@ -28,7 +28,7 @@
 
 # 05 内存保护
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406211626866.png" alt="image-20240621162608338" style="zoom:50%;" />
 
 
 
