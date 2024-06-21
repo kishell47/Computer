@@ -10,4 +10,4 @@
 
 # 02 可能考法 根据C语言程序 回答 存储区域
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405131143694.png" alt="image-20240513114308585" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406211832545.png" alt="image-20240621183217440" style="zoom:50%;" />
