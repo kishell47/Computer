@@ -16,7 +16,7 @@
 
 # 03 交换技术
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406221508187.png" alt="image-20240622150852788" style="zoom:50%;" />
 
 
 
