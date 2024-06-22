@@ -4,13 +4,13 @@
 
 # 01 覆盖 交换 知识总览
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405131149600.png" alt="image-20240513114911501" style="zoom: 50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406221057712.png" alt="01 覆盖 交换 知识总览" style="zoom:50%;" />
 
 
 
 # 02 覆盖技术
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405131246497.png" alt="image-20240513124607248" style="zoom:50%;" />
+<img src="C:\Users\51532\AppData\Roaming\Typora\typora-user-images\image-20240622105722754.png" alt="image-20240622105722754" style="zoom:50%;" />
 
 
 
