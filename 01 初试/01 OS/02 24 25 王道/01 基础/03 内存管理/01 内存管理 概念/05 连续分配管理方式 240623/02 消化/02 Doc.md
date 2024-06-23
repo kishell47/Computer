@@ -4,7 +4,7 @@
 
 # 01 连续分配管理方式 知识总览
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404261357463.png" alt="image-20240426135749273" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406231144865.png" alt="image-20240623114423572" style="zoom:50%;" />
 
 
 
