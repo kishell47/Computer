@@ -10,7 +10,7 @@
 
 # 02 单一连续分配
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405131533282.png" alt="image-20240513153341145" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406231511538.png" alt="image-20240623151116083" style="zoom:50%;" />
 
 
 
