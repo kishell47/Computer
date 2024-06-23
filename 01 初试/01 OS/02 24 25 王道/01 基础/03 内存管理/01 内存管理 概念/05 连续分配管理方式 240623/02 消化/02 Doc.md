@@ -16,7 +16,7 @@
 
 # 03 固定分区分配
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405131626877.png" alt="image-20240513162656462" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406231643419.png" alt="image-20240623164338913" style="zoom:50%;" />
 
 
 
