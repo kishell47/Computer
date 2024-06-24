@@ -22,7 +22,7 @@
 
 # 04 最坏适应算法
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405132215507.png" alt="image-20240513221548357" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406241651937.png" alt="image-20240624165154727" style="zoom:50%;" />
 
 
 
