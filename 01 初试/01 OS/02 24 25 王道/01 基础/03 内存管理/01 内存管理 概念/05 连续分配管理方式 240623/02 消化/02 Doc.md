@@ -24,10 +24,9 @@
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406232223797.png" alt="image-20240623222337466" style="zoom:50%;" />
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406240824291.png" alt="image-20240624082422843" style="zoom: 50%;" />
 
 
 
 # 05 知识回顾与重要考点
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405131927874.png" alt="image-20240513192746746" style="zoom:50%;" />
