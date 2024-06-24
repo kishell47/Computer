@@ -22,13 +22,13 @@
 
 # 04 最坏适应算法
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406241651937.png" alt="image-20240624165154727" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406241703335.png" alt="image-20240624170346092" style="zoom:50%;" />
 
 
 
 # 05 邻近适应算法
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405140728279.png" alt="image-20240514072833026" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406241659456.png" alt="image-20240624165943269" style="zoom:50%;" />
 
 
 
