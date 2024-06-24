@@ -16,7 +16,7 @@
 
 # 03 最佳适应算法
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405132151100.png" alt="image-20240513215100923" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406241556929.png" alt="image-20240624155621760" style="zoom:50%;" />
 
 
 
