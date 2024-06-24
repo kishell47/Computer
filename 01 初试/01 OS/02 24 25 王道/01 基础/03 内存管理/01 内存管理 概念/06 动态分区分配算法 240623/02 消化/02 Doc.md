@@ -10,7 +10,7 @@
 
 # 02 首次适应算法
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405132119986.png" alt="image-20240513211923788" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406241459334.png" alt="image-20240624145905999" style="zoom:50%;" />
 
 
 
