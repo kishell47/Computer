@@ -1,0 +1,25 @@
+# 基本地址变换机构
+
+
+
+# 01 基本地址变换机构 知识总览
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405141450373.png" alt="image-20240514145033249" style="zoom:50%;" />
+
+
+
+# 02 基本地址变换机构
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405141626054.png" alt="image-20240514162615515" style="zoom:50%;" />
+
+
+
+# 03 对页表项大小 进一步探讨
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405141710576.png" alt="image-20240514171000363" style="zoom:50%;" />
+
+
+
+# 04 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405141730763.png" alt="image-20240514173039620" style="zoom:50%;" />
