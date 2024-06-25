@@ -46,10 +46,9 @@
 
 # 08 逻辑地址结构
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405141228852.png" alt="image-20240514122816755" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406252229289.png" alt="image-20240625222904023" style="zoom: 50%;" />
 
 
 
 # 09 知识回顾与重要考点
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405141242980.png" alt="image-20240514124228870" style="zoom:50%;" />
