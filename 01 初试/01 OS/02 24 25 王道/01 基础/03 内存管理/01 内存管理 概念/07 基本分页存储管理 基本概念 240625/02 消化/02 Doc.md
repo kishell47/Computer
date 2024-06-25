@@ -22,7 +22,7 @@
 
 # 04 问题1 每个页表项 占多少字节
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405140947666.png" alt="image-20240514094737453" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406251834565.png" alt="image-20240625183455960" style="zoom:50%;" />
 
 
 
