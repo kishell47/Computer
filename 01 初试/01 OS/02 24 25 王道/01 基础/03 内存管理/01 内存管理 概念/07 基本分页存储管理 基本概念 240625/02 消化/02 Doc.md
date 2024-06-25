@@ -10,7 +10,7 @@
 
 # 02 什么是分页存储
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405140834811.png" alt="image-20240514083457578" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406251546129.png" alt="image-20240625154649940" style="zoom:50%;" />
 
 
 
