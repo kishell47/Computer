@@ -40,7 +40,7 @@
 
 # 07 子问题 为何 页面大小 要取2的整数幂
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405141154747.png" alt="image-20240514115450675" style="zoom: 50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406252216850.png" alt="image-20240625221623735" style="zoom:50%;" />
 
 
 
