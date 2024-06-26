@@ -4,7 +4,7 @@
 
 # 01 基本地址变换机构 知识总览
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405141450373.png" alt="image-20240514145033249" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406261106587.png" alt="image-20240626110609255" style="zoom:50%;" />
 
 
 
