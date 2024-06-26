@@ -23,3 +23,9 @@
 # 04 知识回顾与重要考点
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406261727877.png" alt="image-20240626172755484" style="zoom:50%;" />
+
+
+
+# 05 例题 总结
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406262057084.png" alt="image-20240626205704696" style="zoom:50%;" />
