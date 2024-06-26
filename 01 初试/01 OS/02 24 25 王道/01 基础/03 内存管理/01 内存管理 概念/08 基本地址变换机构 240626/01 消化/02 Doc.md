@@ -10,7 +10,7 @@
 
 # 02 基本地址变换机构
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406261143615.png" alt="image-20240626114301170" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406262154240.png" alt="image-20240626215425405" style="zoom:50%;" />
 
 
 
