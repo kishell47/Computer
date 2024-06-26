@@ -16,7 +16,7 @@
 
 # 03 对页表项大小 进一步探讨
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405141710576.png" alt="image-20240514171000363" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406261720278.png" alt="image-20240626172026758" style="zoom:50%;" />
 
 
 
