@@ -28,7 +28,7 @@
 
 # 05 引入快表后 地址的变换过程
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406271622314.png" alt="image-20240627162228060" style="zoom: 50%;" />
 
 
 
