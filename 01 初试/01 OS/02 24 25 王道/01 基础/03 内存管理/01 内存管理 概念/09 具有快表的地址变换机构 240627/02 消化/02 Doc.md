@@ -16,7 +16,7 @@
 
 # 03 思考 能否把 整个页表 都放在TLB中
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405141836820.png" alt="image-20240514183622661" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406271440663.png" alt="image-20240627144056499" style="zoom:50%;" />
 
 
 
