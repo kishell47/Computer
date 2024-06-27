@@ -28,4 +28,4 @@
 
 # 05 例题 总结
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406271709722.png" alt="image-20240627170906391" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406271714967.png" alt="image-20240627171459487" style="zoom:50%;" />
