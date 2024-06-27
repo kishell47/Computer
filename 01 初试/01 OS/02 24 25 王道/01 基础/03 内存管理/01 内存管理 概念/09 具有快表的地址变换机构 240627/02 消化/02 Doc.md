@@ -34,7 +34,7 @@
 
 # 06 局部性原理
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405142158307.png" alt="image-20240514215859091" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406271636020.png" alt="image-20240627163620870" style="zoom:50%;" />
 
 
 
