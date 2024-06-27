@@ -22,13 +22,13 @@
 
 # 04 什么是快表 TLB
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405141921525.png" alt="image-20240514192157291" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406271611144.png" alt="image-20240627161137901" style="zoom:50%;" />
 
 
 
 # 05 引入快表后 地址的变换过程
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405142134004.png" alt="image-20240514213434656" style="zoom:50%;" />
+
 
 
 
