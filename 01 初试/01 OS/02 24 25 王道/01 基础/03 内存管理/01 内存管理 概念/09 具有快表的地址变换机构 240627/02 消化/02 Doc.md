@@ -10,7 +10,7 @@
 
 # 02 什么是快表 TLB
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405141806067.png" alt="image-20240514180653912" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406271240322.png" alt="image-20240627124015174" style="zoom:50%;" />
 
 
 
