@@ -4,7 +4,7 @@
 
 # 01 具有快表的地址变换机构 知识总览
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405141740646.png" alt="image-20240514174003562" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406271157244.png" alt="image-20240627115735033" style="zoom: 50%;" />
 
 
 
