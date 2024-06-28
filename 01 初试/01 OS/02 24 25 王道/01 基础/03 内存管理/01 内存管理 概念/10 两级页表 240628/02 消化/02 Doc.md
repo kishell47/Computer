@@ -34,13 +34,13 @@
 
 # 06 如何解决 单级页表的问题
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405150953347.png" alt="image-20240515095319138" style="zoom: 50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406281144620.png" alt="image-20240628114418386" style="zoom:50%;" />
 
 
 
 # 07 需要注意的几个细节
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405151019113.png" alt="image-20240515101938749" style="zoom:50%;" />
+
 
 
 
