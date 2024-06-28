@@ -22,7 +22,7 @@
 
 # 04 两级页表 原理 地址结构
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405150904009.png" alt="image-20240515090439750" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406281058747.png" alt="image-20240628105829522" style="zoom:50%;" />
 
 
 
