@@ -10,7 +10,7 @@
 
 # 02 分段
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405151415997.png" alt="image-20240515141546762" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406281845834.png" alt="image-20240628184511004" style="zoom:50%;" />
 
 
 
