@@ -10,13 +10,13 @@
 
 # 02 单级页表 存在的问题
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406281004659.png" alt="image-20240628100413496" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406281023539.png" alt="image-20240628102330377" style="zoom:50%;" />
 
 
 
 # 03 如何解决 单级页表的问题
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405150811125.png" alt="image-20240515081134982" style="zoom:50%;" />
+
 
 
 
