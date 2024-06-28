@@ -10,7 +10,7 @@
 
 # 02 单级页表 存在的问题
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405150753745.png" alt="image-20240515075343481" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406281002100.png" alt="image-20240628100241971" style="zoom:50%;" />
 
 
 
