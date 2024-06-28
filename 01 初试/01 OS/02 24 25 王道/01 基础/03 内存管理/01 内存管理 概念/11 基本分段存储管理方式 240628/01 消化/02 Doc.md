@@ -28,9 +28,10 @@
 
 # 05 分段 分页管理 对比
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406282153925.png" alt="image-20240628215312212" style="zoom:50%;" />
 
 
 
 # 06 知识回顾与重要考点
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406282156955.png" alt="image-20240628215635560" style="zoom:50%;" />
