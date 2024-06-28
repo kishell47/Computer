@@ -40,10 +40,9 @@
 
 # 07 需要注意的几个细节
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406281430795.png" alt="image-20240628143000258" style="zoom:50%;" />
 
 
 
 # 08 知识回顾与重要考点
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405151032907.png" alt="image-20240515103217735" style="zoom:50%;" />
