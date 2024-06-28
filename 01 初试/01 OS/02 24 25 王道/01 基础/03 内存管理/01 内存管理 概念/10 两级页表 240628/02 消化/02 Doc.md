@@ -16,7 +16,7 @@
 
 # 03 如何解决 单级页表的问题
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406281040356.png" alt="image-20240628104020231" style="zoom:50%;" />
 
 
 
