@@ -4,7 +4,7 @@
 
 # 01 基本分段存储管理方式 知识总览
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405151053241.png" alt="image-20240515105336135" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406281650842.png" alt="image-20240628165043521" style="zoom:50%;" />
 
 
 
