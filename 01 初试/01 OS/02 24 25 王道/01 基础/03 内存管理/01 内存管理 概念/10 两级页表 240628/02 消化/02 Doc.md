@@ -4,7 +4,7 @@
 
 # 01 两级页表 知识总览
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405142219026.png" alt="image-20240514221945901" style="zoom: 50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406280948787.png" alt="image-20240628094810622" style="zoom:50%;" />
 
 
 
