@@ -4,7 +4,7 @@
 
 # 01 请求分页管理方式 知识总览
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405192103641.png" alt="image-20240519210316398" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406292033357.png" style="zoom:50%;" />
 
 
 
