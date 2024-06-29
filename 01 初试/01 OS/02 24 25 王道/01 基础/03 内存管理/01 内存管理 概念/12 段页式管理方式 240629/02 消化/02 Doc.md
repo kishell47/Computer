@@ -16,7 +16,7 @@
 
 # 03 分段 + 分页 = 段页式管理
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405160949546.png" alt="image-20240516094936444" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406291143138.png" alt="image-20240629114356050" style="zoom:50%;" />
 
 
 
