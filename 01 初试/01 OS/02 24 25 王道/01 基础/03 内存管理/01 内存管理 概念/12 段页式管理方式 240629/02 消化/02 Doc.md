@@ -22,7 +22,7 @@
 
 # 04 段页式管理 逻辑地址结构
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405161024421.png" alt="image-20240516102439253" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406291159909.png" alt="image-20240629115929759" style="zoom:50%;" />
 
 
 
