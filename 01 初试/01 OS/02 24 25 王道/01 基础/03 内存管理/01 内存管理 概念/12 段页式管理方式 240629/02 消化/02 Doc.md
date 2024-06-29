@@ -4,13 +4,13 @@
 
 # 01 段页式管理方式 知识总览
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405160907946.png" alt="image-20240516090752841" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406291124501.png" alt="image-20240629112428405" style="zoom:50%;" />
 
 
 
 # 02 分页 分段 优缺点分析
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405160936119.png" alt="image-20240516093645925" style="zoom:50%;" />
+
 
 
 
