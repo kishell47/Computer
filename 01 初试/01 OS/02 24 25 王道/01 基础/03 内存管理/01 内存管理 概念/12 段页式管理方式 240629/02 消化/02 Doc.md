@@ -28,10 +28,10 @@
 
 # 05 段表 页表
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405161111432.png" alt="image-20240516111108089" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406291431285.png" alt="image-20240629143151801" style="zoom:50%;" />
 
 
 
 # 06 知识回顾与重要考点
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405161126150.png" alt="image-20240516112601990" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406291436231.png" alt="image-20240629143639836" style="zoom:50%;" />
