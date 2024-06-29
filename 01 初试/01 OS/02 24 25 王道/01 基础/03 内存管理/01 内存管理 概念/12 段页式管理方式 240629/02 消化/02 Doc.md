@@ -10,7 +10,7 @@
 
 # 02 分页 分段 优缺点分析
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406291142304.png" alt="image-20240629114200156" style="zoom:50%;" />
 
 
 
