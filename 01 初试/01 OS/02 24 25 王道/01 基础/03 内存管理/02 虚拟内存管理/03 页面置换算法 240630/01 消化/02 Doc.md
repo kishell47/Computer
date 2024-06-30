@@ -4,7 +4,7 @@
 
 # 01 页面置换算法 知识总览
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405200847804.png" alt="image-20240520084759560" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407010735255.png" alt="image-20240701073503944" style="zoom:50%;" />
 
 
 
