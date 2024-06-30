@@ -10,7 +10,7 @@
 
 # 02 页表机制
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405192128736.png" alt="image-20240519212857519" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406301623394.png" alt="image-20240630162359240" style="zoom: 50%;" />
 
 
 
