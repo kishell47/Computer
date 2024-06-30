@@ -22,7 +22,7 @@
 
 # 04 地址变换机构
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406301842780.png" alt="image-20240630184224790" style="zoom:50%;" />
 
 
 
