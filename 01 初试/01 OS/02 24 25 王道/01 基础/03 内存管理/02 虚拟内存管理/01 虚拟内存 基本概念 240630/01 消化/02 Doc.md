@@ -4,7 +4,7 @@
 
 # 01 虚拟内存 基本概念 知识总览
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405161239447.png" alt="image-20240516123900297" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406300926671.png" alt="image-20240630092640488" style="zoom:50%;" />
 
 
 
