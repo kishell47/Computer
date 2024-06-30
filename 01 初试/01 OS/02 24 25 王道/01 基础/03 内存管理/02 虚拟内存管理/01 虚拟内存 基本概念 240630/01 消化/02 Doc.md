@@ -10,7 +10,7 @@
 
 # 02 传统存储管理方式 特征 缺点
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405161602357.png" alt="image-20240516160225181" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406301026877.png" alt="image-20240630102647565" style="zoom:50%;" />
 
 
 
