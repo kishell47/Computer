@@ -10,7 +10,7 @@
 
 # 02 最佳置换算法 OPT
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405200948616.png" alt="image-20240520094843228" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407010754201.png" alt="image-20240701075439662" style="zoom: 50%;" />
 
 
 
