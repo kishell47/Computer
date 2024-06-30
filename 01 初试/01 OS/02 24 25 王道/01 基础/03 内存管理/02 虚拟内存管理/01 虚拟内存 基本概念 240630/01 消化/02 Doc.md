@@ -28,10 +28,9 @@
 
 # 05 如何实现 虚拟内存技术
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405161708478.png" alt="image-20240516170850323" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406301522698.png" alt="image-20240630152205338" style="zoom:50%;" />
 
 
 
 # 06 知识回顾与重要考点
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405161722927.png" alt="image-20240516172245770" style="zoom:50%;" />
