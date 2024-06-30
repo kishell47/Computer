@@ -16,13 +16,13 @@
 
 # 03 局部性原理
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405161618200.png" alt="image-20240516161846083" style="zoom: 50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406301137187.png" alt="image-20240630113702873" style="zoom:50%;" />
 
 
 
 # 04 虚拟内存 定义 特征
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405161639522.png" alt="image-20240516163912395" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406301440275.png" alt="image-20240630144047018" style="zoom:50%;" />
 
 
 
