@@ -16,13 +16,13 @@
 
 # 03 缺页中断机构
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405192203740.png" alt="image-20240519220332514" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202406301757271.png" alt="image-20240630175752050" style="zoom:50%;" />
 
 
 
 # 04 地址变换机构
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405200759829.png" alt="image-20240520075947048" style="zoom:50%;" />
+
 
 
 
