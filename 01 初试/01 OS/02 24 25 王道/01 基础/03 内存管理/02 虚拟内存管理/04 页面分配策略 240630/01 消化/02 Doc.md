@@ -12,7 +12,7 @@
 
 # 02 页面分配 置换策略
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405201615533.png" alt="image-20240520161557042" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407011854704.png" alt="image-20240701185438830" style="zoom:50%;" />
 
 
 
