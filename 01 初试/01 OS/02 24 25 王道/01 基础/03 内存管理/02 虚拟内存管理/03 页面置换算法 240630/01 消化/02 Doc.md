@@ -16,7 +16,7 @@
 
 # 03 先进先出置换算法 FIFO
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405201030446.png" alt="image-20240520103045043" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407011047770.png" alt="image-20240701104749520" style="zoom:50%;" />
 
 
 
