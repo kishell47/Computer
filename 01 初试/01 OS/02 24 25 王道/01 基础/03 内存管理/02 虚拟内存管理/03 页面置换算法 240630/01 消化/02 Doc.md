@@ -28,7 +28,9 @@
 
 # 05 时钟置换算法 CLOCK
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405201219366.png" alt="image-20240520121952839" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407011236157.png" alt="image-20240701123636496" style="zoom:50%;" />
+
+
 
 # 06 改进型 时钟置换算法
 
