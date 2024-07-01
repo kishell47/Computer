@@ -22,7 +22,7 @@
 
 # 04 最近最久未使用置换算法 LRU
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405201059884.png" alt="image-20240520105954622" style="zoom:67%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407011144092.png" alt="image-20240701114412728" style="zoom:50%;" />
 
 
 
