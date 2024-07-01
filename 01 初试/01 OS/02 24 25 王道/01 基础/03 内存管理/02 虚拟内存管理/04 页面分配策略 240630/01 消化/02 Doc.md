@@ -6,7 +6,7 @@
 
 # 01 页面分配策略 知识总览
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405201509325.png" alt="image-20240520150901202" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407011750598.png" alt="image-20240701175010465" style="zoom:50%;" />
 
 
 
