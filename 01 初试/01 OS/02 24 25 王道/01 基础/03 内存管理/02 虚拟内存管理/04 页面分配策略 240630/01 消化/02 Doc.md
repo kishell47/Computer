@@ -18,13 +18,13 @@
 
 # 03 何时 调入页面
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405201701219.png" alt="image-20240520170152771" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407040848522.png" alt="image-20240704084812876" style="zoom:50%;" />
 
 
 
 # 04 抖动 颠簸 现象
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405201714054.png" style="zoom:50%;" />
+
 
 
 
