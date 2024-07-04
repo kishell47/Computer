@@ -22,10 +22,10 @@
 
 # 04 内存映射文件 Memory-Mapped Files
 
-![image-20240704092515049](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407040925260.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407040925260.png" alt="image-20240704092515049" style="zoom:50%;" />
 
 
 
 # 05 知识回顾
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405202131437.png" alt="image-20240520213115317" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407040927474.png" alt="image-20240704092729375" style="zoom:50%;" />
