@@ -24,16 +24,15 @@
 
 # 04 抖动 颠簸 现象
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407040851991.png" alt="image-20240704085113778" style="zoom:50%;" />
 
 
 
 # 05 工作集
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405201741753.png" alt="image-20240520174123594" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407040856441.png" alt="image-20240704085628031" style="zoom:50%;" />
 
 
 
 # 06 知识回顾与重要考点
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405201758839.png" alt="image-20240520175834593" style="zoom:50%;" />
