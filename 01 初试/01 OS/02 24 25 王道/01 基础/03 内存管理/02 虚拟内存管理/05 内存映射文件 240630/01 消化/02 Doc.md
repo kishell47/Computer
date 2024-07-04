@@ -16,13 +16,13 @@
 
 # 03 传统 文件访问方式
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407040917380.png" alt="image-20240704091714036" style="zoom:50%;" />
 
 
 
 # 04 内存映射文件 Memory-Mapped Files
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405202126476.png" alt="image-20240520212604167" style="zoom:50%;" />
+
 
 
 
