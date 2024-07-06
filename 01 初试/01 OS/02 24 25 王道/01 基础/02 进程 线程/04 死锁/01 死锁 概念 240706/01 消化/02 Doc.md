@@ -16,13 +16,13 @@
 
 # 03 死锁 饥饿 死循环 区别
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407062217294.png" alt="image-20240706221725045" style="zoom:50%;" />
 
 
 
 # 04 死锁产生 必要条件
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405091019584.png" alt="image-20240509101926320" style="zoom:50%;" />
+
 
 
 
