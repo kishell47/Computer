@@ -10,13 +10,13 @@
 
 # 02 什么是死锁
 
-
+<img src="C:\Users\51532\AppData\Roaming\Typora\typora-user-images\image-20240706220036473.png" alt="image-20240706220036473" style="zoom:50%;" />
 
 
 
 # 03 死锁 饥饿 死循环 区别
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405090935662.png" alt="image-20240509093552428" style="zoom:50%;" />
+
 
 
 
