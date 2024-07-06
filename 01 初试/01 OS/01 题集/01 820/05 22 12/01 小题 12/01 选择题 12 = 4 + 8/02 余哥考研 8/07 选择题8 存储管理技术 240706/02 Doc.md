@@ -10,4 +10,4 @@
 
 # 02 答案
 
-![image-20240517104405044](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405171044120.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407062047528.png" style="zoom:50%;" />
