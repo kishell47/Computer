@@ -32,8 +32,10 @@
 
 # 06 链接分配 显式链接
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407071019341.png" alt="image-20240707101923630" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407071025616.png" alt="image-20240707102459886" style="zoom:50%;" />
 
 
 
-# 07 
+# 07 链接分配 总结
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407071028937.png" alt="image-20240707102808322" style="zoom:50%;" />
