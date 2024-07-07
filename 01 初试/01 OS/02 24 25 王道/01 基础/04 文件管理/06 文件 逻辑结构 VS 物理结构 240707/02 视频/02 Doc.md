@@ -39,3 +39,5 @@
 
 
 # 07 懵逼点 顺序文件采用顺序存储 链式存储
+
+![image-20240707165031029](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407071650333.png)
