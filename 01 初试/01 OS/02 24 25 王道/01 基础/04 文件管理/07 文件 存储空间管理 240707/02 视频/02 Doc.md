@@ -12,6 +12,12 @@
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404261129242.png" alt="image-20240426112901975" style="zoom:50%;" />
 
+
+
 # 03 存储空间管理 空闲表法
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404261148580.png" alt="image-20240426114812395" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407072145114.png" alt="image-20240707214508394" style="zoom:50%;" />
+
+
+
+# 
