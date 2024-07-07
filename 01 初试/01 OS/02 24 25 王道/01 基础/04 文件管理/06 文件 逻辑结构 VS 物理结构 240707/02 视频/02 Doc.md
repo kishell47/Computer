@@ -28,3 +28,14 @@
 
 # 05 例 C语言创建顺序文件
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407071602782.png" alt="image-20240707160242556" style="zoom:50%;" />
+
+
+
+# 06 物理结构 从操作系统视角看
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407071638595.png" alt="image-20240707163804331" style="zoom:50%;" />
+
+
+
+# 07 懵逼点 顺序文件采用顺序存储 链式存储
