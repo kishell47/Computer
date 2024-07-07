@@ -40,4 +40,20 @@
 
 # 07 懵逼点 顺序文件采用顺序存储 链式存储
 
-![image-20240707165031029](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407071650333.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407071650333.png" alt="image-20240707165031029" style="zoom:50%;" />
+
+
+
+# 08 链式存储的顺序文件采用连续分配
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407071701830.png" style="zoom:50%;" />
+
+
+
+# 09 链式存储的顺序文件采用链接分配
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407071707852.png" alt="image-20240707170729597" style="zoom:50%;" />
+
+
+
+# 10 逻辑结构 索引文件
