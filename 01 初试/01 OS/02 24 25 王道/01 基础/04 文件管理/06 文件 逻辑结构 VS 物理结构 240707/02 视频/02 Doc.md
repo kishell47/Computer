@@ -68,4 +68,6 @@
 
 
 
-# 12 
+# 12 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407071745781.png" alt="image-20240707174519167" style="zoom:50%;" />
