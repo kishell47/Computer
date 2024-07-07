@@ -24,4 +24,16 @@
 
 
 
-# 05 
+# 05 链接分配 隐式链接
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407070946577.png" alt="image-20240707094628308" style="zoom:50%;" />
+
+
+
+# 06 链接分配 显式链接
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407071019341.png" alt="image-20240707101923630" style="zoom:50%;" />
+
+
+
+# 07 
