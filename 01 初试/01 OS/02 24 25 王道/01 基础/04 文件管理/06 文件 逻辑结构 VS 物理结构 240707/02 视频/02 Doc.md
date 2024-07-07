@@ -57,3 +57,15 @@
 
 
 # 10 逻辑结构 索引文件
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407071728803.png" alt="image-20240707172813639" style="zoom:50%;" />
+
+
+
+# 11 索引文件采用索引分配
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407071735991.png" alt="image-20240707173527855" style="zoom:50%;" />
+
+
+
+# 12 
