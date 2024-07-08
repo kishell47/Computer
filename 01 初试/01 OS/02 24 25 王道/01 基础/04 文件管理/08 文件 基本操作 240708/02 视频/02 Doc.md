@@ -34,3 +34,9 @@
 
 # 06 读文件
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407081449305.png" alt="image-20240708144940132" style="zoom:50%;" />
+
+
+
+# 07 写文件
+
