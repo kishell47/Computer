@@ -28,3 +28,10 @@
 
 # 05 存储空间管理 位示图法
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407080906689.png" alt="image-20240708090634197" style="zoom:50%;" />
+
+
+
+# 06 存储空间管理 成组链接法
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407081000523.png" alt="image-20240708100026066" style="zoom:50%;" />
