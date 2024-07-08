@@ -26,4 +26,11 @@
 
 
 
-# 05 
+# 05 关闭文件
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407081434124.png" alt="image-20240708143400038" style="zoom:50%;" />
+
+
+
+# 06 读文件
+
