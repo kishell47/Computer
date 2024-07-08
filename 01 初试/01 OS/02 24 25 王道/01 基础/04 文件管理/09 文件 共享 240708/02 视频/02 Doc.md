@@ -16,3 +16,10 @@
 
 # 03 基于符号链的共享方式 软链接
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407081739777.png" alt="image-20240708173951279" style="zoom:50%;" />
+
+
+
+# 04 知识点回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407081747873.png" alt="image-20240708174714547" style="zoom:50%;" />
