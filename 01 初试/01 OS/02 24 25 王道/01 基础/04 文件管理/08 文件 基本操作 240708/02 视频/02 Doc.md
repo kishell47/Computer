@@ -22,3 +22,8 @@
 
 # 04 打开文件
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407081239087.png" alt="image-20240708123919842" style="zoom:50%;" />
+
+
+
+# 05 
