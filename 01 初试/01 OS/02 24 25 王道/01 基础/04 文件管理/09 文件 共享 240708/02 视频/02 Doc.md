@@ -10,8 +10,9 @@
 
 # 02 基于索引结点的共享方式 硬链接
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407081614375.png" alt="image-20240708161404196" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407081703908.png" style="zoom:50%;" />
 
 
 
-# 03 
+# 03 基于符号链的共享方式 软链接
+
