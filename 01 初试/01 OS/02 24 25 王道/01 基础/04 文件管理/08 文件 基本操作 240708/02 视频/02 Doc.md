@@ -14,4 +14,11 @@
 
 
 
-# 03 
+# 03 删除文件
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407081156469.png" alt="image-20240708115628335" style="zoom:50%;" />
+
+
+
+# 04 打开文件
+
