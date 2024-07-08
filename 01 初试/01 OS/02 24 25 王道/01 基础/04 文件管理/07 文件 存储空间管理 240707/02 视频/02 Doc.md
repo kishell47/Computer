@@ -34,4 +34,4 @@
 
 # 06 存储空间管理 成组链接法
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407081000523.png" alt="image-20240708100026066" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407081008926.png" alt="image-20240708100821483" style="zoom:50%;" />
