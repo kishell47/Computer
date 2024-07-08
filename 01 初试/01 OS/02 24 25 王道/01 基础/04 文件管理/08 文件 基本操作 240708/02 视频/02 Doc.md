@@ -40,3 +40,10 @@
 
 # 07 写文件
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407081508377.png" alt="image-20240708150813269" style="zoom:50%;" />
+
+
+
+# 08 知识点回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407081523549.png" alt="image-20240708152314411" style="zoom:50%;" />
