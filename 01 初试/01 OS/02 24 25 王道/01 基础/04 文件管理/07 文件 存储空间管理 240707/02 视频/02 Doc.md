@@ -22,3 +22,9 @@
 
 # 04 存储空间管理 空闲链表法
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407080831943.png" alt="image-20240708083102396" style="zoom:50%;" />
+
+
+
+# 05 存储空间管理 位示图法
+
