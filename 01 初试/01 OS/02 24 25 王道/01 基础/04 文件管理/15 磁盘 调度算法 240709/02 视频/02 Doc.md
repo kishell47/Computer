@@ -20,4 +20,36 @@
 
 
 
-# 04 
+# 04 最短寻找时间优先 SSTF
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407091745518.png" alt="image-20240709174530175" style="zoom:50%;" />
+
+
+
+# 05 扫描算法 SCAN
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407091757615.png" alt="image-20240709175707275" style="zoom:50%;" />
+
+
+
+# 06 LOOK 调度算法
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407091815771.png" alt="image-20240709181557511" style="zoom:50%;" />
+
+
+
+# 07 循环扫描算法 C-SCAN
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407091829979.png" alt="image-20240709182913833" style="zoom:50%;" />
+
+
+
+# 08 C-LOOK 调度算法
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407091836958.png" alt="image-20240709183604865" style="zoom:50%;" />
+
+
+
+# 09 知识点回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407091842327.png" alt="image-20240709184245194" style="zoom:50%;" />
