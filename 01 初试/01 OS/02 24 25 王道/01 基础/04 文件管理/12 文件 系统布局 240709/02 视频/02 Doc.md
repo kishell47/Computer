@@ -14,4 +14,10 @@
 
 
 
-# 03 
+# 03 逻辑格式化后 文件系统在外存中的结构
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407091000745.png" alt="image-20240709100050429" style="zoom:50%;" />
+
+
+
+# 04 文件系统在内存中的结构
