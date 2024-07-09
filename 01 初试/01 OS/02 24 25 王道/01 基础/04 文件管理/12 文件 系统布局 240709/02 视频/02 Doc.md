@@ -27,3 +27,5 @@
 
 
 # 05 open系统调用打开文件的背后过程
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407091034234.png" alt="image-20240709103428355" style="zoom:50%;" />
