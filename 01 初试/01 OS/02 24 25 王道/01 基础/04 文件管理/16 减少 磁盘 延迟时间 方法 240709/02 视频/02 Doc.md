@@ -22,8 +22,10 @@
 
 # 04 减少延迟时间的方法 错位命名
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407092158564.png" alt="image-20240709215803328" style="zoom: 50%;" />
 
 
 
+# 05 知识回顾与重要考点
 
-# 05 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407092205858.png" alt="image-20240709220519769" style="zoom:50%;" />
