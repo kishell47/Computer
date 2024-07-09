@@ -21,3 +21,9 @@
 
 
 # 04 文件系统在内存中的结构
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407091012738.png" alt="image-20240709101246612" style="zoom:50%;" />
+
+
+
+# 05 open系统调用打开文件的背后过程
