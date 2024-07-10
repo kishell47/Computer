@@ -20,4 +20,12 @@
 
 
 
-# 04 
+# 04 固态硬盘的结构
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407100946629.png" alt="image-20240710094610319" style="zoom:50%;" />
+
+
+
+# 05 理想情况下 固态硬盘的寿命
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407101007704.png" alt="image-20240710100724412" style="zoom:50%;" />
