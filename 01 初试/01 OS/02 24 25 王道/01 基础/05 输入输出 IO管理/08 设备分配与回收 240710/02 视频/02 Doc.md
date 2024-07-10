@@ -21,3 +21,9 @@
 
 
 # 04 设备分配管理中的数据结构
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407102135122.png" alt="image-20240710213519793" style="zoom:50%;" />
+
+
+
+# 05 设备分配的步骤
