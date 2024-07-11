@@ -27,3 +27,15 @@
 
 
 # 05 设备分配的步骤
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407110801222.png" alt="image-20240711080119841" style="zoom:50%;" />
+
+
+
+# 06 设备分配步骤的改进
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407110817340.png" alt="image-20240711081750926" style="zoom: 50%;" />
+
+
+
+# 07 知识回顾与重要考点
