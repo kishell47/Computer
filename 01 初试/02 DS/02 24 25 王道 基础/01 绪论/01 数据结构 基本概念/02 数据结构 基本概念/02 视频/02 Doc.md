@@ -15,3 +15,17 @@
 
 
 # 03 数据元素 数据项
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407111549598.png" alt="image-20240711154917298" style="zoom:50%;" />
+
+
+
+# 04 数据结构 数据对象
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407111622089.png" alt="image-20240711162250812" style="zoom:50%;" />
+
+
+
+# 05 数据结构的三要素
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407111652211.png" alt="image-20240711165258970" style="zoom:50%;" />
