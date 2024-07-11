@@ -34,4 +34,12 @@
 
 
 
-# 06 
+# 06 数据类型 抽象数据类型
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407111752499.png" alt="image-20240711175205338" style="zoom:50%;" />
+
+
+
+# 07 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407111800176.png" alt="image-20240711180049968" style="zoom:50%;" />
