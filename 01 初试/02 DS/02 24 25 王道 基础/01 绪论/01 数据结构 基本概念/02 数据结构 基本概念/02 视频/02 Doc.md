@@ -29,3 +29,9 @@
 # 05 数据结构的三要素
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407111652211.png" alt="image-20240711165258970" style="zoom:50%;" />
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407111738083.png" alt="image-20240711173848754" style="zoom:50%;" />
+
+
+
+# 06 
