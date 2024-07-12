@@ -22,7 +22,7 @@
 
 # 04 死锁产生 必要条件
 
-![image-20240712163614583](C:\Users\51532\AppData\Roaming\Typora\typora-user-images\image-20240712163614583.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407121647663.png" alt="image-20240712164724349" style="zoom:50%;" />
 
 
 
