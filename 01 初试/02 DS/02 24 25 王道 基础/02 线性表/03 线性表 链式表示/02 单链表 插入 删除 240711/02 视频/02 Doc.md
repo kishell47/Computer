@@ -32,4 +32,30 @@
 
 
 
-# 06 
+# 06 指定结点的前插操作
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407120831893.png" alt="image-20240712083117677" style="zoom:50%;" />
+
+
+
+# 07 按位序删除 带头结点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407120849832.png" alt="image-20240712084932717" style="zoom:50%;" />
+
+
+
+# 08 指定结点的删除
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407120910325.png" alt="image-20240712091023199" style="zoom:50%;" />
+
+
+
+# 09 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407120918149.png" alt="image-20240712091854050" style="zoom:50%;" />
+
+
+
+# 10 封装的好处
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407120922557.png" alt="image-20240712092237473" style="zoom:50%;" />
