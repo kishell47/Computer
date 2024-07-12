@@ -4,7 +4,7 @@
 
 # 01 哲学家进餐问题 问题描述
 
-<img src="C:\Users\51532\AppData\Roaming\Typora\typora-user-images\image-20240712170731228.png" alt="image-20240712170731228" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407121743450.png" alt="image-20240712174337298" style="zoom:50%;" />
 
 
 
