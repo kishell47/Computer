@@ -28,16 +28,16 @@
 
 # 05 什么时候 会发生死锁
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405091051756.png" alt="image-20240509105128647" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407122121817.png" alt="image-20240712212116671" style="zoom: 50%;" />
 
 
 
 # 06 死锁 处理策略
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405091105774.png" alt="image-20240509110513685" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407122124443.png" alt="image-20240712212403341" style="zoom:50%;" />
 
 
 
 # 07 知识回顾与重要考点
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405091113669.png" alt="image-20240509111341526" style="zoom: 50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407122126391.png" alt="image-20240712212608266" style="zoom:50%;" />
