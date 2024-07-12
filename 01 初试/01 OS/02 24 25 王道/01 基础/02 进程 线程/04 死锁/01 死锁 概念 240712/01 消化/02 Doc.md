@@ -10,7 +10,7 @@
 
 # 02 什么是死锁
 
-<img src="C:\Users\51532\AppData\Roaming\Typora\typora-user-images\image-20240706220036473.png" alt="image-20240706220036473" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407121631644.png" alt="image-20240712163150291" style="zoom:50%;" />
 
 
 
@@ -22,7 +22,7 @@
 
 # 04 死锁产生 必要条件
 
-
+![image-20240712163614583](C:\Users\51532\AppData\Roaming\Typora\typora-user-images\image-20240712163614583.png)
 
 
 
