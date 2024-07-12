@@ -10,7 +10,7 @@
 
 # 02 哲学家进餐问题 问题分析
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405071237128.png" alt="image-20240507123749902" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407122031257.png" alt="image-20240712203131052" style="zoom:50%;" />
 
 
 
