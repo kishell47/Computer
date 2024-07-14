@@ -16,10 +16,10 @@
 
 # 03 死锁 解除
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407142113393.png" alt="image-20240714211319099" style="zoom:50%;" />
 
 
 
 # 04 知识回顾与重要考点
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405100840147.png" alt="image-20240510084041029" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407142115711.png" alt="image-20240714211500514" style="zoom:50%;" />
