@@ -16,7 +16,7 @@
 
 # 03 安全序列 不安全状态 死锁 联系
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407141827510.png" alt="image-20240714182737377" style="zoom:50%;" />
 
 
 
