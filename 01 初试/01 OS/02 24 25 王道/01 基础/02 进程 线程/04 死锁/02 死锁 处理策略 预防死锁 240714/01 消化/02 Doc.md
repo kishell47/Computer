@@ -16,19 +16,19 @@
 
 # 03 破坏 不剥夺条件
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407141729407.png" alt="image-20240714172913114" style="zoom:50%;" />
 
 
 
 # 04 破坏 请求和保持条件
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405091458891.png" alt="image-20240509145814706" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407141736380.png" alt="image-20240714173627266" style="zoom:50%;" />
 
 
 
 # 05 破坏 循环等待条件
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405091528606.png" alt="image-20240509152804405" style="zoom:50%;" />
+
 
 
 
