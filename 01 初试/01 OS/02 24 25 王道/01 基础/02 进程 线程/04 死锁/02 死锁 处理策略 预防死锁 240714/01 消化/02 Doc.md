@@ -34,4 +34,4 @@
 
 # 06 知识回顾与重要考点
 
-<img src="C:\Users\51532\AppData\Roaming\Typora\typora-user-images\image-20240714180138444.png" alt="image-20240714180138444" style="zoom: 50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407170759547.png" alt="image-20240717075919273" style="zoom:50%;" />
