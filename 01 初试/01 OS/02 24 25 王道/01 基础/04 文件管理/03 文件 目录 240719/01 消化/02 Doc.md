@@ -40,10 +40,10 @@
 
 # 07 索引结点 FCB的改进
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407191637525.png" alt="image-20240719163755189" style="zoom:50%;" />
 
 
 
 # 08 知识点回顾与重要考点
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405211825339.png" alt="image-20240521182559125" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407191641835.png" alt="image-20240719164156450" style="zoom:50%;" />
