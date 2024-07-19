@@ -34,13 +34,13 @@
 
 # 06 目录结构 无环图目录结构
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407191629767.png" alt="image-20240719162958416" style="zoom:50%;" />
 
 
 
 # 07 索引结点 FCB的改进
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405211752544.png" alt="image-20240521175234213" style="zoom:50%;" />
+
 
 
 
