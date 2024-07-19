@@ -16,13 +16,13 @@
 
 # 03 目录结构 单级目录结构
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405211248329.png" alt="image-20240521124844212" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407191612003.png" alt="image-20240719161231713" style="zoom:50%;" />
 
 
 
 # 04 目录结构 两级目录结构
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405211542383.png" alt="image-20240521154208236" style="zoom: 50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407191614714.png" alt="image-20240719161442494" style="zoom:50%;" />
 
 
 
