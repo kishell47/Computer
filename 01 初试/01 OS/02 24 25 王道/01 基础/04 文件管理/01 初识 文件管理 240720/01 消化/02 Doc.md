@@ -10,13 +10,13 @@
 
 # 02 从最熟悉的Windows操作系统出发 文件属性
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407201051465.png" alt="image-20240720105116848" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407201054506.png" alt="image-20240720105402140" style="zoom:50%;" />
 
 
 
 # 03 文件内部的数据应该怎样组织起来?
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407192147096.png" alt="image-20240719214719689" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407201051465.png" alt="image-20240720105116848" style="zoom:50%;" />
 
 
 
