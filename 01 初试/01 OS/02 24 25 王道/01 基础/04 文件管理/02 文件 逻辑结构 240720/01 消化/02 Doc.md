@@ -28,13 +28,13 @@
 
 # 05 顺序文件
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407211508099.png" alt="image-20240721150805521" style="zoom:50%;" />
 
 
 
 # 06 索引文件
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405210934937.png" alt="image-20240521093403717" style="zoom:50%;" />
+
 
 
 
