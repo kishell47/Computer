@@ -34,28 +34,28 @@
 
 # 06 索引文件
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407211515548.png" alt="image-20240721151509272" style="zoom:50%;" />
 
 
 
 # 07 索引顺序文件
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405210956719.png" alt="image-20240521095601568" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407211520080.png" alt="image-20240721152000845" style="zoom:50%;" />
 
 
 
 # 08 索引顺序文件 检索效率分析
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405211010555.png" alt="image-20240521101046421" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407211523637.png" alt="image-20240721152350354" style="zoom:50%;" />
 
 
 
 # 09 多级 索引顺序文件
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405211022355.png" alt="image-20240521102223235" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407211527647.png" alt="image-20240721152729454" style="zoom:50%;" />
 
 
 
 # 10 知识点回顾与重要考点
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405211037293.png" alt="image-20240521103723129" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407211531637.png" alt="image-20240721153114372" style="zoom:50%;" />
