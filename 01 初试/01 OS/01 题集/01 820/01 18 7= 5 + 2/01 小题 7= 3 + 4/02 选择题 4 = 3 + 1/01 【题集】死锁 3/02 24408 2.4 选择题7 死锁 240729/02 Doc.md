@@ -6,11 +6,13 @@
 
 # 02 答案
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407291153853.png" alt="image-20240729115311757" style="zoom:50%;" />
+
 
 
 # 03 视频消化
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202407291152528.png" alt="image-20240729115207387" style="zoom:50%;" />
 
 
 
