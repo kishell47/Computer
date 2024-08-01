@@ -12,19 +12,11 @@
 
 # 02 答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402171844032.png" alt="image-20240217184414771" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202408010840777.png" alt="image-20240801084029565" style="zoom:50%;" />
 
 
 
-
-
-# 03 答案解析
-
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202408010836406.png" alt="image-20240801083606249" style="zoom:50%;" />
-
-
-
-# 04 视频
+# 03 视频
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402221147561.png" alt="image-20240222114738159" style="zoom:50%;" />
 
