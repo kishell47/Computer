@@ -4,13 +4,13 @@
 
 # 01 文件 存储空间管理 知识总览
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404261052173.png" alt="image-20240426105203944" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202408010849455.png" alt="image-20240801084922328" style="zoom:50%;" />
 
 
 
 # 02 存储空间的划分与初始化
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404261129242.png" alt="image-20240426112901975" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202408010853166.png" alt="image-20240801085330054" style="zoom:50%;" />
 
 
 
