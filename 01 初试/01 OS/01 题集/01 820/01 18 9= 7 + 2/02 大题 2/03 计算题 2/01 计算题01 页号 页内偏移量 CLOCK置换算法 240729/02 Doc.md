@@ -1,6 +1,6 @@
 # 00 背诵
 
-<img src="C:\Users\51532\AppData\Roaming\Typora\typora-user-images\image-20240731223049079.png" alt="image-20240731223049079" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202408010821250.png" alt="image-20240801082138305" style="zoom:50%;" />
 
 
 
