@@ -4,7 +4,7 @@
 
 # 01 读者-写者问题 问题描述
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202405070734228.png" alt="image-20240507073451917" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202408011217295.png" alt="image-20240801121742737" style="zoom:50%;" />
 
 
 
