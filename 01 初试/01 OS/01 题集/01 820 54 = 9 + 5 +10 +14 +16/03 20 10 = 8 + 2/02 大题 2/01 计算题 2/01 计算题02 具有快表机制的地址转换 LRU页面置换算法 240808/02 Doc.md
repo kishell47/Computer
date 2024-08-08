@@ -1,6 +1,6 @@
 # 00 背诵
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202408082143978.png" alt="image-20240808214355841" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202408082214695.png" style="zoom:50%;" />
 
 # 01 题目
 
@@ -10,9 +10,7 @@
 
 # 02 答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202408082050712.png" alt="image-20240808205000358" style="zoom:50%;" />
-
-
+![image-20240808221453936](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202408082214158.png)
 
 # 03 视频
 
