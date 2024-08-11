@@ -4,11 +4,9 @@
 
 
 
-
-
 # 02 答案
 
-<img src="C:\Users\Administrator\Desktop\Computer\01 初试\01 OS\01 题集\01 820 54 = 9 + 5 +10 +14 +16\03 20 10 = 8 + 2\02 大题 2\01 计算题 2\03 计算题03 进程同步 互斥 PV操作 240810\01 Pic\02 答案.png" alt="02 答案" style="zoom:50%;" />
+<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240811121851846.png" alt="image-20240811121851846" style="zoom:50%;" />
 
 
 
