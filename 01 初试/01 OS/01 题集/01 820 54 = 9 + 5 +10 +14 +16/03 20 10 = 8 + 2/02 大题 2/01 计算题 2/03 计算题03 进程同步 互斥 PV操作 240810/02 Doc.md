@@ -6,7 +6,7 @@
 
 # 02 答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202408111802410.png" alt="image-20240811180226768" style="zoom:50%;" />
+![image-20240811222909747](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240811222909747.png)
 
 
 
