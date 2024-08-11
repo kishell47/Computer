@@ -6,13 +6,7 @@
 
 # 02 答案
 
-
-
-
-
-
-
-
+<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240811111708991.png" alt="image-20240811111708991" style="zoom:50%;" />
 
 
 
