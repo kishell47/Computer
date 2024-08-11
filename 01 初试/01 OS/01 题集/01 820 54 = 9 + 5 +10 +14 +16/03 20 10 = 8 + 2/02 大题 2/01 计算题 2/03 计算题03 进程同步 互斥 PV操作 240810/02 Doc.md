@@ -6,7 +6,7 @@
 
 # 02 答案
 
-![image-20240811222909747](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240811222909747.png)
+<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240811222909747.png" alt="image-20240811222909747" style="zoom:50%;" />
 
 
 
