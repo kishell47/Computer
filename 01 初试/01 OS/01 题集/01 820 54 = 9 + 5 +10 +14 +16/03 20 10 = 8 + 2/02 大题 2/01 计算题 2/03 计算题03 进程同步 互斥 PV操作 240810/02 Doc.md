@@ -6,7 +6,7 @@
 
 # 02 答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202408111459937.png" alt="image-20240811145939608" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202408111802410.png" alt="image-20240811180226768" style="zoom:50%;" />
 
 
 
