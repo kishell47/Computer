@@ -6,7 +6,9 @@
 
 # 02 答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202408191049882.png" alt="image-20240819104944752" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202408191425050.png" alt="image-20240819142430986" style="zoom:50%;" />
+
+
 
 # 03 视频
 
