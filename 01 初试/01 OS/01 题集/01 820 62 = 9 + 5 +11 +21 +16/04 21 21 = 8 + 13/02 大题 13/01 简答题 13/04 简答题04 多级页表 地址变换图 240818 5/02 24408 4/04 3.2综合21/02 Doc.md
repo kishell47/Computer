@@ -6,10 +6,16 @@
 
 # 02 答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202408230903640.png" alt="image-20240823090354180" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202408231849680.png" alt="image-20240823184911439" style="zoom:50%;" />
 
 
 
-# 03 视频
+# 03 视频消化
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202408221644596.png" alt="image-20240822164444223" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202408231834548.png" style="zoom:50%;" />
+
+
+
+# 04 视频
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202408231053230.png" alt="image-20240823105355848" style="zoom:50%;" />
