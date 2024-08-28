@@ -1,13 +1,13 @@
-# 背诵
+# 00 背诵
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202408280946926.png" alt="image-20240828094617652" style="zoom:50%;" />
+
+# 01 题目
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401202047012.png" alt="image-20240120204734913" style="zoom: 50%;" />
 
 
 
-# 题目
-
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202401202047012.png" alt="image-20240120204734913" style="zoom: 67%;" />
-
-
-
-# 视频解析
+# 03 视频
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402181340021.png" alt="image-20240218134018807" style="zoom:50%;" />
