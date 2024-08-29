@@ -4,13 +4,13 @@
 
 # 01 题目
 
-![image-20240829104557211](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240829104557211.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202408291050404.png" style="zoom:50%;" />
 
 
 
 # 02 答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202408282229561.png" alt="image-20240828222939426" style="zoom:50%;" />
+
 
 
 
@@ -18,4 +18,3 @@
 
 # 03 视频
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402181340021.png" alt="image-20240218134018807" style="zoom:50%;" />
