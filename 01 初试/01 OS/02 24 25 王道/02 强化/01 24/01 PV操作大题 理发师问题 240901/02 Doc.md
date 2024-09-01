@@ -10,4 +10,4 @@
 
 # 02 代表性 理发师问题 课后习题
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202409011151352.png" alt="image-20240901115101274" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202409011236391.png" alt="image-20240901123615215" style="zoom:50%;" />
