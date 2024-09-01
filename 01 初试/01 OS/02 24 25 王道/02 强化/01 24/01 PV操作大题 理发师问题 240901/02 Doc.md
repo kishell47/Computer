@@ -11,3 +11,9 @@
 # 02 代表性 理发师问题 课后习题
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202409011530836.png" alt="image-20240901153012501" style="zoom:50%;" />
+
+
+
+# 03 代码实现 顾客取号 服务人员叫号
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202409011616453.png" alt="image-20240901161621361" style="zoom:50%;" />
