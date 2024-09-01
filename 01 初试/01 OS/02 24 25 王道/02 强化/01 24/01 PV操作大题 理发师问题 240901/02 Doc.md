@@ -4,7 +4,7 @@
 
 # 01 理发师问题 vs 生产者消费者问题
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240901105331686.png" alt="image-20240901105331686" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202409011104784.png" style="zoom:50%;" />
 
 
 
