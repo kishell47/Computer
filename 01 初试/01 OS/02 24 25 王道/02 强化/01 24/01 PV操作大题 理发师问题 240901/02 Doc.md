@@ -14,6 +14,6 @@
 
 
 
-# 03 代码实现 顾客取号 服务人员叫号
+# 03 代码实现
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202409011733066.png" alt="image-20240901173339833" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202409012159864.png" style="zoom:50%;" />
