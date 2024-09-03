@@ -4,8 +4,6 @@
 
 
 
-
-
 # 03 视频
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202409030946566.png" alt="image-20240903094657259" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202409031547263.png" alt="image-20240903154754818" style="zoom:50%;" />
