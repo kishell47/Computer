@@ -20,5 +20,6 @@
 
 
 
+# 04 理发师问题 总结
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202409072141968.png" alt="image-20240907214145874" style="zoom:50%;" />
