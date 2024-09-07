@@ -12,4 +12,4 @@
 
 # 03 视频
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202409071143575.png" alt="image-20240907114342296" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202409071532760.png" alt="image-20240907153205429" style="zoom:50%;" />
