@@ -10,3 +10,4 @@
 
 # 02 2.3 PV操作 课后大题
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202411022223351.png" alt="image-20241102222349145" style="zoom:50%;" />
