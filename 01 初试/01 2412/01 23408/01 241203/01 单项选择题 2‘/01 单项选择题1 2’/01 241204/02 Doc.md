@@ -6,13 +6,7 @@
 
 # 02 视频消化
 
-
-
-
-
-
-
-
+<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241204181546930.png" alt="image-20241204181546930" style="zoom:50%;" />
 
 
 
