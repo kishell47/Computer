@@ -1,6 +1,6 @@
 # 01 题目
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241205113516489.png" alt="image-20241205113516489" style="zoom:80%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202412111754272.png" style="zoom: 67%;" />
 
 
 
@@ -8,4 +8,4 @@
 
 # 02 答案
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241205121631327.png" alt="image-20241205121631327" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202412111755332.png" alt="image-20241211175519289" style="zoom:50%;" />
