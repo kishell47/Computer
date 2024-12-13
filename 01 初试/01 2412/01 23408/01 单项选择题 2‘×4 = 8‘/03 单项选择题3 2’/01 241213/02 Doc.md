@@ -8,7 +8,7 @@
 
 # 02 答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202412132157383.png" alt="image-20241213215706231" style="zoom:50%;" />
+<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241213221608018.png" alt="image-20241213221608018" style="zoom:50%;" />
 
 
 
