@@ -12,6 +12,4 @@
 
 # 02 答案
 
-
-
-# 03 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202412141736540.png" alt="image-20241214173543972" style="zoom:50%;" />
