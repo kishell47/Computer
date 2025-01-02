@@ -12,7 +12,7 @@
 
 # 02 试卷答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501011312338.png" alt="image-20250101131209012" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501021115573.png" alt="image-20250102111529341" style="zoom:50%;" />
 
 
 
