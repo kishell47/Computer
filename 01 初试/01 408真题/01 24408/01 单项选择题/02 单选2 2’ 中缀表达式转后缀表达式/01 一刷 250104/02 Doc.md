@@ -22,3 +22,4 @@
 
 # 04 视频文字
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501041805058.png" alt="image-20250104180509771" style="zoom:50%;" />
