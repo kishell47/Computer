@@ -1,28 +1,12 @@
-# 00 背诵
-
-
-
-
-
 # 01 题目
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501042101538.png" alt="image-20250104210134494" style="zoom:50%;" />
 
 
 
+# 02 视频笔记
 
-# 02 答案
-
-
-
-
-
-
-
-# 02 视频消化
-
-
-
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501042059800.png" alt="image-20250104205917609" style="zoom:50%;" />
 
 
 
