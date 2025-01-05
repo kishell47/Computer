@@ -6,3 +6,4 @@
 
 # 02 答案
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501050854025.png" alt="image-20250105085419808" style="zoom:50%;" />
