@@ -6,6 +6,8 @@
 
 # 02 视频消化
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501061425281.png" style="zoom:50%;" />
+
 
 
 # 03 视频图片
