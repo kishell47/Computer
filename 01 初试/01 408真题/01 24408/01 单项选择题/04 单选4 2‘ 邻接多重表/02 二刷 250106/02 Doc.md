@@ -6,5 +6,4 @@
 
 # 02 答案
 
-![image-20250106092433872](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250106092433872.png)
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501060935960.png" style="zoom:50%;" />
