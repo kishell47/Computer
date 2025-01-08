@@ -1,8 +1,12 @@
 # 01 题目
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501081747684.png" style="zoom: 50%;" />
+
 
 
 # 02 视频消化
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501082006715.png" alt="image-20250108200641568" style="zoom: 50%;" />
 
 
 
