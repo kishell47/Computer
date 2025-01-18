@@ -6,7 +6,7 @@
 
 # 02 知识点
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501181626953.png" alt="image-20250118162608178" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501190142147.png" alt="image-20250119014234360" style="zoom:50%;" />
 
 
 
