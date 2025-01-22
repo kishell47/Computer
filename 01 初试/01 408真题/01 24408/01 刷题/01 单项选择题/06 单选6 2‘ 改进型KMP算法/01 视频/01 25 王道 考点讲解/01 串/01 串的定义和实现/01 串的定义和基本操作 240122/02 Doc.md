@@ -2,9 +2,9 @@
 
 
 
-# 01 知识总览
+# 01 串的定义和基本操作 知识总览
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501221516827.png" alt="image-20250122151607739" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501221821757.png" alt="image-20250122182121692" style="zoom:50%;" />
 
 
 
