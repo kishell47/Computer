@@ -39,3 +39,11 @@
 
 
 # 07 拓展：乱码问题
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501221809281.png" alt="image-20250122180900205" style="zoom:50%;" />
+
+
+
+# 08 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501221814858.png" alt="image-20250122181452801" style="zoom:50%;" />
