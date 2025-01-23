@@ -22,7 +22,7 @@
 
 # 04 串的基本操作
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501221615138.png" alt="image-20250122161536046" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501240110643.png" alt="image-20250124011029546" style="zoom:50%;" />
 
 
 
