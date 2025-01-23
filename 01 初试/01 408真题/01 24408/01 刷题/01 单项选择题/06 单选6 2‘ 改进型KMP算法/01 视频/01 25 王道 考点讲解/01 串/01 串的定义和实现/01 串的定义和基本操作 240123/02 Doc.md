@@ -34,7 +34,7 @@
 
 # 06 字符集编码
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501221731924.png" alt="image-20250122173110786" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501240126154.png" alt="image-20250124012613004" style="zoom:50%;" />
 
 
 
