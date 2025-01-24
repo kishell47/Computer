@@ -16,3 +16,12 @@
 
 # 03 朴素模式匹配算法
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501241411702.png" alt="image-20250124141143514" style="zoom:50%;" />
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501241530732.png" alt="image-20250124153052551" style="zoom:50%;" />
+
+
+
+# 04 知识回顾与重要考点
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501241535317.png" alt="image-20250124153501262" style="zoom:50%;" />
