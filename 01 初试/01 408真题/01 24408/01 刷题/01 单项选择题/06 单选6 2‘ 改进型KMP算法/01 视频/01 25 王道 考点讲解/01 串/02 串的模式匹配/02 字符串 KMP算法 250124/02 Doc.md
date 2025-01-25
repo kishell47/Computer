@@ -10,7 +10,7 @@
 
 # 02 KMP算法
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250122034615200.png" alt="image-20250122034615200" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501251845808.png" alt="image-20250125184525736" style="zoom:50%;" />
 
 
 
@@ -45,3 +45,29 @@
 
 
 # 08 改造一哈例子
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501251853995.png" alt="image-20250125185352704" style="zoom:50%;" />
+
+
+
+# 09 怎么用代码实现这个处理逻辑
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501251905049.png" alt="image-20250125190446782" style="zoom:50%;" />
+
+
+
+# 10 KMP算法
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501251922936.png" alt="image-20250125192243786" style="zoom:50%;" />
+
+
+
+# 11 朴素模式匹配 v.s. KMP算法
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501251939674.png" alt="image-20250125193950550" style="zoom:50%;" />
+
+
+
+# 12 KMP算法
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501251945779.png" alt="image-20250125194547682" style="zoom:50%;" />
