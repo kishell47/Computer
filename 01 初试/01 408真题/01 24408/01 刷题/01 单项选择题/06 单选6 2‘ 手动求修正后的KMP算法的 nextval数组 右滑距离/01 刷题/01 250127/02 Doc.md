@@ -1,6 +1,6 @@
 # 01 知识点
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501270323523.png" alt="image-20250127032301263" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202501270342044.png" alt="image-20250127034210916" style="zoom:50%;" />
 
 # 02 题目
 
