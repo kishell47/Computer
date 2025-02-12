@@ -18,3 +18,4 @@
 
 # 04 构造初始“归并段”
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202502121523650.png" alt="image-20250212152317466" style="zoom:50%;" />
