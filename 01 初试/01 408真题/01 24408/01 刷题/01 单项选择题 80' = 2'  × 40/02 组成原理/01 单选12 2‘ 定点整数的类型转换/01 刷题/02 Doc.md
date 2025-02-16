@@ -1,6 +1,6 @@
 # 01 知识点
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202502161309486.png" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202502170318630.png" alt="image-20250217031853508" style="zoom:50%;" />
 
 
 
@@ -12,4 +12,4 @@
 
 # 03 刷题
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202502161309547.png" alt="image-20250216130932470" style="zoom: 50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202502170320955.png" alt="image-20250217032048882" style="zoom:50%;" />
