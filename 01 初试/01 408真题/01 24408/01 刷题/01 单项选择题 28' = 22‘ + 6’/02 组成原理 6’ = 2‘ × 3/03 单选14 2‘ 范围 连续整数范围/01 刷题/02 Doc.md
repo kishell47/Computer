@@ -1,6 +1,6 @@
 # 01 知识点
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202503022125540.png" alt="image-20250302212530334" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202503022225903.png" alt="image-20250302222534724" style="zoom:50%;" />
 
 
 
