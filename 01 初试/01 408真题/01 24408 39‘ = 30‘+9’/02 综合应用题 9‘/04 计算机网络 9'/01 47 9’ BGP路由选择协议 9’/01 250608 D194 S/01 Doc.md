@@ -10,7 +10,13 @@
 
 
 
-# 02 答案
+# 02 答题卡答案
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202506080923608.png" alt="image-20250608092341326" style="zoom:50%;" />
+
+
+
+# 03 答案
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202506072004009.png" alt="image-20250607200450725" style="zoom:50%;" />
 
