@@ -14,6 +14,5 @@
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202508311651409.png" style="zoom:50%;" />
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202502171324692.png" alt="image-20250217132345069" style="zoom:50%;" />
 
 
