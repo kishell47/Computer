@@ -4,11 +4,7 @@
 
 
 
-# 02 视频图片
+# 02 视频解析
 
-
-
-
-
-# 03 视频文字
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202509132335144.png" alt="image-20250913233540971" style="zoom:50%;" />
 
