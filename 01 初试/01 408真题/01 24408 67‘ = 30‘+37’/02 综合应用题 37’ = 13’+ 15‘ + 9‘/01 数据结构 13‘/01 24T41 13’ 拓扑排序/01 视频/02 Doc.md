@@ -18,4 +18,22 @@
 
 # 04 流程图做题法
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202509140846008.png" alt="image-20250914084628868" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202509141110299.png" alt="image-20250914111001150" style="zoom:50%;" />
+
+
+
+# 05 答案详解1
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202509141202926.png" alt="image-20250914120227666" style="zoom:50%;" />0
+
+
+
+# 06 答案详解2
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202509141220105.png" alt="image-20250914122008980" style="zoom:50%;" />
+
+
+
+# 07 改编：邻接表表示
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202509141402369.png" alt="image-20250914140254247" style="zoom:50%;" />
