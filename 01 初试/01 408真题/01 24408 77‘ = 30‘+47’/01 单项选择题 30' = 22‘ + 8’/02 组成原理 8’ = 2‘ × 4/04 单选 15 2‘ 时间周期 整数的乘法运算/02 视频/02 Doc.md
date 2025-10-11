@@ -6,6 +6,6 @@
 
 
 
-# 02 视频解析
+# 02 答案详解
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202506091105930.png" alt="image-20250609110512705" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202510111006467.png" alt="image-20251011100640235" style="zoom:50%;" />
