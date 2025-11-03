@@ -1,6 +1,6 @@
 # 01 题目
 
-![image-20251103151234363](https://cvp.oss-cn-shanghai.aliyuncs.com/202511031512444.png)
+<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20251103151537897.png" alt="image-20251103151537897" style="zoom:50%;" />
 
 
 
