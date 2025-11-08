@@ -13,3 +13,9 @@
 # 03 答案解析
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202510182126077.png" alt="image-20251018212623394" style="zoom:50%;" />
+
+
+
+# 04 分析题目
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202511081826147.png" alt="image-20251108182605032" style="zoom:50%;" />
