@@ -16,6 +16,12 @@
 
 
 
-# 04 分析题目
+# 04 RISC-V 3种指令解析
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202511081826147.png" alt="image-20251108182605032" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202511091239871.png" alt="image-20251109123933602" style="zoom:50%;" />
+
+
+
+# 05 分析题目 (1)
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202511091250653.png" alt="image-20251109124955348" style="zoom:50%;" />
