@@ -31,3 +31,9 @@
 # 06 分析题目（2）
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202511161124703.png" alt="image-20251116112435398" style="zoom:50%;" />
+
+
+
+# 07 分析题目 （3）
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202511161145588.png" alt="image-20251116114523477" style="zoom:50%;" />
