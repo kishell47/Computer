@@ -30,4 +30,4 @@
 
 # 06 分析题目（2）
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202511152008260.png" alt="image-20251115200853000" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202511161124703.png" alt="image-20251116112435398" style="zoom:50%;" />
