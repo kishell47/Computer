@@ -1,3 +1,9 @@
+# 00 背诵
+
+![image-20251117161108500](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20251117161108500.png)
+
+
+
 # 01 题目
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202510132131148.png" alt="image-20251013213119067" style="zoom:50%;" />
