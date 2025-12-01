@@ -4,11 +4,9 @@
 
 
 
-
-
 # 02 答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202511301827979.png" alt="image-20251130182744896" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202512011632883.png" alt="image-20251201163216802" style="zoom:50%;" />
 
 
 
