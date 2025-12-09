@@ -6,4 +6,4 @@
 
 # 02 答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202512091542701.png" alt="image-20251209154206927" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202512091617422.png" alt="image-20251209161752319" style="zoom:50%;" />
