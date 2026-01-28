@@ -1,9 +1,3 @@
-# 00 背诵
-
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202601201029644.png" alt="image-20260120102902723" style="zoom:50%;" />
-
-
-
 # 01 题目
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202511070758093.png" alt="image-20251107075845986" style="zoom:50%;" />
@@ -46,5 +40,12 @@
 
 
 
-# 08 分析题目 （4）
+# 08 分析题目（4）
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202601281554425.png" alt="image-20260128155426248" style="zoom:50%;" />
+
+
+
+# 09 分析题目（5）
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202601281555248.png" alt="image-20260128155503143" style="zoom:50%;" />
