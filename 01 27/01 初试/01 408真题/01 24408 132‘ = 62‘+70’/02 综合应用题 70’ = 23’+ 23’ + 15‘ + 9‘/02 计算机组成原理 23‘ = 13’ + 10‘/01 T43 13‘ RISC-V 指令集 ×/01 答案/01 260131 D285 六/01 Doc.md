@@ -42,10 +42,10 @@
 
 # 08 分析题目（4）
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202601281554425.png" alt="image-20260128155426248" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202601301130531.png" alt="image-20260130113020388" style="zoom:50%;" />
 
 
 
 # 09 分析题目（5）
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202601281555248.png" alt="image-20260128155503143" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202601301133408.png" alt="image-20260130113306251" style="zoom:50%;" />
