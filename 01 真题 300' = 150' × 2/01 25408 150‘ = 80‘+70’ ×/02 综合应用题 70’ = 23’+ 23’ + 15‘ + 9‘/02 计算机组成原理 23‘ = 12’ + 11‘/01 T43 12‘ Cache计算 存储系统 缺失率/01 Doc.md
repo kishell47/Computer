@@ -10,9 +10,13 @@
 
 
 
-# 03 答案解析
+# 03 视频图片
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202606202014554.png" alt="image-20260620201403024" style="zoom:50%;" />
 
 
 
+# 04 视频文字
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202606211428311.png" alt="image-20260621142806949" style="zoom:50%;" />
 
